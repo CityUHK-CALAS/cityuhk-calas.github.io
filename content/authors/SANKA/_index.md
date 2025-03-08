@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abdurrashid Ibrahim SANKA
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Abdurrashid
+last_name: SANKA
 
 # Is this the primary user of the site?
-superuser: true
+superuser: False
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: City Unverisity of Hong Kong
+    url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain Technology
+  - Systems design and developments with FPGA
+  - Hardware and Information Security
+  - Embedded systems developments
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Electrical Engineering
+      institution: City University of Hong Kong
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Embedded Microelectronics and Wireless Systems
+      institution: Coventry University
+      year: 2014
+    - course: BSc in Electrical Engineering
+      institution: Bayero University
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,13 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:hkabdulsanka@gmail.com'
   - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: blockchain
+    link: https://scholar.google.com.hk/citations?user=whCxzGgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -69,9 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Current Team
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Abdurrashid SANKA hailed from Kano State, Nigeria. He received his B.Eng Electrical (first class) in the Department of Electrical Engineering, Bayero University, Kano in 2011. He then got his master degree in Embedded Microelectronics and Wireless Systems from Coventry University, United Kingdom (UK) in 2014. He works as a lecturer at Bayero University, Kano since 2012. Dr. Sanka joined the CALAS group in 2017 for his Ph.D. in the Department of Electrical Engineering, City University of Hong Kong, and he received his Ph.D. degree in 2022.
