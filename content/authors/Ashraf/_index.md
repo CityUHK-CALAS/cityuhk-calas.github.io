@@ -41,7 +41,7 @@ social:
     link: 'mailto:mabdelgaw2-c@my.cityu.edu.hk'
   - icon: orcid
     icon_pack: ai
-    link: https://github.com/GavinLIgy
+    link: https://orcid.org/0009-0003-8285-3516
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

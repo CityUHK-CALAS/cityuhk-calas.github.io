@@ -49,9 +49,9 @@ social:
   - icon: google-scholar
     icon_pack: blockchain
     link: https://scholar.google.com.hk/citations?user=whCxzGgAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1664-5108
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
