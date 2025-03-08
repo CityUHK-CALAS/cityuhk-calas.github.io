@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Blockchain Technology
@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: City University of Hong Kong
-      year: 2012
+      year: 2017
     - course: MEng in Embedded Microelectronics and Wireless Systems
       institution: Coventry University
       year: 2014
