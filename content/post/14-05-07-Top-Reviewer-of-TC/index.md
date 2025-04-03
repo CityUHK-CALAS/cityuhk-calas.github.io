@@ -2,7 +2,9 @@
 title: Top Reviewer of TC，Congrats to Dr. Ray Cheung !
 date: 2014-05-07
 image:
+  src: featured.jpg
   focal_point: 'top'
+  preview_only: true
 ---
 
 
