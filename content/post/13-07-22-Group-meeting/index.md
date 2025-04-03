@@ -2,9 +2,6 @@
 title: Private: Secure Processor – TRNG ppt (Group Meeting 22 July 2013)
 date: 2013-07-22
 
-_build:
-  render: always
-  list: never
 ---
 
 
