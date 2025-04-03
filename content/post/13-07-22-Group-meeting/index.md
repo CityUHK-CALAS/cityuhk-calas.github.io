@@ -5,7 +5,6 @@ date: 2013-07-22
 ---
 
 
-
 <!--more-->
 
 Dear Teammates,
@@ -20,4 +19,4 @@ Best regards
 
 Arthur Chung
 
-[Presentation](Presentation.ppt)
+[Download PDF](document.pdf)
