@@ -1,5 +1,5 @@
 ---
-title: My paper titled as “Z-TCAM: An SRAM-based Architecture for TCAM” has been accepted for publication in the IEEE TVLSI
+title: My paper titled as “Z-TCAM - An SRAM-based Architecture for TCAM” has been accepted for publication in the IEEE TVLSI
 date: 2014-02-25
 ---
 
