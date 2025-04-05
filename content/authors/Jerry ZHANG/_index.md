@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zekai ZHANG
+title: Jerry
 
 # Full Name (for SEO)
 first_name: Zekai
@@ -62,4 +62,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Zekai Zhang received his B.Eng degree from University College London (UCL) in UK. He is a visiting student studying Electronic and Electrical Engineering since June 2021 in the CALAS group, and he is now a Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.
+Mr. Zekai Zhang(Jerry ZHANG) received his B.Eng degree from University College London (UCL) in UK. He is a visiting student studying Electronic and Electrical Engineering since June 2021 in the CALAS group, and he is now a Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.

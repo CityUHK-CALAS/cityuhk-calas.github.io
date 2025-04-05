@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qingping SUN
+title: SUN
 
 # Full Name (for SEO)
 first_name: Qingping

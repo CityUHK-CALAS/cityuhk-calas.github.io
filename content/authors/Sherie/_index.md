@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shiyu SHEN
+title: Sherie
 
 # Full Name (for SEO)
 first_name: Shiyu
@@ -67,4 +67,4 @@ user_groups:
   - Post-doctoral Fellow
 ---
 
-Dr. Shiyu SHEN received her Ph.D. degree in 2024 in the School of Computer Science, Fudan University.
+Dr. Shiyu SHEN(Sherie) received her Ph.D. degree in 2024 in the School of Computer Science, Fudan University.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abdurrashid Ibrahim SANKA
+title: SANKA
 
 # Full Name (for SEO)
 first_name: Abdurrashid
@@ -70,4 +70,4 @@ user_groups:
   - Post-doctoral Fellow
 ---
 
-Dr. Abdurrashid SANKA hailed from Kano State, Nigeria. He received his B.Eng Electrical (first class) in the Department of Electrical Engineering, Bayero University, Kano in 2011. He then got his master degree in Embedded Microelectronics and Wireless Systems from Coventry University, United Kingdom (UK) in 2014. He works as a lecturer at Bayero University, Kano since 2012. Dr. Sanka joined the CALAS group in 2017 for his Ph.D. in the Department of Electrical Engineering, City University of Hong Kong, and he received his Ph.D. degree in 2022.
+Dr. Abdurrashid Ibrahim SANKA hailed from Kano State, Nigeria. He received his B.Eng Electrical (first class) in the Department of Electrical Engineering, Bayero University, Kano in 2011. He then got his master degree in Embedded Microelectronics and Wireless Systems from Coventry University, United Kingdom (UK) in 2014. He works as a lecturer at Bayero University, Kano since 2012. Dr. Sanka joined the CALAS group in 2017 for his Ph.D. in the Department of Electrical Engineering, City University of Hong Kong, and he received his Ph.D. degree in 2022.

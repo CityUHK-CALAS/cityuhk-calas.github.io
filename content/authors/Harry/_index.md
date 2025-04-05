@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhuoheng RAN
+title: Harry
 
 # Full Name (for SEO)
 first_name: Zhuoheng
@@ -68,4 +68,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Zhuoheng RAN received his B.Eng. degree in Electronic Information Engineering from Tiangong University, Tianjin, China in 2021. Then, he received his master degree in Electronic Engineering from the School of Electronics and Computer Science (ECS), University of Southampton, United Kingdom in 2022. He has worked as a Research Assistant and is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, China from 2023, under the supervision of Prof. Hong YAN and Prof. Ray C. C. Cheung.
+Mr. Zhuoheng RAN(Harry) received his B.Eng. degree in Electronic Information Engineering from Tiangong University, Tianjin, China in 2021. Then, he received his master degree in Electronic Engineering from the School of Electronics and Computer Science (ECS), University of Southampton, United Kingdom in 2022. He has worked as a Research Assistant and is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, China from 2023, under the supervision of Prof. Hong YAN and Prof. Ray C. C. Cheung.

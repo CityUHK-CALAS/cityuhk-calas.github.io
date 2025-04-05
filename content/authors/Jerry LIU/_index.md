@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jierui LIU
+title: Jerry
 
 # Full Name (for SEO)
 first_name: Jierui
@@ -59,4 +59,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. LIU Jierui received her B.Sc from the Department of Electrical Engineering, City University of Hong Kong. She is the recipient of the CityU Mainland Full Tuition Scholarship. She has a great passion for FPGA technologies and is a member of the CALAS group.
+Miss. LIU Jierui(Jerry LIU) received her B.Sc from the Department of Electrical Engineering, City University of Hong Kong. She is the recipient of the CityU Mainland Full Tuition Scholarship. She has a great passion for FPGA technologies and is a member of the CALAS group.

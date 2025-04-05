@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanlong HUANG
+title: Leo
 
 # Full Name (for SEO)
 first_name: Yanlong
@@ -64,4 +64,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr.Huang Yanlong received the B.Sc degree in 2017 and M.Sc degree in 2019 in Electrical Engineering major from University of Massachusetts Lowell (UMASS Lowell), Boston, USA. He then started to work as an Electrical Engineer in Hudson Light & Power in Boston. After gaining more experience and would like to dig deeper in the Digital Circuit Design area, he received his second M.Sc degree in Integrated Circuit Design Engineering (ICDE) in Sept.2022 in Hong Kong University of Science and Technology (HKUST). He is now a Ph.D. Candidate supervised by Dr. Ray C. C. Cheung in the Department of Electrical Engineering, City University of Hong Kong(CityU).
+Mr.Huang Yanlong(Leo) received the B.Sc degree in 2017 and M.Sc degree in 2019 in Electrical Engineering major from University of Massachusetts Lowell (UMASS Lowell), Boston, USA. He then started to work as an Electrical Engineer in Hudson Light & Power in Boston. After gaining more experience and would like to dig deeper in the Digital Circuit Design area, he received his second M.Sc degree in Integrated Circuit Design Engineering (ICDE) in Sept.2022 in Hong Kong University of Science and Technology (HKUST). He is now a Ph.D. Candidate supervised by Dr. Ray C. C. Cheung in the Department of Electrical Engineering, City University of Hong Kong(CityU).

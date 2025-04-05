@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhewen ZHANG
+title: Candice
 
 # Full Name (for SEO)
 first_name: Zhewen
@@ -58,4 +58,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. ZHANG Zhewen received the B.Eng degree in 2020 from Harbin Institute of Technology, Harbin. She is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.
+Miss. ZHANG Zhewen(Candice) received the B.Eng degree in 2020 from Harbin Institute of Technology, Harbin. She is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.

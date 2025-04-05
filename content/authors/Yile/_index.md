@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yile XING
+title: Yile
 
 # Full Name (for SEO)
 first_name: Yile
@@ -65,4 +65,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. Yile XING received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU). She is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.
+Miss. Yile XING(Yile) received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU). She is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.

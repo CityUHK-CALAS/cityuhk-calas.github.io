@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shengzhe LYU
+title: Simon
 
 # Full Name (for SEO)
 first_name: Shengzhe
@@ -65,4 +65,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Lyu received his dual bachelor’s degree in 2023. He obtained B.Sc degree in Electronics Engineering from KU Leuven (KUL), Belgium, and B.Eng degree in Microelectronics Science and Engineering from South China University of Technology (SCUT), China. He is now a Ph.D. student in the Department of Computer Science, City University of Hong Kong, supervised by Prof. Weitao Xu and Prof. Ray C. C. Cheung.
+Mr. Shengzhe LYU (Simon) received his dual bachelor’s degree in 2023. He obtained B.Sc degree in Electronics Engineering from KU Leuven (KUL), Belgium, and B.Eng degree in Microelectronics Science and Engineering from South China University of Technology (SCUT), China. He is now a Ph.D. student in the Department of Computer Science, City University of Hong Kong, supervised by Prof. Weitao Xu and Prof. Ray C. C. Cheung.

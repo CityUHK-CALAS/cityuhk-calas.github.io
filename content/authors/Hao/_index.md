@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hao YANG
+title: Hao
 
 # Full Name (for SEO)
 first_name: Hao
@@ -67,4 +67,4 @@ user_groups:
   - Post-doctoral Fellow
 ---
 
-Dr. Hao YANG received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.
+Dr. Hao YANG(Hao) received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.

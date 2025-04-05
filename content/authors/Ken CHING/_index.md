@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ken C.H CHING
+title: Ken
 
 # Full Name (for SEO)
 first_name: Ken
@@ -65,3 +65,5 @@ user_groups:
 Ken Ching is the 4th Guangdong-Hong Kong-Macao Greater Bay Area Outstanding Young Entrepreneur. He holds a master degree in Information Technology from the Hong Kong University of Science and Technology (HKUST). Ken was a former Software Engineer in eBay Classified Group responding to APAC platform development. Ken began his entrepreneurial journey in 2014 when he founded his first startup. Since then, he has founded several other successful startups in various industries, including transportation, e-commerce, and F&B.
 
 In 2017, Ken founded LocoBike intending to provide a convenient and affordable bike-sharing service to the people of Hong Kong. Under his leadership, LocoBike has become one of the most popular bike-sharing brands in Hong Kong, with a strong focus on promoting micro-mobility as a healthy and eco-friendly means of transportation in urban areas. The company has introduced innovative features such as AIoT and ML technologies to enhance the user experience and ensure the safety of its bicycles.
+
+Mr. Ken C.H CHING received the B.Eng. degree in Computer Engineering and M.Sc degree in Information Technology from Hong Kong University of Technology, Hong Kong, China, in 2007 and 2011, respectively. He is currently pursuing his Ph.D. degree in the department of Electrical and Electronic Engineering, The City University of Hong Kong, Hong Kong.

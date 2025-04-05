@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangyan LI
+title: Gavin
 
 # Full Name (for SEO)
 first_name: Guangyan
@@ -66,4 +66,4 @@ user_groups:
   - Post-doctoral Fellow
 ---
 
-Dr. Guangyan LI received the Ph.D. degree in 2025 from the Department of Electrical Engineering, City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung. He was a research assistant at the LIRMM in Montpellier, France in 2019.  He was a research-based FYP student under the supervision of Prof. Ray C. C. Cheung. He received the B.Eng degree in 2020 from the Department of Electrical Engineering, City University of Hong Kong.
+Dr. Guangyan LI(Gavin) received the Ph.D. degree in 2025 from the Department of Electrical Engineering, City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung. He was a research assistant at the LIRMM in Montpellier, France in 2019.  He was a research-based FYP student under the supervision of Prof. Ray C. C. Cheung. He received the B.Eng degree in 2020 from the Department of Electrical Engineering, City University of Hong Kong.

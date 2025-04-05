@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shutong JIN
+title: Claire
 
 # Full Name (for SEO)
 first_name: Shutong
@@ -59,4 +59,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss Shutong JIN received her B.Eng degree from Department of Electrical Engineering, City University of Hong Kong in 2020. She is now a Ph.D. candidate supervised by Prof. Ray C. C. Cheung.
+Miss Shutong JIN(Claire) received her B.Eng degree from Department of Electrical Engineering, City University of Hong Kong in 2020. She is now a Ph.D. candidate supervised by Prof. Ray C. C. Cheung.

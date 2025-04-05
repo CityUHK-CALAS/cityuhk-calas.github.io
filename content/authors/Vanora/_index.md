@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoyu WANG
+title: Vanora
 
 # Full Name (for SEO)
 first_name: Haoyu
@@ -57,4 +57,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. WANG Haoyu received her B.Eng degree in microelectronics of science and engineering from SUSTech, Shenzhen, in 2023. She is now a Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung and Dr. Ngai Wong.
+Miss. WANG Haoyu(Vanora) received her B.Eng degree in microelectronics of science and engineering from SUSTech, Shenzhen, in 2023. She is now a Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung and Dr. Ngai Wong.

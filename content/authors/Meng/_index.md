@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinmin MENG
+title: Meng
 
 # Full Name (for SEO)
 first_name: Xinmin
@@ -60,4 +60,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Meng received his BEng in Electronic and Communication Engineering from City University of Hong Kong in 2023. He is now a PhD student co-supervised by Prof. Ray C. C. Cheung and Prof. Hong Yan in the Department of Electrical Engineering, City University of Hong Kong.
+Mr. Xinmin MENG (Meng) received his BEng in Electronic and Communication Engineering from City University of Hong Kong in 2023. He is now a PhD student co-supervised by Prof. Ray C. C. Cheung and Prof. Hong Yan in the Department of Electrical Engineering, City University of Hong Kong.

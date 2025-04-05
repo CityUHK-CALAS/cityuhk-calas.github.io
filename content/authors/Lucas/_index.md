@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zewen YE
+title: Lucas
 
 # Full Name (for SEO)
 first_name: Zewen
@@ -60,4 +60,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Lucas Zewen Ye received his bachelor's degree in microelectronics science and engineering from Zhejiang University (ZJU) in 2020.He is currently pursuing the joint Ph.D.degree at the Intelligent Security and Ubiquitous Computing Lab (ISUC),Zhejiang University (ZJU) and the CityU Architecture Lab for Arithmetic and Security (CALAS), City University of Hong Kong (CityU), advised by Dr. Kejie Huang and Prof. Ray C. C. Cheung.
+Mr. Zewen YE(Lucas) received his bachelor's degree in microelectronics science and engineering from Zhejiang University (ZJU) in 2020.He is currently pursuing the joint Ph.D.degree at the Intelligent Security and Ubiquitous Computing Lab (ISUC),Zhejiang University (ZJU) and the CityU Architecture Lab for Arithmetic and Security (CALAS), City University of Hong Kong (CityU), advised by Dr. Kejie Huang and Prof. Ray C. C. Cheung.

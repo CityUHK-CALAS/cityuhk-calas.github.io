@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peng JING
+title: Jimmy
 
 # Full Name (for SEO)
 first_name: Peng
@@ -62,4 +62,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr JING Peng received his B.Eng degree from the school of Microelectronics, Tianjin University (TJU), Tianjin in 2020. Then he received his master degree in TJU in 2023. He is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong supervised by Prof. Yan Hong and Prof. Ray C. C. Cheung.
+Mr JING Peng(Jimmy) received his B.Eng degree from the school of Microelectronics, Tianjin University (TJU), Tianjin in 2020. Then he received his master degree in TJU in 2023. He is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong supervised by Prof. Yan Hong and Prof. Ray C. C. Cheung.

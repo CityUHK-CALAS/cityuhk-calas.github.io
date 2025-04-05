@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fengzhi CAI
+title: Fred
 
 # Full Name (for SEO)
 first_name: Fengzhi
@@ -65,4 +65,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. CAI received his BEng in Electronic Information Science and Technology at the South China Normal University in 2019. He is currently a master student in Electronic Information Engineering at the Department of Electrical Engineering, City University of Hong Kong. He is a member of the CALAS group and under the supervision of Dr. Ray C.C. CHEUNG.
+Mr. CAI(Fred) received his BEng in Electronic Information Science and Technology at the South China Normal University in 2019. He is currently a master student in Electronic Information Engineering at the Department of Electrical Engineering, City University of Hong Kong. He is a member of the CALAS group and under the supervision of Dr. Ray C.C. CHEUNG.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Muhammad Ashraf
+title: Ashraf
 
 # Full Name (for SEO)
 first_name: Muhammad

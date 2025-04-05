@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junshen SHI
+title: Ash
 
 # Full Name (for SEO)
 first_name: Junshen
@@ -69,4 +69,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. Yile XING received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU). She is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.
+Mr. Junshen SHI(Ash) received his B.Eng. degree in Computer Science from Nanjing University of Science and Technology in 2023. He also holds an M.Sc. in Multimedia Information Technology from City University of Hong Kong, where he is currently pursuing a Ph.D. in the Department of Electrical Engineering.

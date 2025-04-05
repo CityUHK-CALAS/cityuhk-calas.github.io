@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jialin LIU
+title: Camilla
 
 # Full Name (for SEO)
 first_name: Jialin
@@ -70,4 +70,4 @@ user_groups:
   - PhD Students
 ---
 
-Miss. Jialin LIU received B.Eng degree in Computer Science from Northwestern Polytechnical University, China, in 2020. Then, she received M.Eng degree in Computer Science from Xi’an Jiaotong University, China, in 2023. She also received the M.Comp degree in Artificial Intelligence from National University of Singapore(NUS), Singapore, in 2024. She is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong supervised by Prof. Ray C. C. Cheung.
+Miss. Jialin LIU(Camilla) received B.Eng degree in Computer Science from Northwestern Polytechnical University, China, in 2020. Then, she received M.Eng degree in Computer Science from Xi’an Jiaotong University, China, in 2023. She also received the M.Comp degree in Artificial Intelligence from National University of Singapore(NUS), Singapore, in 2024. She is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong supervised by Prof. Ray C. C. Cheung.

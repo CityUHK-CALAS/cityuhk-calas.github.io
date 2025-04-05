@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhan SHE
+title: Henry
 
 # Full Name (for SEO)
 first_name: Yuhan
@@ -59,4 +59,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Yuhan SHE received his bachelor’s degree from Zhejiang University (ZJU) majoring in Electrical Engineering in 2021. He is now a Ph.D. student at the City University of Hong Kong supervised by Prof. Yan Hong and Prof. Ray.
+Mr. Yuhan SHE(Henry) received his bachelor’s degree from Zhejiang University (ZJU) majoring in Electrical Engineering in 2021. He is now a Ph.D. student at the City University of Hong Kong supervised by Prof. Yan Hong and Prof. Ray.

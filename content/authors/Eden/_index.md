@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xudong ZHAO
+title: Eden
 
 # Full Name (for SEO)
 first_name: Xudong
@@ -60,4 +60,4 @@ user_groups:
   - PhD Students
 ---
 
-Xudong ZHAO graduated from the CityUHK EE department in 2024 with an MSc in Electronic Information Engineering. Since 2021, he has worked as an Embedded Development Engineer and project development representative at Nanjing MOVELASER Co., Ltd., an incubated company of Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences. His work focused on laser wind lidar systems for wind power, meteorology, and aerospace applications. During his graduate studies, he explored AI technologies and interned at Sengital Limited in the AIoT field. He began his Ph.D. studies in 2024/25 at CityUHK.
+Mr. Xudong ZHAO(Eden) graduated from the CityUHK EE department in 2024 with an MSc in Electronic Information Engineering. Since 2021, he has worked as an Embedded Development Engineer and project development representative at Nanjing MOVELASER Co., Ltd., an incubated company of Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences. His work focused on laser wind lidar systems for wind power, meteorology, and aerospace applications. During his graduate studies, he explored AI technologies and interned at Sengital Limited in the AIoT field. He began his Ph.D. studies in 2024/25 at CityUHK.
