@@ -1,5 +1,5 @@
 ---
-title: Good News: $1.4M Funding for ITF Project
+title: Good News - $1.4M Funding for ITF Project
 date: 2019-12-24
 image:
   src: featured.jpg
