@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-  – Natural Language Processing (NLP)
-  – Machine Learning
-  – Generative AI
+  - Natural Language Processing (NLP)
+  - Machine Learning
+  - Generative AI
 
 education:
   courses:
