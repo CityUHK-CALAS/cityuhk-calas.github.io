@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        CityUHK Architecture Lab
+        for Arithmetic and Security
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Security-aware systems require sophisticated System-on-Chip (SoC) technology involving high performance embedded microprocessors and reconfigurable hardware such as Field-Programmable Gate Array (FPGA). The proposed CALAS studies and invents new approaches to design and to implement security-aware systems with the consideration of time-area, performance-security, and energy-cost tradeoffs. The proposed research includes security-aware hardware such as microprocessors with security-related custom-instructions, robust datapath designs, multi-core security, and secure embedded systems.
   
   - block: collection
     content:
