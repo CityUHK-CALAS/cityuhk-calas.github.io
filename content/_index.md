@@ -17,34 +17,33 @@ sections:
       title: Research Interests
       text:
       items:
-      # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-        - icon: reconfigurable-trusted-computing
+        - icon: risc-v-software-hardware-co-design
           icon_pack: custom
-          name: Reconfigurable Trusted Computing
-          description:
-        - icon: vlsi-and-fpga-circuit-design
-          icon_pack: custom
-          name: VLSI and FPGA Circuit Design
-          description:
-        - icon: memory-architecture-design
-          icon_pack: custom
-          name: Memory Architecture Design
+          name: RISC-V Software/Hardware Co-Design
           description:
         - icon: cryptographic-hardware-and-algorithms
           icon_pack: custom
           name: Cryptographic Hardware and Algorithms
           description:
+        - icon: vlsi-and-fpga-circuit-design
+          icon_pack: custom
+          name: VLSI and FPGA Circuit Design
+          description:
+        - icon: reconfigurable-trusted-computing
+          icon_pack: custom
+          name: Reconfigurable Trusted Computing
+          description:
+        - icon: memory-architecture-design
+          icon_pack: custom
+          name: Memory Architecture Design
+          description:
         - icon: system-on-chip-integration
           icon_pack: custom
           name: System-on-Chip Integration
           description:
-        - icon: system-on-chip-integration
+        - icon: high-performance-computing
           icon_pack: custom
           name: High-Performance Computing
-          description:
-        - icon: risc-v-software-hardware-co-design
-          icon_pack: custom
-          name: RISC-V Software/Hardware Co-Design
           description:
 
   - block: collection
