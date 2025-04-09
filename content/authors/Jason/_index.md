@@ -7,7 +7,7 @@ first_name: Wenjie
 last_name: ZHANG
 
 # Is this the primary user of the site?
-superuser: True
+superuser: false
 
 # Role/position
 role: Ph.D. Candidate

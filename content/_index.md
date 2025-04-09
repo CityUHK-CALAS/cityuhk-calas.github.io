@@ -5,18 +5,48 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
-        CityUHK Architecture Lab
-        for Arithmetic and Security
-      image:
-        filename: welcome.jpg
+        CityUHK Architecture Laboratory for Arithmetic and Security
       text: |
-        <br>
-        
-        Security-aware systems require sophisticated System-on-Chip (SoC) technology involving high performance embedded microprocessors and reconfigurable hardware such as Field-Programmable Gate Array (FPGA). The proposed CALAS studies and invents new approaches to design and to implement security-aware systems with the consideration of time-area, performance-security, and energy-cost tradeoffs. The proposed research includes security-aware hardware such as microprocessors with security-related custom-instructions, robust datapath designs, multi-core security, and secure embedded systems.
+        The CityUHK Architecture Laboratory for Arithmetic and Security (CALAS) specializes in the development of advanced System-on-Chip (SoC) technologies tailored for security-sensitive applications. Our research is dedicated to creating innovative designs that integrate high-performance embedded microprocessors with reconfigurable hardware platforms, notably Field-Programmable Gate Arrays (FPGAs). At CALAS, we explore and develop novel methodologies for designing security-aware systems, carefully balancing tradeoffs in time versus area, performance versus security, and energy consumption versus implementation cost. Our ongoing projects encompass secure hardware design—including microprocessors featuring security-enhanced custom instructions—robust datapath architectures, multi-core security solutions, and secure embedded system implementations.
   
+  - block: features
+    content:
+      title: Research Interests
+      text:
+      items:
+      # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+        - icon: reconfigurable-trusted-computing
+          icon_pack: custom
+          name: Reconfigurable Trusted Computing
+          description:
+        - icon: vlsi-and-fpga-circuit-design
+          icon_pack: custom
+          name: VLSI and FPGA Circuit Design
+          description:
+        - icon: memory-architecture-design
+          icon_pack: custom
+          name: Memory Architecture Design
+          description:
+        - icon: cryptographic-hardware-and-algorithms
+          icon_pack: custom
+          name: Cryptographic Hardware and Algorithms
+          description:
+        - icon: system-on-chip-integration
+          icon_pack: custom
+          name: System-on-Chip Integration
+          description:
+        - icon: system-on-chip-integration
+          icon_pack: custom
+          name: High-Performance Computing
+          description:
+        - icon: risc-v-software-hardware-co-design
+          icon_pack: custom
+          name: RISC-V Software/Hardware Co-Design
+          description:
+
   - block: collection
     content:
       title: Latest News
@@ -35,26 +65,6 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:

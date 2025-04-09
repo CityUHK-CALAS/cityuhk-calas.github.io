@@ -7,7 +7,7 @@ first_name: Ray
 last_name: CHEUNG
 
 # Is this the primary user of the site?
-superuser: True
+superuser: false
 
 # Role/position
 role: Associate Provost (DL), Professor, CALAS director

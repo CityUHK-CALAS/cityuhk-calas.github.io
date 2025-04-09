@@ -7,7 +7,7 @@ first_name: Hao
 last_name: YANG
 
 # Is this the primary user of the site?
-superuser: True
+superuser: false
 
 # Role/position
 role: Post-doctoral Fellow
@@ -67,4 +67,4 @@ user_groups:
   - Post-doctoral Fellow
 ---
 
-Dr. Hao YANG(Hao) received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.
+Dr. Hao YANG (Hao) received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.
