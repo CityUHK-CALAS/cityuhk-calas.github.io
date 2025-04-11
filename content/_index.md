@@ -61,9 +61,11 @@ sections:
       offset: 0
       order: desc
       page_type: post
-    design:
-      view: card
-      columns: '1'
+      design:
+        # Choose a listing view
+        view: compact
+        # Choose how many columns the section has. Valid values: '1' or '2'.
+        columns: '1'
 
   - block: collection
     content:
