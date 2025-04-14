@@ -29,10 +29,10 @@ sections:
           icon_pack: custom
           name: VLSI and FPGA Circuit Design
           description:
-        - icon: reconfigurable-trusted-computing
-          icon_pack: custom
-          name: Reconfigurable Trusted Computing
-          description:
+        # - icon: reconfigurable-trusted-computing
+        #   icon_pack: custom
+        #   name: Reconfigurable Trusted Computing
+        #   description:
         - icon: memory-architecture-design
           icon_pack: custom
           name: Memory Architecture Design
