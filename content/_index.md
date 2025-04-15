@@ -52,7 +52,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: news
       design:
         # Choose a listing view
         view: compact
