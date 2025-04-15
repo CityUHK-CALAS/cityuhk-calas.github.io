@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Past & Upcoming Seminars
 
 # Listing view
 view: compact

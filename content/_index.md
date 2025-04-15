@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-04-15
 type: landing
 
 sections:
@@ -10,41 +10,33 @@ sections:
       title: |
         CityUHK Architecture Laboratory for Arithmetic and Security
       text: |
-        The CityUHK Architecture Laboratory for Arithmetic and Security (CALAS) specializes in the development of advanced System-on-Chip (SoC) technologies tailored for security-sensitive applications. Our research is dedicated to creating innovative designs that integrate high-performance embedded microprocessors with reconfigurable hardware platforms, notably Field-Programmable Gate Arrays (FPGAs). At CALAS, we explore and develop novel methodologies for designing security-aware systems, carefully balancing tradeoffs in time versus area, performance versus security, and energy consumption versus implementation cost. Our ongoing projects encompass secure hardware design—including microprocessors featuring security-enhanced custom instructions—robust datapath architectures, multi-core security solutions, and secure embedded system implementations.
+        Welcome to the CityUHK Architecture Laboratory for Arithmetic and Security (CALAS). At CALAS, we specialize in cutting-edge research and development focused primarily on RISC-V architectures, emphasizing software/hardware co-design and embedded system development tailored specifically for IoT applications.
+        
+        Our research spans critical areas such as cryptographic hardware acceleration, including innovative implementations of post-quantum cryptography and fully homomorphic encryption, designed to ensure robust security in the quantum computing era. Additionally, we are actively engaged in AI hardware design, leveraging state-of-the-art FPGA platforms to create flexible, efficient, and secure computational solutions.
+        
+        CALAS is committed to advancing the fields of Security and Privacy, combining rigorous theoretical foundations with practical hardware implementations to address emerging challenges in technology and information security.
   
   - block: features
     content:
-      title: Research Interests
+      title: Main Research Interests
       text:
       items:
-        - icon: risc-v-software-hardware-co-design
+        - icon: riscv
           icon_pack: custom
-          name: RISC-V Software/Hardware Co-Design
+          name: RISC-V Architecture
           description:
-        - icon: cryptographic-hardware-and-algorithms
+        - icon: crypto
           icon_pack: custom
-          name: Cryptographic Hardware and Algorithms
+          name: Cryptographic Hardware
           description:
-        - icon: vlsi-and-fpga-circuit-design
+        - icon: ai
           icon_pack: custom
-          name: VLSI and FPGA Circuit Design
+          name: AI Hardware Design
           description:
-        # - icon: reconfigurable-trusted-computing
+        # - icon: sp
         #   icon_pack: custom
-        #   name: Reconfigurable Trusted Computing
+        #   name: Security and Privacy
         #   description:
-        - icon: memory-architecture-design
-          icon_pack: custom
-          name: Memory Architecture Design
-          description:
-        - icon: system-on-chip-integration
-          icon_pack: custom
-          name: System-on-Chip Integration
-          description:
-        - icon: high-performance-computing
-          icon_pack: custom
-          name: High-Performance Computing
-          description:
 
   - block: collection
     content:
