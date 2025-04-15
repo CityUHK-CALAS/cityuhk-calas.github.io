@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Alan Hiu Fung LAM
+title: Prof. Alan LAM
 
 # Full Name (for SEO)
 first_name: Alan

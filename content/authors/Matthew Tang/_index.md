@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Matthew Wai-Chung TANG
+title: Dr. Matthew TANG
 
 # Full Name (for SEO)
 first_name: Matthew

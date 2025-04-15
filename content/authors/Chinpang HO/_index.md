@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Chinpang HO
+title: Prof. Clint HO
 
 # Full Name (for SEO)
 first_name: Chinpang 
