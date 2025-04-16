@@ -29,6 +29,9 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+reading_time: false
+share: false
+profile: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

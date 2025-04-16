@@ -12,9 +12,20 @@ profile: false
 
 <!--more-->
 
-| ![](image1.png) |
-|-----------------|
-| ![](image2.jpg) |
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px; ">
+  <div style="grid-row: 1 / span 2;">
+    <img src="image1.jpg" style="width: 100%; height: 85%; object-fit: cover;">
+  </div>
+  <div>
+    <img src="image2.jpg" style="width: 100%; margin-bottom: 0px;">
+  </div>
+  <div>
+    <img src="image3.jpg" style="width: 100%; margin-top: 0px;">
+  </div>
+</div>
+<div>
+  <img src="image4.jpg" style="width: 100%; margin-top: 0px;">
+</div>
 
 Following our initial hosting of StarFive representatives on March 6, we are delighted to announce the formal establishment of the "StarFive-CityUHK EE RISC-V Ecosystem Joint Laboratory" in partnership with Hong Kong Investment Management Co., Ltd. (HKIC). This milestone was celebrated at the inaugural Hong Kong RISC-V Development Summit Forum on March 21, 2025, where our CALAS research group was prominently featured.
 
