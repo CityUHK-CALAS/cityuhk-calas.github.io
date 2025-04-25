@@ -21,10 +21,10 @@ organizations:
 bio: 
 
 interests:
-  - Post-quantum cryptography.
-  - Homomorphic encryption.
-  - High-performance computing.
-  - Hardware design.
+  - Fully Homomorphic Encryption
+  - Post-Quantum Cryptography
+  - High-Performance Computing
+  - Hardware Design
 
 education:
   courses:
@@ -43,12 +43,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:crypto@sher1e.dev'
-  - icon: google-scholar
-    icon_pack: Fully Homomophic Encryption
-    link: https://scholar.google.com/citations?user=kfJLPR0AAAAJ&hl=en
+  # - icon: globe
+  #   icon_pack: fas
+  #   link: https://crypto.sher1e.dev
   - icon: github
     icon_pack: fab
     link: https://github.com/sher1e
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shiyu-shen-729022355
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=kfJLPR0AAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7287-4223
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

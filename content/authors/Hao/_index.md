@@ -21,10 +21,10 @@ organizations:
 bio: 
 
 interests:
-  - Cryptographic Engineering.
-  - Fully Homomorphic Encryption.
-  - Post-Quantum Cryptography.
-  - GPU Acceleration.
+  - Cryptographic Engineering
+  - Fully Homomorphic Encryption
+  - Post-Quantum Cryptography
+  - GPU Acceleration
 
 education:
   courses:
@@ -43,12 +43,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:crypto@d4rk.dev'
-  - icon: google-scholar
-    icon_pack: Fully Homomophic Encryption
-    link: https://scholar.google.com/citations?user=3SH16Q0AAAAJ
+  - icon: globe
+    icon_pack: fas
+    link: https://crypto.d4rk.dev
+  - icon: x
+    icon_pack: fab
+    link: https://x.com/D4rkCrypto
   - icon: github
     icon_pack: fab
     link: https://github.com/D4rkCrypto
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/D4rkCrypto
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3SH16Q0AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9735-255X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,3 +80,7 @@ user_groups:
 ---
 
 Dr. Hao YANG (Hao) received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.
+
+His expertise is centered around GPU acceleration, embedded systems development, and CPU assembly optimization. These skills support his primary research interests, which include Fully Homomorphic Encryption (FHE), Lattice-Based Cryptography, and Privacy-Preserving Machine Learning (PPML).
+
+He have published 7+ papers as first or second author in top journals and conferences such as CHES, IEEE TIFS, IEEE TDSC, IEEE TC, and IEEE TPDS. Additionally, he contribute to the academic community by serving as a reviewer for respected publications including IEEE IoTJ, IEEE TC, and IEEE TII.
