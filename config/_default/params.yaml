@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CityUHK-CALAS/cityuhk-calas.github.io'
     content_dir: content
     branch: main
   avatar:
