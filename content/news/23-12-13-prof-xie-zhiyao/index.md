@@ -14,4 +14,4 @@ profile: false
 
 <!--more-->
 
-Welcome Prof. Xie Zhiyao, Assistant Professor of the Department of Electronic & Computer Engineering from Hong Kong University of Science and Technology (HKUST), and a former CityU EE UG graduate for visiting the CALAS group.
+Welcome Prof. Xie Zhiyao, Assistant Professor of the Department of Electronic & Computer Engineering from Hong Kong University of Science and Technology (HKUST), and a former CityUHK EE UG graduate for visiting the CALAS group.

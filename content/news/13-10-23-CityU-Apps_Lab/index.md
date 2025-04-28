@@ -1,5 +1,5 @@
 ---
-title: CityU Apps Lab has co-organized the workshop during the CityU Information Day 2013
+title: CityUHK Apps Lab has co-organized the workshop during the CityUHK Information Day 2013
 date: 2013-10-23
 reading_time: false
 share: false
@@ -7,7 +7,7 @@ profile: false
 
 ---
 
-Information Day draws huge crowds to campus on 19 October. CityU Apps Lab has co-organized this workshop during the Information Day. 
+Information Day draws huge crowds to campus on 19 October. CityUHK Apps Lab has co-organized this workshop during the Information Day. 
 
 <!--more-->
 

@@ -14,6 +14,6 @@ profile: false
 Warm welcome Clarissa.
 <!--more-->
 
-International exchange student, Clarissa, from the University of Edinburgh has joined CityU EE Dept as a summer intern.
+International exchange student, Clarissa, from the University of Edinburgh has joined CityUHK EE Dept as a summer intern.
 
 Dr. Ray, John, and Irfan are welcoming her in the research lab.

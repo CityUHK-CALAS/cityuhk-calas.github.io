@@ -1,5 +1,5 @@
 ---
-title: Xilinx techical staff visit CityU-Xilinx joint Laboratory and give a talk to CALAS
+title: Xilinx techical staff visit CityUHK-Xilinx joint Laboratory and give a talk to CALAS
 date: 2019-08-02
 image:
   src: featured.jpg

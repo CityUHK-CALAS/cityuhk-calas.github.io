@@ -62,4 +62,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Wenjie ZHANG(Jason) is a first-year PhD student from CityU EE department. He received his B.Eng in 2023 from School of Information Science and Engineering, Shandong University. Then he joined CALAS as a Research Assistant and started his PhD journey supervised by Prof. Ray C. C. Cheung since Jan 2025. His current research topic focuses on the hardware accelerators of post-quantum cryptography and RISC-V architecture.
+Mr. Wenjie ZHANG(Jason) is a first-year PhD student from CityUHK EE department. He received his B.Eng in 2023 from School of Information Science and Engineering, Shandong University. Then he joined CALAS as a Research Assistant and started his PhD journey supervised by Prof. Ray C. C. Cheung since Jan 2025. His current research topic focuses on the hardware accelerators of post-quantum cryptography and RISC-V architecture.

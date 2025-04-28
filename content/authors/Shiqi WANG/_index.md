@@ -10,7 +10,7 @@ last_name: WANG
 superuser: False
 
 # Role/position
-role: CityU EE Associate Professor, CALAS Advisor
+role: CityUHK EE Associate Professor, CALAS Advisor
 
 # Organizations/Affiliations
 organizations:

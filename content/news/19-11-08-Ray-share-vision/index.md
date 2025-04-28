@@ -11,7 +11,7 @@ share: false
 profile: false
 
 ---
-To help Ph.D./MPhil students cope with numerous deadlines and different obligations, the EE department of CityU organised a workshop on stress management on 28 October 2019.
+To help Ph.D./MPhil students cope with numerous deadlines and different obligations, the EE department of CityUHK organised a workshop on stress management on 28 October 2019.
 <!--more-->
 
 In this event, Dr. Ray Cheung (along with three fellow speakers) shared how to manage the stress for an academic study.

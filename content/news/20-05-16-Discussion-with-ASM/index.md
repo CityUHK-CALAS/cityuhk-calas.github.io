@@ -11,6 +11,6 @@ share: false
 profile: false
 
 ---
-Peter Ng, VP of ASM Pacific Technology, and his colleagues came to CityU and discuss with CALAS research team for potential new projects.
+Peter Ng, VP of ASM Pacific Technology, and his colleagues came to CityUHK and discuss with CALAS research team for potential new projects.
 <!--more-->
 [Click here for more details on ASM Pacific Technology](https://www.asmpt.com/)

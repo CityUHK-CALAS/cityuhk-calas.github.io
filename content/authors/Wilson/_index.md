@@ -62,4 +62,4 @@ user_groups:
 Mr. Wong Ming Chi(Wilson) received his BEng in Computer and Data Engineering from City University of Hong Kong in 2023.
 He is now a Ph.D. student in the Department of Electrical Engineering, City University of Hong Kong supervised by Prof. Ray C. C. Cheung.
 He is also a Co-Founder and CTO of a start-up company GABES which focus on smart evacuation system using AIoT.
-He is the Chair of IEEE CityU student branch in year 2023 and 2024.
+He is the Chair of IEEE CityUHK student branch in year 2023 and 2024.

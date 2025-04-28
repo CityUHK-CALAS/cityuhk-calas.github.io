@@ -1,5 +1,5 @@
 ---
-title: Three team members receive CityU Outstanding Academic Award
+title: Three team members receive CityUHK Outstanding Academic Award
 date: 2017-08-25
 
 reading_time: false

@@ -14,4 +14,4 @@ profile: false
 Very good meeting with Dr Alfred Ng, BEng from Imperial College, PhD from MIT.
 <!--more-->
 
-Now he is working as Suga Electronics CTO, and CityU EE Departmental advisor. Thank you for the nice sharing both in academy and industry.
+Now he is working as Suga Electronics CTO, and CityUHK EE Departmental advisor. Thank you for the nice sharing both in academy and industry.

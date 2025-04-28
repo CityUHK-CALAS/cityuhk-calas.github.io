@@ -1,5 +1,5 @@
 ---
-title: "Candice won first prize in CityU EE symposium poster presentation- Congratulations!"
+title: "Candice won first prize in CityUHK EE symposium poster presentation- Congratulations!"
 date: 2022-05-20
 image:
   src: featured.jpg
@@ -16,4 +16,4 @@ profile: false
 
 ![](image.jpg)
 
-Congratulations to Candice for winning the first prize in the CityU EE symposium poster presentation!
+Congratulations to Candice for winning the first prize in the CityUHK EE symposium poster presentation!

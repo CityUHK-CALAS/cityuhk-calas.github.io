@@ -10,6 +10,6 @@ profile: false
 
 <!--more-->
 
-Congratulations on our group members Zahid, Ben, Edward for receiving the Outstanding Academic Performance Award from SGS, CityU.
+Congratulations on our group members Zahid, Ben, Edward for receiving the Outstanding Academic Performance Award from SGS, CityUHK.
 
 Gavin Yao

@@ -10,7 +10,7 @@ last_name: HO
 superuser: False
 
 # Role/position
-role: CityU DS Assistant Professor, CALAS Advisor
+role: CityUHK DS Assistant Professor, CALAS Advisor
 
 # Organizations/Affiliations
 organizations:

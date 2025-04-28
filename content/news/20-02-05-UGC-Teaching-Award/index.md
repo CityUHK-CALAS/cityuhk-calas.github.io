@@ -1,5 +1,5 @@
 ---
-title: UGC Teaching Award and CityU Teaching Excellence Award to Dr. Ray
+title: UGC Teaching Award and CityUHK Teaching Excellence Award to Dr. Ray
 date: 2020-02-05
 image:
   src: featured.jpg
