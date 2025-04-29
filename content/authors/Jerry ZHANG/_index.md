@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jerry
+title: Jerry ZHANG
 
 # Full Name (for SEO)
 first_name: Zekai

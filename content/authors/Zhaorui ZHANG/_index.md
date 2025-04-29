@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Zhaorui ZHANG
+title: Prof. Jenny ZHANG
 
 # Full Name (for SEO)
 first_name: Zhaorui
@@ -10,7 +10,7 @@ last_name: ZHANG
 superuser: False
 
 # Role/position
-role: PolyU DS Research Assistant Professor, CALAS Advisor
+role: PolyU DS Research Assistant Professor, CALAS Affiliate Faculty Members
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Affiliate Faculty Members
 ---
 
 Dr. Zhaorui Zhang received her B.Eng. degree in Computer Science from Xi’an Jiaotong University and her Ph.D. in Computer Science from The University of Hong Kong. She is currently a Research Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University and a member of the Internet and Mobile Computing Laboratory. Dr. Zhang’s research interests include AI infrastructure, focusing on the optimization of large-scale model training and inference across various computing platforms, as well as high-performance computing, distributed systems, and cloud computing. She has contributed to advancements in AI systems and has collaborated on projects aimed at accelerating cryptographic algorithms using GPUs. Dr. Zhang actively seeks to mentor and collaborate with students and researchers interested in large-scale model optimization and related fields.

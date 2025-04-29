@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jerry
+title: Jerry LIU
 
 # Full Name (for SEO)
 first_name: Jierui
