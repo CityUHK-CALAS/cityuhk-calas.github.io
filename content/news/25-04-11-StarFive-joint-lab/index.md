@@ -9,7 +9,7 @@ share: false
 profile: false
 
 ---
-
+Following our initial hosting of StarFive representatives on March 6, we are delighted to announce the formal establishment of the "StarFive-CityUHK EE RISC-V Ecosystem Joint Laboratory" in partnership with Hong Kong Investment Management Co., Ltd. (HKIC).
 <!--more-->
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px; ">
@@ -27,7 +27,7 @@ profile: false
   <img src="image4.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
-Following our initial hosting of StarFive representatives on March 6, we are delighted to announce the formal establishment of the "StarFive-CityUHK EE RISC-V Ecosystem Joint Laboratory" in partnership with Hong Kong Investment Management Co., Ltd. (HKIC). This milestone was celebrated at the inaugural Hong Kong RISC-V Development Summit Forum on March 21, 2025, where our CALAS research group was prominently featured.
+This milestone was celebrated at the inaugural Hong Kong RISC-V Development Summit Forum on March 21, 2025, where our CALAS research group was prominently featured.
 
 During the ceremony, Professor Ray presented CALAS's expertise in RISC-V development, highlighting our lab's contributions to computer architecture innovation and security research. The presentation included an introduction to our CALAS family and ongoing research projects, demonstrating our readiness to lead in this strategic partnership.
 
