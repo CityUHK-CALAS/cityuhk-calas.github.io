@@ -10,15 +10,18 @@ main:
   - name: People
     url: people
     weight: 20
+  - name: Alumni
+    url: alumni
+    weight: 30
   - name: Seminars
     url: seminar
-    weight: 30
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: Deadlines
     url: deadlines
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
