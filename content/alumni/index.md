@@ -298,13 +298,24 @@ sections:
        </ul>
        </details>
 
+  - block: people
+    content:
+      title: Former International Exchange Visitors
+      subtitle: We welcome international students to come and visit our group in Hong Kong. Please contact Dr. Ray for any openings.
+      user_groups:
+        - Former International Exchange Visitors
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      columns: '1'
+      show_interests: false
+      show_role: true
+      show_social: false
+
   - block: markdown
     content: 
       title: Former International Exchange Visitors
       text: |
-        
+        **We welcome international students to come and visit our group in Hong Kong. Please contact Dr. Ray for any openings.**
       
     design:
       columns: '1'    
