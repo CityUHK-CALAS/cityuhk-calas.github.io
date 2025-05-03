@@ -298,25 +298,132 @@ sections:
        </ul>
        </details>
 
-  - block: people
-    content:
-      title: Former International Exchange Visitors
-      subtitle: We welcome international students to come and visit our group in Hong Kong. Please contact Dr. Ray for any openings.
-      user_groups:
-        - Former International Exchange Visitors
-      sort_by: Params.last_name
-      sort_ascending: true
     design:
-      show_interests: false
-      show_role: true
-      show_social: false
+      columns: '1'
+  # - block: people
+  #   content:
+  #     title: Former International Exchange Visitors
+  #     subtitle: We welcome international students to come and visit our group in Hong Kong. Please contact Dr. Ray for any openings.
+  #     user_groups:
+  #       - Former International Exchange Visitors
+  #     sort_by: Params.last_name
+  #     sort_ascending: true
+  #   design:
+  #     show_interests: false
+  #     show_role: true
+  #     show_social: false
 
   - block: markdown
     content: 
       title: Former International Exchange Visitors
       text: |
         **We welcome international students to come and visit our group in Hong Kong. Please contact Dr. Ray for any openings.**
-      
+
+        <details> 
+        <summary> Year 2023 Exchange Students </summary>
+
+        <details>
+        <summary><strong>Miss. Rosalyn Chiu</strong> (Benenden School UK)</summary>
+         Rosalyn Chiu is a student currently studying her A-Levels in Benenden School UK and has been part of Professor Ray’s team since August 2023. She is keen on learning more about engineering in general and is particularly interested in Mechanical and Aeronautical engineering and is looking forward to attending university in either the UK or Hong Kong.
+        </details>          
+
+        <details>
+        <summary><strong>Mr. Shuhan LEI (Max)</strong> (University of Toronto)</summary>
+         JMr. Shuhan LEI is currently a BASc student in Electrical Engineering at the University of Toronto, distinguished on the Dean’s Honour List. He is now doing a summer research internship focusing on RISC-V High-Level Synthesis and Architecture under the supervision of Prof. Ray C. C. Cheung at the City University of Hong Kong.
+         His research interests include RISC-V processor design.
+        </details>
+
+        <details>
+        <summary><strong>Miss. Theodora Kwok</strong> (Carnegie Mellon University)</summary>
+        <ul> 
+        <li>Freshman at Carnegie Mellon University studying Electrical & Computer Engineering</li>
+        <li>A former student member of the CityU GEF program</li>
+        <li>Currently interested in microelectronics and quantum computing, but keen to explore other fields of ECE</li>
+        <li>Joined in Dec 2023</li>        
+        </ul>
+        </details>
+
+        <details>
+        <summary><strong>Mr. Junhao HUANG (Joshua)</strong> (BNU-HKBU United International College)</summary>
+         Joshua received his Bachelor and Master degrees from Nanjing University of Aeronautics and Astronautics in 2018, and 2021, respectively. He is a visiting PhD student from the BNU-HKBU United International College. His research interests include public-key cryptography, post-quantum cryptography and cryptographic engineering for IoT devices. Visiting CALAS from July 2023 to December 2023.
+        </details>       
+        </details>
+
+        <details>
+        <summary>Year 2022 Exchange Students</summary>
+        <details>
+        <summary><strong>Miss. Janice Ma</strong> (University of Cambridge)</summary>
+         Janice is currently an undergraduate at the University of Cambridge majoring in Engineering and has been a part of Dr. Ray’s group since August 2022. She is keen on learning more and her interests include Electrical and Computer Engineering as well as Aerospace Engineering.
+        </details>
+
+        <details>
+        <summary><strong>Mr. Ryan Lerner</strong> (University of Massachusetts Amherst)</summary>
+         Ryan Lerner is a senior year student at the University of Massachusetts Amherst, who majors in Chinese American Mental Health. Currently working as a student educator, developing learning materials on digital literacy for K12 students and University students from different major disciplines.
+        </details>
+
+        <details>
+        <summary><strong>Mr. Josiah WAN</strong> (University of Washington)</summary>
+         Josiah Wan is an undergraduate senior student studying Electrical Engineering at the University of Washington (Seattle) in the United States. Interested in Embedded Computing System and FPGA. Joined Dr. Ray Cheung’s CALAS group since July 2022.
+        </details>
+        </details>
+
+        <details>
+        <summary>Year 2021 Exchange Students</summary>
+        <details>
+        <summary><strong>Dr. Runbin Shi</strong> (University of Hong Kong)</summary>
+         Dr. Runbin Shi received his BEng, MSc in Electronic Engineering in 2013 and 2016 at Soochow University. He obtained his PhD at the University of Hong Kong, December 2020. He joined Dr. Ray’s CALAS group in January 2021.
+         His research interests cover: better abstraction of different application domains (e.g., machine learning, graph mining and tensor contraction); scalable domain-specific architecture and customized instruction set; compilation strategy for optimal workload scheduling.
+        </details>
+        </details>
+
+        <details>
+        <summary>Year 2020 Exchange Students</summary>
+        <details>
+        <summary><strong>Mr. Man-Kit Sit</strong> (Imperial College London)</summary>
+         Mr. Man-Kit Sit received his BEng in Computer Engineering in 2016 from the Chinese University of Hong Kong, Hong Kong. He got his MSc in Information Technology in 2018 from Keio University, Japan. He is a Ph.D. student at Imperial College London, UK. He is also now a research assistant in the CALAS group since March 2020.
+         His research interests include: Distributed Systems, Hardware Security, Hardware Acceleration
+        </details>
+
+        <details>
+        <summary><strong>Miss. Wang Yaqi</strong> (Shandong University)</summary>
+        She is a visiting student from Shandong University, majoring in Communication Engineering. She joined Dr. Ray’s CALAS group in April 2020 until Aug 2020. Her research interests include: Hardware implementation of the lightweight cipher, FPGA System designs and developments. <br>
+        Visiting CALAS from April 2020 – ongoing, from Shangdong University, China
+        </details>
+        </details>
+
+        <details>
+        <summary>Year 2019 Exchange Students</summary>
+        <details>
+        <summary><strong>Mr. Daniele Venier</strong> (Politecnico di Milano)</summary>
+        Mr. Daniele Venier (2019) is an undergraduate student studying Computer Engineering at the Politecnico di Milano in Milan, Italy. He came to CityU as an exchange student during his 3rd year. Daniele has previously participated in international competitions in competitive programming and cybersecurity and worked at several companies as a developer. He approached Dr. Ray C. C. Cheung in order to do research in the field of cryptography.<br>
+        Current research interests include post-quantum cryptography, cyptographic hardware implementation on FPGA <br>
+        Visiting CALAS from Sept 2019 – Dec 2019, from Italy
+        </details>
+
+        <details>
+        <summary><strong>Miss. Xiong Zhili</strong> (Wuhan University)</summary>
+        Miss Xiong Zhili (2019), visiting student from Wuhan University, June 2019 – Aug 2019 – Working on Secure RISC-V Project.
+        </details>
+
+        <details>
+        <summary><strong>Miss. Xinyi Huang</strong> (Wuhan University)</summary>
+        Miss Xinyi Huang (2019), visiting student from Wuhan University, June 2019 – Aug 2019 – Working on Secure RISC-V Project.
+        </details>
+        </details>
+
+        <details>
+        <summary>Year 2018 Exchange Students</summary>
+        <details>
+        <summary><strong>Miss. Wang Bishan </strong> (Wuhan University)</summary>
+        Miss Wang Bishan (2018), visiting student from Wuhan University, Sept 2018 – Dec 2018 – Working on Deep learning AI FPGA Project.
+        </details>
+
+        <details>
+        <summary><strong>Miss. Choi Ching Lam</strong> (Diocesan Girls’ School)</summary>
+        Choi Ching Lam is a student at the Diocesan Girls’ School, keenly interested in Computer Vision and Scientific Computing. She is an open-source enthusiast with a deep appreciation for Julia and Python. Presently an intern at NVIDIA’s AI Tech Center, Ching Lam aspires to become a Machine Learning researcher.
+        </details>
+        </details>
+
     design:
       columns: '1'    
 ---
