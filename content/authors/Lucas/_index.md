@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lucas
+title: Lucas YE
 
 # Full Name (for SEO)
 first_name: Zewen

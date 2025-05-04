@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Camilla
+title: Camilla LIU
 
 # Full Name (for SEO)
 first_name: Jialin

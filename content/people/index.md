@@ -11,9 +11,9 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Team Leader
-          - Team Faculty Members
+          - Team Leader          
           - Team Advisor
+          - Team Faculty Members
           - Affiliate Faculty Members
           - Post-doctoral Fellow
           - PhD Students
@@ -23,7 +23,7 @@ sections:
           - Researchers
           - Administration
           - International Exchange Visitors
-      sort_by: Params.last_name
+      sort_by: Params.first_name
       sort_ascending: true
     design:
       show_interests: false

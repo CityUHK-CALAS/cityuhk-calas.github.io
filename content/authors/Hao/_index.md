@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hao
+title: Hao YANG
 
 # Full Name (for SEO)
 first_name: Hao

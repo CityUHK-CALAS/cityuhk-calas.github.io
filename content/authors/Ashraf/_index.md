@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ashraf
+title: Abdelgawad Abdelhamid 
 
 # Full Name (for SEO)
 first_name: Muhammad
-last_name: Ashraf
+last_name: Abdelhamid
 
 # Is this the primary user of the site?
 superuser: False
@@ -60,4 +60,4 @@ user_groups:
   - PhD Students
 ---
 
-Mr. Muhammad Ashraf received the B.Sc. degree in Electrical Engineering from Minia university faculty of engineering, Egypt, in 2017. He worked as a teaching assistant for two years and is on leave from the Electrical Engineering department at Minia University, Egypt. He is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Professor Hong Yan and Prof. Ray C. C. Cheung.
+Mr. Abdelgawad Muhammad Ashraf Abdelhamid received the B.Sc. degree in Electrical Engineering from Minia university faculty of engineering, Egypt, in 2017. He worked as a teaching assistant for two years and is on leave from the Electrical Engineering department at Minia University, Egypt. He is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Professor Hong Yan and Prof. Ray C. C. Cheung.

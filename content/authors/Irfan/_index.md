@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Irfan
+title: Irfan Muhammad
 
 # Full Name (for SEO)
 first_name: Irfan

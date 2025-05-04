@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Simon
+title: Simon LYU
 
 # Full Name (for SEO)
 first_name: Shengzhe

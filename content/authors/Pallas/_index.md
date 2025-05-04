@@ -10,7 +10,7 @@ last_name:
 superuser: False
 
 # Role/position
-role: Undergraduate Students
+role: Undergraduate Student, University of New South Wales
 
 # Organizations/Affiliations
 organizations:

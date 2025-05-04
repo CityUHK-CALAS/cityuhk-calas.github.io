@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Glitter
+title: Glitter FAN
 
 # Full Name (for SEO)
 first_name: Xingyu

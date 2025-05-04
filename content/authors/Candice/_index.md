@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Candice
+title: Candice ZHANG
 
 # Full Name (for SEO)
 first_name: Zhewen

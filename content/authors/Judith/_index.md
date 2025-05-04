@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Judith
+title: Judith SI
 
 # Full Name (for SEO)
 first_name: Yuzhou

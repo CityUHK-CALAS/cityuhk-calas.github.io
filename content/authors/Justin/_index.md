@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Justin
+title: Justin SIU
 
 # Full Name (for SEO)
 first_name: SIU-TING

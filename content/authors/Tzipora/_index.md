@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tzipora
+title: Tzipora REN
 
 # Full Name (for SEO)
 first_name: Xiaofei

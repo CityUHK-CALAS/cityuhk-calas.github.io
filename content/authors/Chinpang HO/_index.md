@@ -10,7 +10,7 @@ last_name: HO
 superuser: False
 
 # Role/position
-role: CityUHK DS Assistant Professor, CALAS Advisor
+role: CityUHK DS Assistant Professor, CALAS Faculty Members
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Faculty Members
 ---
 
 Dr. Clint Chin Pang Ho earned his B.S. in Applied Mathematics from the University of California, Los Angeles (UCLA), an M.Sc. in Mathematical Modeling and Scientific Computing from the University of Oxford, and a Ph.D. in Computational Optimization from Imperial College London. He is currently an Assistant Professor in the Department of Data Science at City University of Hong Kong. Prior to his current role, Dr. Ho was a Junior Research Fellow at the Imperial College Business School. His primary research interests include decision making under uncertainty, robust optimization, reinforcement learning, and operations research. Dr. Ho has contributed to the development of optimization algorithms and computational methods for structured problems, with applications in machine learning and operations research.

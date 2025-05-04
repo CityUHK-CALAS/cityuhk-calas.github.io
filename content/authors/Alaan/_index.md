@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alaan
+title: Alaan MA
 
 # Full Name (for SEO)
 first_name: Runlang

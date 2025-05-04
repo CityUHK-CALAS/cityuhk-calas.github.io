@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gavin
+title: Gavin LI
 
 # Full Name (for SEO)
 first_name: Guangyan

@@ -10,7 +10,7 @@ last_name: WANG
 superuser: False
 
 # Role/position
-role: CityUHK EE Associate Professor, CALAS Advisor
+role: CityUHK EE Associate Professor, CALAS Faculty Members
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Faculty Members
 ---
 
 Dr. Shiqi Wang earned his B.Sc. in Computer Science from the Harbin Institute of Technology in 2008 and his Ph.D. in Computer Application Technology from Peking University in 2014, under the supervision of Prof. Wen Gao. He is currently an Associate Professor in the Department of Computer Science at City University of Hong Kong. Prior to his current role, Dr. Wang was a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, University of Waterloo, Canada, from March 2014 to March 2016. He then served as a Research Fellow at the Rapid-Rich Object Search Laboratory, Nanyang Technological University, Singapore, from April 2016 to April 2017. Dr. Wang’s primary research interests include semantic and visual communication, AI-generated content management, information forensics and security, and image/video quality assessment. He has received several accolades, including the IEEE Multimedia Best Paper Award in 2018 and the IEEE ICIP Best Student Paper Award in 2018. Dr. Wang is a Senior Member of IEEE and serves as an Associate Editor for IEEE Transactions on Image Processing and IEEE Transactions on Multimedia.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan
+title: Ryan LUK
 
 # Full Name (for SEO)
 first_name: Wai

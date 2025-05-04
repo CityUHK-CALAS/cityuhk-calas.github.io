@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sherie
+title: Sherie SHEN
 
 # Full Name (for SEO)
 first_name: Shiyu

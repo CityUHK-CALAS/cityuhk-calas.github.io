@@ -10,7 +10,7 @@ last_name: ZHANG
 superuser: False
 
 # Role/position
-role: PolyU DS Research Assistant Professor, CALAS Affiliate Faculty Members
+role: PolyU DS Research Assistant Professor, CALAS Former Alumni
 
 # Organizations/Affiliations
 organizations:

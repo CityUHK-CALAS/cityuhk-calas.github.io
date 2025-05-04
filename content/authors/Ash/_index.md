@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ash
+title: Ash SHI
 
 # Full Name (for SEO)
 first_name: Junshen

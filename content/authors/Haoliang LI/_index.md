@@ -10,7 +10,7 @@ last_name: LI
 superuser: False
 
 # Role/position
-role: CityUHK EE Assistant Professor, CALAS Advisor
+role: CityUHK EE Assistant Professor, CALAS Faculty Members
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Faculty Members
 ---
 
 Dr. Haoliang Li completed his Ph.D. in Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, under the supervision of Prof. Alex C. Kot. He then served as a Wallenberg-NTU Presidential Postdoctoral Fellow in the Rapid-Rich Object Search Lab at NTU. Currently, he is an Assistant Professor in the Department of Electrical Engineering at City University of Hong Kong. Dr. Li’s research interests include AI security, multimedia forensics, and machine learning. His recent work focuses on secure face recognition, fake news detection, multimedia content forgery detection, and transfer learning (domain adaptation/generalization) and its applications. He has received several awards, including the Best Presentation Award at the 2007 International Ph.D. Workshop on SoC (IPS’07). Dr. Li is a member of IEEE.

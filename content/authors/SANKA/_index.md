@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SANKA
+title: Abdurrashid SANKA
 
 # Full Name (for SEO)
 first_name: Abdurrashid

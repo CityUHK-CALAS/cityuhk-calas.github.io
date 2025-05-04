@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leo
+title: Leo HUANG
 
 # Full Name (for SEO)
 first_name: Yanlong

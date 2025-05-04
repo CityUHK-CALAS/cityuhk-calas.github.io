@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eden
+title: Eden ZHAO
 
 # Full Name (for SEO)
 first_name: Xudong

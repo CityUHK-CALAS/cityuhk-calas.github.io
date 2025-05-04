@@ -10,7 +10,7 @@ last_name: LAM
 superuser: False
 
 # Role/position
-role: CityUHK EE Adjunct Professor, CALAS Advisor
+role: CityUHK EE Adjunct Professor, CALAS Faculty Members
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Faculty Members
 ---
 
 Dr. Alan Lam received his BEng, MPhil and Ph.D. degrees from the Department of Mechanical and Automation Engineering of The Chinese University of Hong Kong (CUHK) in 1999, 2001 and 2004, respectively. He successfully commercialized his research work and co-founded Sengital Limited in 2004. Ir. Dr. Lam is currently the CEO of Sengital Group. Under the leadership of Ir. Dr. Lam, the team has won numerous prestigious local and international awards for their product innovation and excellence. Ir. Dr. Lam was named as one of the five local innovation heroes by the Hong Kong Science Park in 2014 for his excellence in R&D projects commercialization and was selected as the JCI Ten Most Outstanding Young Persons of 2015. Ir. Dr. Lam is dedicated to professional and public services. He currently serves as the Director of the Board of ASTRI, Member of ITSP Assessment Panel (Electronics) of ITC, Member of HKIE and Committee Member of HKETA. Ir. Dr. Lam is passionate in helping the young generation. He serves as the Committee Member of Home School Cooperation, Advisory Board Member of the Engineering Faculty, departments, and entrepreneurship centers of CUHK, CityUHK and VTC.  He is also the Sponsoring Body Manager of several secondary and primary schools. Ir. Dr. Lam likes to share his entrepreneurial experience and positive attitude to the young people and supports them in pursuing their entrepreneurial dreams.

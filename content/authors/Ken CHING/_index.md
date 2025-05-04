@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ken
+title: Ken CHING
 
 # Full Name (for SEO)
 first_name: Ken

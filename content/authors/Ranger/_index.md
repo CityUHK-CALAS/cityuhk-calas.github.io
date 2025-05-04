@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ranger
+title: Ranger GUO
 
 # Full Name (for SEO)
 first_name: Runzhou

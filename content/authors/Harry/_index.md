@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Harry
+title: Harry RAN
 
 # Full Name (for SEO)
 first_name: Zhuoheng

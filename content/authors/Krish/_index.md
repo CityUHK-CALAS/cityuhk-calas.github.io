@@ -10,7 +10,7 @@ last_name:
 superuser: False
 
 # Role/position
-role: 
+role: Exchange Student, Imperial College London
 
 # Organizations/Affiliations
 organizations:

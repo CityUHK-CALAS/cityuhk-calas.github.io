@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Claire
+title: Claire JIN
 
 # Full Name (for SEO)
 first_name: Shutong

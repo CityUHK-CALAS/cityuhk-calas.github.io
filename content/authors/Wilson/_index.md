@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wilson
+title: Wilson WONG
 
 # Full Name (for SEO)
 first_name: Ming Chi

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elvis
+title: Elvis CAI
 
 # Full Name (for SEO)
 first_name: Haochen

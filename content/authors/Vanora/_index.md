@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vanora
+title: Vanora WANG
 
 # Full Name (for SEO)
 first_name: Haoyu

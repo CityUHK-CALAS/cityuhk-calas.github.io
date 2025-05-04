@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yile
+title: Yile XING
 
 # Full Name (for SEO)
 first_name: Yile

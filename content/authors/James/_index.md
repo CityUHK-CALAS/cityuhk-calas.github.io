@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James
+title: James HEI
 
 # Full Name (for SEO)
 first_name: Hon Shing 

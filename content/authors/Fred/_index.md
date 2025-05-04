@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fred
+title: Fred CAI
 
 # Full Name (for SEO)
 first_name: Fengzhi

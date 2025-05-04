@@ -10,7 +10,7 @@ last_name: MISHCHENKO
 superuser: False
 
 # Role/position
-role: UC Berkeley Full Researcher, CALAS Team Faculty Members
+role: UC Berkeley Full Researcher, CALAS Team Advisor
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Faculty Members
+  - Team Advisor
 ---
 
 Alan graduated with M.S. from Moscow Institute of Physics and Technology (Moscow, Russia) in 1993 and received his Ph.D. from Glushkov Institute of Cybernetics (Kiev, Ukraine) in 1997. In 2002, Alan joined the EECS Department at the University of California, Berkeley, where he is currently a full researcher. His research is in computationally efficient logic synthesis and formal verification.

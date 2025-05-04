@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jimmy
+title: Jimmy JING
 
 # Full Name (for SEO)
 first_name: Peng

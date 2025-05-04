@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jason
+title: Jason ZHANG
 
 # Full Name (for SEO)
 first_name: Wenjie

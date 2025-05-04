@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Henry
+title: Henry SHE
 
 # Full Name (for SEO)
 first_name: Yuhan
