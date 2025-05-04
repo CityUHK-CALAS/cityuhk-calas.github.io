@@ -3,7 +3,7 @@
 title: Henry SHE
 
 # Full Name (for SEO)
-first_name: Yuhan
+first_name: Henry
 last_name: SHE
 
 # Is this the primary user of the site?

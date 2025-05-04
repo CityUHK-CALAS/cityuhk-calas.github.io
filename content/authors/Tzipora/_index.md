@@ -3,7 +3,7 @@
 title: Tzipora REN
 
 # Full Name (for SEO)
-first_name: Xiaofei
+first_name: Tzipora Xiaofei
 last_name: REN
 
 # Is this the primary user of the site?

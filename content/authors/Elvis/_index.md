@@ -3,7 +3,7 @@
 title: Elvis CAI
 
 # Full Name (for SEO)
-first_name: Haochen
+first_name: Elvis
 last_name: CAI
 
 # Is this the primary user of the site?

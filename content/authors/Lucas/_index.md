@@ -3,7 +3,7 @@
 title: Lucas YE
 
 # Full Name (for SEO)
-first_name: Zewen
+first_name: Lucas Zewen
 last_name: YE
 
 # Is this the primary user of the site?

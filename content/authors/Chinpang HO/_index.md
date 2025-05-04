@@ -3,7 +3,7 @@
 title: Prof. Clint HO
 
 # Full Name (for SEO)
-first_name: Chinpang 
+first_name: Clint 
 last_name: HO
 
 # Is this the primary user of the site?

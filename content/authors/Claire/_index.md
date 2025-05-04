@@ -3,7 +3,7 @@
 title: Claire JIN
 
 # Full Name (for SEO)
-first_name: Shutong
+first_name: Claire
 last_name: JIN
 
 # Is this the primary user of the site?

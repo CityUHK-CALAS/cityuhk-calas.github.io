@@ -3,7 +3,7 @@
 title: Alaan MA
 
 # Full Name (for SEO)
-first_name: Runlang
+first_name: Alaan
 last_name: MA
 
 # Is this the primary user of the site?
@@ -57,4 +57,4 @@ user_groups:
   - Master Students
 ---
 
-Mr. Runlang MA received his B.Eng. from Electrical Engineer department of Jilin University in 2023. He is currently a Master of Science student in the Department of Electrical Engineering at City University of Hong Kong, under the supervison of Prof. Ray C. C. Cheung.
+Mr. Runlang MA(Alaan) received his B.Eng. from Electrical Engineer department of Jilin University in 2023. He is currently a Master of Science student in the Department of Electrical Engineering at City University of Hong Kong, under the supervison of Prof. Ray C. C. Cheung.

@@ -3,7 +3,7 @@
 title: Prof. Ray C.C. Cheung
 
 # Full Name (for SEO)
-first_name: Ray
+first_name: Cheung Ray
 last_name: CHEUNG
 
 # Is this the primary user of the site?

@@ -3,7 +3,7 @@
 title: Jerry ZHANG
 
 # Full Name (for SEO)
-first_name: Zekai
+first_name: Jerry ZHANG
 last_name: ZHANG
 
 # Is this the primary user of the site?

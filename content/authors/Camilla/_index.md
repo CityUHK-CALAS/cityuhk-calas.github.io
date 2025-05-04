@@ -3,7 +3,7 @@
 title: Camilla LIU
 
 # Full Name (for SEO)
-first_name: Jialin
+first_name: Camilla
 last_name: LIU
 
 # Is this the primary user of the site?

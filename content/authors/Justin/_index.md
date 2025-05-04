@@ -3,7 +3,7 @@
 title: Justin SIU
 
 # Full Name (for SEO)
-first_name: SIU-TING
+first_name: Justin SIU-TING
 last_name: SIU
 
 # Is this the primary user of the site?

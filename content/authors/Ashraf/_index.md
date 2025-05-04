@@ -3,7 +3,7 @@
 title: Abdelgawad Abdelhamid 
 
 # Full Name (for SEO)
-first_name: Muhammad
+first_name: Abdelgawad
 last_name: Abdelhamid
 
 # Is this the primary user of the site?

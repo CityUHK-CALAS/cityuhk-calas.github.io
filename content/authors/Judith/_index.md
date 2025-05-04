@@ -3,7 +3,7 @@
 title: Judith SI
 
 # Full Name (for SEO)
-first_name: Yuzhou
+first_name: Judith
 last_name: SI
 
 # Is this the primary user of the site?

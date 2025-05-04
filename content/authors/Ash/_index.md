@@ -3,7 +3,7 @@
 title: Ash SHI
 
 # Full Name (for SEO)
-first_name: Junshen
+first_name: Ash
 last_name: SHI
 
 # Is this the primary user of the site?

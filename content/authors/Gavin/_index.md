@@ -3,7 +3,7 @@
 title: Gavin LI
 
 # Full Name (for SEO)
-first_name: Guangyan
+first_name: Gavin
 last_name: LI
 
 # Is this the primary user of the site?

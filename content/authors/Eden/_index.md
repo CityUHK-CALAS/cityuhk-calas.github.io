@@ -3,7 +3,7 @@
 title: Eden ZHAO
 
 # Full Name (for SEO)
-first_name: Xudong
+first_name: Eden
 last_name: ZHAO
 
 # Is this the primary user of the site?

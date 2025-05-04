@@ -3,7 +3,7 @@
 title: Vanora WANG
 
 # Full Name (for SEO)
-first_name: Haoyu
+first_name: Vanora Haoyu
 last_name: WANG
 
 # Is this the primary user of the site?

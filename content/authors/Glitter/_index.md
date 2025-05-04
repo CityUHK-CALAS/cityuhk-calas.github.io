@@ -3,7 +3,7 @@
 title: Glitter FAN
 
 # Full Name (for SEO)
-first_name: Xingyu
+first_name: Glitter
 last_name: FAN
 
 # Is this the primary user of the site?

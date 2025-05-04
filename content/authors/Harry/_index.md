@@ -3,7 +3,7 @@
 title: Harry RAN
 
 # Full Name (for SEO)
-first_name: Zhuoheng
+first_name: Harry
 last_name: RAN
 
 # Is this the primary user of the site?

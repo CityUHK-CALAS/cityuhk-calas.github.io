@@ -3,7 +3,7 @@
 title: Leo HUANG
 
 # Full Name (for SEO)
-first_name: Yanlong
+first_name: Leo Yanlong
 last_name: HUANG
 
 # Is this the primary user of the site?

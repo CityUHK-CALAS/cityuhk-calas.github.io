@@ -3,7 +3,7 @@
 title: Ranger GUO
 
 # Full Name (for SEO)
-first_name: Runzhou
+first_name: Ranger Runzhou
 last_name: GUO
 
 # Is this the primary user of the site?

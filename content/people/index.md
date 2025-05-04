@@ -29,4 +29,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
 ---

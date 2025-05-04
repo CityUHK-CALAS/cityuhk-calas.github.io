@@ -3,7 +3,7 @@
 title: Wilson WONG
 
 # Full Name (for SEO)
-first_name: Ming Chi
+first_name: Wilson Ming Chi
 last_name: WONG
 
 # Is this the primary user of the site?

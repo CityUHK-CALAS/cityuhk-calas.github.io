@@ -3,7 +3,7 @@
 title: Jerry LIU
 
 # Full Name (for SEO)
-first_name: Jierui
+first_name: Jerry LIU
 last_name: LIU
 
 # Is this the primary user of the site?

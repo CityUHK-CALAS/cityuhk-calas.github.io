@@ -3,7 +3,7 @@
 title: Jason ZHANG
 
 # Full Name (for SEO)
-first_name: Wenjie
+first_name: Jason
 last_name: ZHANG
 
 # Is this the primary user of the site?

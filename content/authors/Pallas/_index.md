@@ -3,7 +3,7 @@
 title: Pallas
 
 # Full Name (for SEO)
-first_name: 
+first_name: Pallas
 last_name: 
 
 # Is this the primary user of the site?

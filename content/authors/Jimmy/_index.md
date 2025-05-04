@@ -3,7 +3,7 @@
 title: Jimmy JING
 
 # Full Name (for SEO)
-first_name: Peng
+first_name: Jimmy
 last_name: JING
 
 # Is this the primary user of the site?

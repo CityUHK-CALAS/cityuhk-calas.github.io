@@ -3,7 +3,7 @@
 title: Ryan LUK
 
 # Full Name (for SEO)
-first_name: Wai
+first_name: Ryan Wai
 last_name: LUK
 
 # Is this the primary user of the site?

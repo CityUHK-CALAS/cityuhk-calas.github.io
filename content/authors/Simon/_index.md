@@ -3,9 +3,8 @@
 title: Simon LYU
 
 # Full Name (for SEO)
-first_name: Shengzhe
-last_name: LYU
-
+first_name: Simon Shengzhe
+last_name: LYU 
 # Is this the primary user of the site?
 superuser: False
 

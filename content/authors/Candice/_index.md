@@ -3,7 +3,7 @@
 title: Candice ZHANG
 
 # Full Name (for SEO)
-first_name: Zhewen
+first_name: Candice
 last_name: ZHANG
 
 # Is this the primary user of the site?

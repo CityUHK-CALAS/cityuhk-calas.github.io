@@ -3,7 +3,7 @@
 title: Prof. Patrick HUNG
 
 # Full Name (for SEO)
-first_name: Patrick
+first_name: HUNG Patrick
 last_name: HUNG
 
 # Is this the primary user of the site?

@@ -3,7 +3,7 @@
 title: Fred CAI
 
 # Full Name (for SEO)
-first_name: Fengzhi
+first_name: Fred
 last_name: CAI
 
 # Is this the primary user of the site?

@@ -3,7 +3,7 @@
 title: Sherie SHEN
 
 # Full Name (for SEO)
-first_name: Shiyu
+first_name: Sherie Shiyu
 last_name: SHEN
 
 # Is this the primary user of the site?

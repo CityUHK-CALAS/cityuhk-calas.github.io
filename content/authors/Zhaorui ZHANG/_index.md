@@ -3,7 +3,7 @@
 title: Prof. Jenny ZHANG
 
 # Full Name (for SEO)
-first_name: Zhaorui
+first_name: Jenny Zhaorui
 last_name: ZHANG
 
 # Is this the primary user of the site?
