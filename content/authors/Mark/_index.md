@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jeffrey HONG
+title: Mark CHAN
 
 # Full Name (for SEO)
-first_name: Jeffrey Jinfa
-last_name: Hong
+first_name: Mark Yu Hin
+last_name: Chan
 
 # Is this the primary user of the site?
 superuser: False
@@ -21,16 +21,17 @@ organizations:
 bio: 
 
 interests:
-  - High-efffciency Cryptographic Hardware Design
-  - Algorithm-hardware Co-design
+  - Embedded Systems and Edge Computing
+  - Machine Learning and Artificial Intelligence
+  - Brain-Computer Interfaces (BCI)
 
 education:
   courses:
-    - course: BSc in Electronic Engineering
-      institution: Fuzhou University
+    - course: BSc in Electronic and Communication Engineering
+      institution: City University of Hong Kong 
       year: 2022
-    - course: MSc in Electrical Engineering
-      institution: City University of Hong Kong
+    - course: MSc in Computing
+      institution: Cardiff University, UK
       year: 2023  
 
 # Social/Academic Networking
@@ -40,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jinfahong2-c@my.cityu.edu.hk'   
+    link: 'mailto:yhchan96@cityu.edu.hk'   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +60,4 @@ user_groups:
   - Research Assistants
 ---
 
-Jeffrey received the B.S. degree in Electronic Engineering from Fuzhou University, Fuzhou, China, in 2022, and the M.S. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong, in 2023. He is currently a Research Assistant and pursuing his Ph.D. degree as part of the CALAS research group. His research focuses on high-efffciency cryptographic hardware design, with an emphasis on algorithm-hardware co-design methodology to optimize performance, security, and resource utilization. In particular, his recent work explores hardware acceleration techniques for post-quantum cryptography (PQC) algorithms, addressing the challenges posed by quantum computing threats to classical cryptographic schemes.
+Mr. Yu Hin Chan received his Bachelor’s degree in Electronic and Communication Engineering from City University of Hong Kong in 2022, followed by a Master’s degree in Computing from Cardiff University, UK. He is currently a Research Assistant in the Department of Electrical Engineering at City University of Hong Kong, under the supervision of Professor Ray C. C. Cheung.
