@@ -39,8 +39,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mcwong265-c@my.cityu.edu.hk'
-    icon_pack: ai
-    link: https://orcid.org/0009-0005-6722-4169
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/wilsonwmc/  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
