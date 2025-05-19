@@ -10,7 +10,7 @@ last_name: Kapya
 superuser: False
 
 # Role/position
-role: Intern Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:

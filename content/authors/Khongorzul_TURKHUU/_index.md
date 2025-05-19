@@ -10,7 +10,7 @@ last_name: TURKHUU
 superuser: False
 
 # Role/position
-role: Intern Student, CityUHK
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
