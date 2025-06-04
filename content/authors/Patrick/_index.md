@@ -10,7 +10,7 @@ last_name: HUNG
 superuser: False
 
 # Role/position
-role: Founder of IC companies in HK and Silicon Valley, CALAS Co-director
+role: Founder of IC companies in HK and Silicon Valley, CALAS Co-director, PhD of Stanford
 
 # Organizations/Affiliations
 organizations:

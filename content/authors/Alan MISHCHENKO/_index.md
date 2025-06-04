@@ -47,7 +47,7 @@ social:
     link: https://dl.acm.org/profile/81502777041 
   - icon: github
     icon_pack: ai
-    link: hhttps://github.com/alanminko    
+    link: https://github.com/alanminko    
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0004-1303-6261

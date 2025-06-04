@@ -10,7 +10,7 @@ last_name: CHEUNG
 superuser: false
 
 # Role/position
-role: Associate Provost (DL), Professor, CALAS director
+role: Associate Provost (DL), Professor, CALAS director, PhD of Imperial College London
 
 # Organizations/Affiliations
 organizations:
