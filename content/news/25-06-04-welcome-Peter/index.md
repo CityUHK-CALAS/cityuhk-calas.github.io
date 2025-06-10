@@ -1,5 +1,5 @@
 ---
-title: "Welcome Peter from University of Texas!"
+title: "Welcome Peter from University of Toronto!"
 date: 2025-06-04
 image:
   src: featured.jpg
@@ -9,7 +9,7 @@ share: false
 profile: false
 
 ---
-We are excited to welcome Peter from the University of Texas who will be joining our CALAS lab as a summer intern for the next 9 weeks!
+We are excited to welcome Peter from the University of Toronto who will be joining our CALAS lab as a summer intern for the next 9 weeks!
 <!--more-->
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 15px; margin: 20px 0;">
   <div>
