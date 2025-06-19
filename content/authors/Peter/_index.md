@@ -10,7 +10,7 @@ last_name: HU
 superuser: False
 
 # Role/position
-role: Undergraduate Student
+role: Exchange Student, University of Toronto
 
 # Organizations/Affiliations
 organizations:
