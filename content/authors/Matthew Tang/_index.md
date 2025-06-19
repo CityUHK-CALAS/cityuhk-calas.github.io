@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Matthew TANG
+title: Prof. Matthew TANG
 
 # Full Name (for SEO)
 first_name: Matthew
