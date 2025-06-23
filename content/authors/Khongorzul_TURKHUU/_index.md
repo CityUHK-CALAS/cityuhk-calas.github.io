@@ -10,7 +10,7 @@ last_name: TURKHUU
 superuser: False
 
 # Role/position
-role: Undergraduate Student
+role: Undergraduate Student, Mongolia
 
 # Organizations/Affiliations
 organizations:

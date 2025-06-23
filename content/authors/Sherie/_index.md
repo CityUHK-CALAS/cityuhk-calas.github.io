@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-doctoral Fellow
+  - Post-doctoral Fellows
 ---
 
 Dr. Shiyu SHEN(Sherie) received her Ph.D. degree in 2024 in the School of Computer Science, Fudan University.

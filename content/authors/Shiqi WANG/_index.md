@@ -10,7 +10,7 @@ last_name: WANG
 superuser: False
 
 # Role/position
-role: CityUHK CS Associate Professor, CALAS Faculty Members
+role: CityUHK CS Associate Professor, CALAS Faculty Member
 
 # Organizations/Affiliations
 organizations:

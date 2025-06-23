@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-doctoral Fellow
+  - Post-doctoral Fellows
 ---
 
 Dr. Irfan Muhammad received his PhD in Electrical Engineering from City University of Hong Kong in 2021. Following his graduation, he served as an Assistant Professor at the Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Pakistan. He has authored more than ten journal articles, with publications in prestigious venues including IEEE Transactions on Very Large Scale Integration (VLSI) Systems, IEEE Embedded Systems Letters, and Future Generation Computer Systems, among others. In addition to his publications, he holds three US patents. His research interests span high-speed memory design, optimization of ternary content-addressable memory (TCAM), reconfigurable computing, and embedded systems. He is currently a Postdoctoral Fellow at CALAS CityUHK.

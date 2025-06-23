@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Leader
+  - Team Leaders
 ---
 
 Prof. Ray Chak-Chung Cheung received the B.Eng.(Hons) and M.Phil. degrees in computer engineering and computer science & engineering from The Chinese University of Hong Kong (CUHK) in 1999 and 2001 respectively, and the DIC and Ph.D. degree in computing from Imperial College London (IC) in 2007.

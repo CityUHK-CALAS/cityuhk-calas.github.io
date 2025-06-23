@@ -10,7 +10,7 @@ last_name: GUO
 superuser: False
 
 # Role/position
-role: Research Assistants
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

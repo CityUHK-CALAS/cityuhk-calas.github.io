@@ -10,7 +10,7 @@ last_name: Kapya
 superuser: False
 
 # Role/position
-role: Undergraduate Student
+role: Undergraduate Student, Kenya
 
 # Organizations/Affiliations
 organizations:

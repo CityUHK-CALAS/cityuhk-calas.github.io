@@ -10,7 +10,7 @@ last_name: LI
 superuser: False
 
 # Role/position
-role: CityUHK EE Assistant Professor, CALAS Faculty Members
+role: CityUHK EE Assistant Professor, CALAS Faculty Member
 
 # Organizations/Affiliations
 organizations:

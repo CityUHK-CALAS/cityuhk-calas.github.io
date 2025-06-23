@@ -10,7 +10,7 @@ last_name: MA
 superuser: False
 
 # Role/position
-role: Master Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:

@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Advisors
 ---
 
 Sébastien Bourdeauducq founded the Milkymist open source project in 2007, which developed a high-efficiency Verilog system-on-chip (SoC) for FPGAs with real-time video processing capabilities. Components of the open-source Milkymist SoC soon found many different uses, such as the integration of its memory controller in a software-defined radio experiment by NASA in 2009 and its launch onboard the international space station in 2012. Based on the experience gained while developing Milkymist, Sébastien authored in 2011 the Migen hardware description language, which uses Python as a metaprogramming host for an embedded domain-specific language that synthesizes to hardware. Many complex designs and logic cores have since been developed with Migen, ranging from 5G base stations to Sébastien's current main project, the Advanced Real-Time Infrastructure for Quantum physics (ARTIQ). Developed in collaboration with world-leading physicists since 2014, the system provides a complete control and data acquisition solution that addresses the timing, scalability and programmability requirements of modern quantum information experiments. It relies heavily on Migen and FPGA technology. Sébastien received an MSc degree from the KTH Royal Institute of Technology, and a degree from Supélec.

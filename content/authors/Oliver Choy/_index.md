@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Advisors
 ---
 
 Professor Chiu-sing Choy received his B.Sc., M.Sc. and Ph.D. from the University of Manchester in 1983, 1984 and 1987 respectively, major in electrical and electronics engineering. From 1985, he spent a year in Ferranti Microelectronics, Oldham, U.K., participating in ASIC technology research. In 1986, he joined Department of Electronic Engineering, The Chinese University of Hong Kong, where he is presently a Professor.

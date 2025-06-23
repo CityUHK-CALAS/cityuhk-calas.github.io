@@ -10,7 +10,7 @@ last_name: LAM
 superuser: False
 
 # Role/position
-role: CityUHK EE Adjunct Professor, CALAS Faculty Members
+role: CityUHK EE Adjunct Professor, CALAS Faculty Member
 
 # Organizations/Affiliations
 organizations:

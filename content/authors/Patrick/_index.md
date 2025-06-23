@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Leader
+  - Team Leaders
 ---
 
 Prof. Patrick Hung received his BSc degree in Electrical Engineering from the University of Hong Kong, and MSc and Ph.D. degrees in Electrical Engineering from Stanford University. His research interests include high performance and low-power computing architectures. He has continuously given support and advice to our team for years. He was previously consulting faculty at Stanford University and is currently co-director of the joint laboratory between Stanford Computer Architecture & Arithmetic Group (SCAAG) and Shandong Academy of Information and Communication Technology (SAICT).

@@ -76,7 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-doctoral Fellow
+  - Post-doctoral Fellows
 ---
 
 Dr. Hao YANG (Hao) received his B.Eng degree in Information Security (2019) and Ph.D. degree in Cybersecurity (2024) from Nanjing University of Aeronautics and Astronautics.

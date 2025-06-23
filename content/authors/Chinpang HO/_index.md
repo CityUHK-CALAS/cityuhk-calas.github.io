@@ -10,7 +10,7 @@ last_name: HO
 superuser: False
 
 # Role/position
-role: CityUHK DS Assistant Professor, CALAS Faculty Members
+role: CityUHK DS Assistant Professor, CALAS Faculty Member
 
 # Organizations/Affiliations
 organizations:

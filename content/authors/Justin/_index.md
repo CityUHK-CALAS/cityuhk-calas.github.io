@@ -10,7 +10,7 @@ last_name: SIU
 superuser: False
 
 # Role/position
-role: Undergraduate Students
+role: Undergraduate Student, HK
 
 # Organizations/Affiliations
 organizations:

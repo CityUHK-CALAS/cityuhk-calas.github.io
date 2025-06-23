@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-doctoral Fellow
+  - Post-doctoral Fellows
 ---
 
 Dr. Abdurrashid Ibrahim SANKA hailed from Kano State, Nigeria. He received his B.Eng Electrical (first class) in the Department of Electrical Engineering, Bayero University, Kano in 2011. He then got his master degree in Embedded Microelectronics and Wireless Systems from Coventry University, United Kingdom (UK) in 2014. He works as a lecturer at Bayero University, Kano since 2012. Dr. Sanka joined the CALAS group in 2017 for his Ph.D. in the Department of Electrical Engineering, City University of Hong Kong, and he received his Ph.D. degree in 2022.

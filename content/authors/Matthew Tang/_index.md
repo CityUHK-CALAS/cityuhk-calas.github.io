@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Advisor
+  - Team Advisors
 ---
 
 Matthew Wai-Chung Tang finished his B.Eng. in Computer Engineering, MPhil, and PhD in Computer Science and Engineering from the Chinese University of Hong Kong (CUHK) in 2003, 2005, and 2008 respectively. He is now a Senior Lecturer (Teaching and scholarship) in Computer Engineering at the School of Electric Engineering and Computer Science (EECS), Queen Mary University of London (QMUL). He teaches primarily in the QMUL-BUPT Joint Programme (JP). Currently, he is the Director of the JP Innovation Centre and the Programme Lead of the Internet of Things Engineering Programme. He received the Teaching Excellence Award from BUPT-QMUL Joint Programme in 2017/18. He is a Chartered Engineer, a fellow of the Higher Education Academy (HEA), and a member of IET and IEEE. Matthew is interested in RISC-V architecture and implementation, reconfigurable computing, and design automation algorithms for Field Programming Gate Arrays (FPGA). He receives the Celoxica Best Paper Award in the 2007 IEEE Southern Conference on Programmable Logic (SPL'07) and the Best Presentation Award in the 2007 International Ph.D. Workshop on SoC (IPS'07).

@@ -10,7 +10,7 @@ last_name: LUK
 superuser: False
 
 # Role/position
-role: Research Assistants
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
