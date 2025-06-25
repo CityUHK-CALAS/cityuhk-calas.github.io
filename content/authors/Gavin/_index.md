@@ -30,7 +30,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: City University of Hong Kong
       year: 2025
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: City University of Hong Kong
       year: 2020
 

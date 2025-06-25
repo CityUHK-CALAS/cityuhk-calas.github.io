@@ -33,7 +33,7 @@ education:
     - course: MSc in Computer Science
       institution: Xi’an Jiaotong University
       year: 2023
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Northwestern Polytechnical University
       year: 2020
 

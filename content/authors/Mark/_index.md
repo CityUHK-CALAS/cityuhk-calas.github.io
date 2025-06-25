@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electronic and Communication Engineering
+    - course: BEng in Electronic and Communication Engineering
       institution: City University of Hong Kong 
       year: 2022
     - course: MSc in Computing

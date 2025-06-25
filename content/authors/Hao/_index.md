@@ -31,7 +31,7 @@ education:
     - course: PhD in Cybersecurity
       institution: Nanjing University of Aeronautics and Astronautics
       year: 2024
-    - course: BSc in Information Security
+    - course: BEng in Information Security
       institution: Nanjing University of Aeronautics and Astronautics
       year: 2019
 

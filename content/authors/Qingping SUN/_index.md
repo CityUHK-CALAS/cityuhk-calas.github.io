@@ -28,7 +28,7 @@ education:
     - course: MSc in Computer Science
       institution: Hunan University
       year: 2022
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Hainan University
       year: 2020
 

@@ -36,7 +36,7 @@ education:
     - course: MSc in Mechanical and Automation Engineering
       institution: Chinese University of Hong Kong
       year: 2001
-    - course: BSc in Mechanical and Automation Engineering
+    - course: BEng in Mechanical and Automation Engineering
       institution: Chinese University of Hong Kong
       year: 1999
 

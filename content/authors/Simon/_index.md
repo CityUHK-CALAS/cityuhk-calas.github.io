@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: Dual BSc in Microelectronics Science and Engineering
+    - course: Dual BEng in Microelectronics Science and Engineering
       institution: KU Leuven and South China University of Technology 
       year: 2023
 

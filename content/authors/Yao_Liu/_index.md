@@ -34,7 +34,7 @@ education:
     - course: Msc in Microelectronics
       institution: Fudan University
       year: 2011
-    - course: BSc in Microelectronics
+    - course: BEng in Microelectronics
       institution: Fudan University
       year: 2008
 

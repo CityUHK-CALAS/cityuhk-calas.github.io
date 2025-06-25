@@ -33,7 +33,7 @@ education:
     - course: Msc in Applied Science
       institution: University of Windsor
       year: 2013
-    - course: BSc in Electrical Engineering and Automation
+    - course: BEng in Electrical Engineering and Automation
       institution: Beijing Institute of Technology
       year: 2010
 

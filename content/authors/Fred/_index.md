@@ -29,7 +29,7 @@ education:
     - course: MSc in Electronic Information Engineering
       institution: City University of Hong Kong
       year: 2023
-    - course: BSc in Electronic Information Science and Technology
+    - course: BEng in Electronic Information Science and Technology
       institution: South China Normal University
       year: 2019
 

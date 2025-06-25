@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Information Science and Engineering
+    - course: BEng in Information Science and Engineering
       institution: Shandong University
       year: 2023
 

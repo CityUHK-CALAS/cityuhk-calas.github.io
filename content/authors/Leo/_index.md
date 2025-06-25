@@ -31,7 +31,7 @@ education:
     - course: MSc in Electrical Engineering
       institution: University of Massachusetts Lowell
       year: 2019
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: University of Massachusetts Lowell
       year: 2017
 

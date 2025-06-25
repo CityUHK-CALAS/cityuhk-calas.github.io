@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electronics Information Science and Technology
+    - course: BEng in Electronics Information Science and Technology
       institution: Harbin Institute of Technology
       year: 2020
 

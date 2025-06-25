@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Nanjing Normal University
       year: 2024
 

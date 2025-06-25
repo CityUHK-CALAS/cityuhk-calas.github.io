@@ -29,7 +29,7 @@ education:
     - course: PhD in Computer Science
       institution: University of Hong Kong
       year: 2017
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Xi’an Jiaotong University
       year: 2012
 

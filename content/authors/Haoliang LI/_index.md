@@ -30,7 +30,7 @@ education:
     - course: PhD in Electrical and Electronic Engineering
       institution: Nanyang Technological University
       year: 2018
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: University of Electronic Science and Technology of China
       year: 2013
 

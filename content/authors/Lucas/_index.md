@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Microelectronics Science and Engineering
+    - course: BEng in Microelectronics Science and Engineering
       institution: Zhejiang University
       year: 2020
 

@@ -32,7 +32,7 @@ education:
     - course: MSc in Electrical Engineering
       institution: Stanford University
       year: 1988
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: University of Hong Kong
       year: 1986
 
@@ -63,4 +63,4 @@ user_groups:
   - Team Leaders
 ---
 
-Prof. Patrick Hung received his BSc degree in Electrical Engineering from the University of Hong Kong, and MSc and Ph.D. degrees in Electrical Engineering from Stanford University. His research interests include high performance and low-power computing architectures. He has continuously given support and advice to our team for years. He was previously consulting faculty at Stanford University and is currently co-director of the joint laboratory between Stanford Computer Architecture & Arithmetic Group (SCAAG) and Shandong Academy of Information and Communication Technology (SAICT).
+Prof. Patrick Hung received his BEng degree in Electrical Engineering from the University of Hong Kong, and MSc and Ph.D. degrees in Electrical Engineering from Stanford University. His research interests include high performance and low-power computing architectures. He has continuously given support and advice to our team for years. He was previously consulting faculty at Stanford University and is currently co-director of the joint laboratory between Stanford Computer Architecture & Arithmetic Group (SCAAG) and Shandong Academy of Information and Communication Technology (SAICT).

@@ -36,7 +36,7 @@ education:
     - course: MSc in Electrical and Electronics Engineering
       institution: University of Manchester
       year: 1984
-    - course: BSc in Electrical and Electronics Engineering
+    - course: BEng in Electrical and Electronics Engineering
       institution: University of Manchester
       year: 1983  
 

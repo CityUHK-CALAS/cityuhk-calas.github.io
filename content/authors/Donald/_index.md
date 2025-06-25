@@ -32,7 +32,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: City University of Hong Kong
       year: 2015
-    - course: BSc in Electrical and Electronics Engineering
+    - course: BEng in Electrical and Electronics Engineering
       institution: Wuhan University of Technology
       year: 2011
 

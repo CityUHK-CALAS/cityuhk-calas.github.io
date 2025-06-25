@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Microelectronics of Science and Engineering
+    - course: BEng in Microelectronics of Science and Engineering
       institution: SUSTech, Shenzhen
       year: 2023
 

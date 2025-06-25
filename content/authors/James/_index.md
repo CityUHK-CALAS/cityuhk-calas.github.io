@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Information Engineering
+    - course: BEng in Information Engineering
       institution: City University of Hong Kong
       year: 2024
 

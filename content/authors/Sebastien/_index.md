@@ -30,7 +30,7 @@ education:
     - course: PhD in Computer Application Technology
       institution: KTH Royal Institute of Technology
       year: 2010
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: CentraleSupélec 
       year: 2010
 

@@ -34,7 +34,7 @@ education:
     - course: MEng in Embedded Microelectronics and Wireless Systems
       institution: Coventry University
       year: 2014
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Bayero University
       year: 2011
 

@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Telecommunications Engineering
+    - course: BEng in Telecommunications Engineering
       institution: University of Liverpool
       year: 2022
     - course: MSc in Integrated Circuit Design Engineering

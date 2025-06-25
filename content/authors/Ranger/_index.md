@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Information and Communication Engineering
+    - course: BEng in Information and Communication Engineering
       institution: Nanjing Institute of Technology
       year: 2018
     - course: MSc in Electronic Information Engineering

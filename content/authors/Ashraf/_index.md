@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Minia University Faculty of Engineering
       year: 2017
 

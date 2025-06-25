@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Computer and Data Engineering
+    - course: BEng in Computer and Data Engineering
       institution: City University of Hong Kong
       year: 2023
 

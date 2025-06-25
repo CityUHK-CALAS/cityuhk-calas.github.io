@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electrical Engineering
-      institution: Hong Kong University of Science and Technology
-      year: 2021
     - course: MSc in Electrical Engineering
       institution: City University of Hong Kong
-      year: 2022  
+      year: 2022 
+    - course: BSc in Electrical Engineering
+      institution: Hong Kong University of Science and Technology
+      year: 2021 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

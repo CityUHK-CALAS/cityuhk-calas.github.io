@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electronic Engineering
+    - course: BEng in Electronic Engineering
       institution: Fuzhou University
       year: 2022
     - course: MSc in Electrical Engineering

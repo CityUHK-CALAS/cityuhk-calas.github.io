@@ -31,7 +31,7 @@ education:
     - course: MSc in Computer Engineering
       institution: Hong Kong University of Technology
       year: 2011
-    - course: BSc in Computer Engineering
+    - course: BEng in Computer Engineering
       institution: Hong Kong University of Technology
       year: 2007
 

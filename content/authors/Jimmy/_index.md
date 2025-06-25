@@ -29,7 +29,7 @@ education:
     - course: MSc in Microelectronics
       institution: Tianjin University
       year: 2023
-    - course: BSc in Microelectronics
+    - course: BEng in Microelectronics
       institution: Tianjin University
       year: 2020
 

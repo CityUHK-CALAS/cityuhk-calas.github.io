@@ -31,7 +31,7 @@ education:
     - course: PhD in Cryptography
       institution: Fudan University
       year: 2024
-    - course: BSc in Cybersecurity
+    - course: BEng in Cybersecurity
       institution: Nanjing University
       year: 2019
 

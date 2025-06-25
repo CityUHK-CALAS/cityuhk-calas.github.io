@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: City University of Hong Kong
       year: 2022
 

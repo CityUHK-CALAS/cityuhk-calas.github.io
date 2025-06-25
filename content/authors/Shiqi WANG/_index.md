@@ -31,7 +31,7 @@ education:
     - course: PhD in Computer Application Technology
       institution: Peking University
       year: 2014
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Harbin Institute of Technology
       year: 2008
 

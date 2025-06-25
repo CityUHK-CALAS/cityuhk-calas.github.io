@@ -29,7 +29,7 @@ education:
     - course: MSc in Electronics and Computer Science
       institution: University of Southampton
       year: 2022
-    - course: BSc in Electronic Information Engineering
+    - course: BEng in Electronic Information Engineering
       institution: Tiangong University, Tianjin
       year: 2021
 
