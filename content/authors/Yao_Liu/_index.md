@@ -10,7 +10,7 @@ last_name: LIU
 superuser: False
 
 # Role/position
-role: Assistant Professor, School of Microelectronics Science and Technology
+role: Assistant Professor, School of Microelectronics Science and Technology, SYSU
 
 # Organizations/Affiliations
 organizations:

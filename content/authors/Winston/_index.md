@@ -10,7 +10,7 @@ last_name: DAI
 superuser: False
 
 # Role/position
-role: Associate Professor, School of Cyber Science and Technology
+role: Associate Professor, School of Cyber Science and Technology, SYSU
 
 # Organizations/Affiliations
 organizations:

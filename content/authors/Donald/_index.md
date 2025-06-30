@@ -10,7 +10,7 @@ last_name: CHEN
 superuser: False
 
 # Role/position
-role: Associate Professor, Associate Head, Department of Statistics and Data Science
+role: Associate Professor, Associate Head, Department of Statistics and Data Science, BNU-HKBU
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,8 @@ bio:
 
 interests:
   - Data Security/Information Security
-  - Cryptographic algorithm - hardware and software acceleration,
+  - Cryptographic algorithm 
+  - Hardware and software acceleration,
   - Privacy computing,
   - High-performance digital circuit design,
   - Medical Image Processing
