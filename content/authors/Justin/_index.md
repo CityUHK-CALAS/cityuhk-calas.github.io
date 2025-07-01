@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Justin SIU
+title: Justin AU
 
 # Full Name (for SEO)
-first_name: Justin SIU-TING
-last_name: SIU
+first_name: Justin Lik Hang
+last_name: AU
 
 # Is this the primary user of the site?
 superuser: False
@@ -21,7 +21,8 @@ organizations:
 bio: 
 
 interests:
-  - Robotics and IoT Technologies.
+  - Artificial intelligence
+  - Internet of Things
 
 education:
   courses:
@@ -51,4 +52,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Mr. Siu-Ting Siu(Justin) an undergraduate student majoring in Computer and Data Engineering in the Electrical Engineering Department at City University of Hong Kong. Last semester, he was honored to be included on the Dean’s List. Currently, he is participating in an exchange program at the Czech Technical University in Prague, where he will be further expanding my knowledge and skills.
+Mr. Justin Lik Hang AU is an undergraduate student at the City University of Hong Kong pursuing a BEng in Information Engineering.  He is particularly interested in finding efficient approaches to build and train AI models without high demand for technical skills and computation power, as well as making an IoT system run by itself in a smarter way.
