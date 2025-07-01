@@ -7,6 +7,11 @@ main:
   - name: Events
     url: events
     weight: 10
+    # Submenus for Events
+  - name: Asiacrypt 2025
+    url: asiacrypt25
+    parent: Events
+    weight: 11
   - name: News
     url: news
     weight: 20
