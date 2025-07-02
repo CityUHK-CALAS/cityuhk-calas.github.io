@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:daiwch@mail.sysu.edu.cn'
-  - icon: google-scholar
-    icon_pack: fab
+  - icon: ieee
+    icon_pack: ai
     link: https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
