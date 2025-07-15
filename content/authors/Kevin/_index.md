@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - International Exchange Visitors
 ---
 <div style="text-align: justify">
 Kevin is an undergraduate student pursuing dual degrees in Data Science and Computer Science at the University of Michigan College of Engineering. Originally from Hong Kong, he brings a distinctive combination of research experience, entrepreneurial vision, and technical innovation to his academic and professional endeavors.<br>
