@@ -10,7 +10,7 @@ last_name: SUN
 superuser: False
 
 # Role/position
-role: Undergraduate Student, US
+role: Exchange Student, University of Michigan
 
 # Organizations/Affiliations
 organizations:

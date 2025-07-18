@@ -23,6 +23,7 @@ sections:
           - Researchers
           - Administration
           - International Exchange Visitors
+          - Summer Intern Students
       sort_by: Params.first_name
       sort_ascending: true
     design:
