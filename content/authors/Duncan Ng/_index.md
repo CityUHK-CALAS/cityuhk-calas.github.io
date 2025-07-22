@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-  -	Information Theory
-  -	Machine Learning
-  -	Bioinformatics
+  - Information Theory
+  - Machine Learning
+  - Bioinformatics
 
 education:
   courses:

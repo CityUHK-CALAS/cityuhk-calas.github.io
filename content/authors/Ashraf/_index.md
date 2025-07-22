@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abdelgawad Abdelhamid 
+title: Abdelgawad ABDELHAMID 
 
 # Full Name (for SEO)
 first_name: Abdelgawad

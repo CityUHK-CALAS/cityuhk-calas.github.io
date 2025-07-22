@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Ray C.C. Cheung
+title: Prof. Ray C.C. CHEUNG
 
 # Full Name (for SEO)
 first_name: Cheung Ray

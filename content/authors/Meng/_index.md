@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinmin Meng
+title: Xinmin MENG
 
 # Full Name (for SEO)
 first_name: Xinmin
