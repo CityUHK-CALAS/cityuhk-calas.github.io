@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Shutonjin97@gmail.com'
+    link: 'mailto:shutong.jin@my.cityu.edu.hk'
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5491-5634
