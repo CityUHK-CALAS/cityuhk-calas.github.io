@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Duncan NG
+title: Kristobel HUNG
 
 # Full Name (for SEO)
-first_name: Duncan 
-last_name: NG
+first_name: Kristobel
+last_name: HUNG
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Exchange Student, University of Oxford
+role: High School Student, International Christian School
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Oxford
-    url: 'https://www.ox.ac.uk/'
+  - name: International Christian School
+    url: 'https://www.ics.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Information Theory
-  - Machine Learning
-  - Bioinformatics
+  - Biomedical Engineering
+  - Image and Signal Processing
+
+
 
 education:
   courses:
@@ -36,13 +37,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:duncan.nph@gmail.com' 
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/duncan-nph
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/duncan-nph/ 
+    link: 'mailto:hungkristobel@gmail.com'  
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - International Exchange Visitors
+  - Summer Intern Students
 ---
 
-Duncan Ng Pui Hei is an undergraduate reading Computer Science at the University of Oxford. His academic interests include information theory, machine learning, and bioinformatics. He is currently exploring research opportunities related to these areas, while building experience in both theoretical and applied aspects of computing. With a background in competitive programming, he brings strong problem-solving skills to his academic and research pursuits. He also contributes to Hour of Code HK, supporting efforts to make computer science more accessible to students.
+As a student going into high school at International Christian School, Kristobel aspires to blend her passion for biomedicine and engineering to pursue in the future. As of now in her summer internship at CityU under Professor Ray Cheung, she has learnt to understand and program FPGA boards and is looking into the fundamentals of image and signal processing. She is keen to utilise her knowledge to contribute to society.
