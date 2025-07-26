@@ -10,7 +10,7 @@ last_name: LUK
 superuser: False
 
 # Role/position
-role: Research Assistant
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD Students
 ---
 
-Mr. Wai Lam LUK(Ryan) received his BEng in Electronic Engineering from The Hong Kong University of Science and Technology in 2021. He is now a research assistant supervised by Dr. Ray C. C. Cheung in the Department of Electrical Engineering, City University of Hong Kong, and an MSc student in electrical engineering, City University of Hong Kong, since 2022.
+Mr. Wai Lam LUK(Ryan) received his BEng in Electronic Engineering from The Hong Kong University of Science and Technology in 2021. He is now a research assistant supervised by Dr. Ray C. C. Cheung in the Department of Electrical Engineering, City University of Hong Kong, and an MSc student in electrical engineering, City University of Hong Kong, since 2022. And he will start his PhD journey from September 2025.
