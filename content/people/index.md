@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Team Leaders          
           - Team Advisors
+          - Visiting Professors
           - Team Faculty Members
           - Affiliate Faculty Members
           - Post-doctoral Fellows
