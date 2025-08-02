@@ -1,30 +1,28 @@
 ---
 # Display name
-title: Harman PANJETA
+title: Kyle LAI
 
 # Full Name (for SEO)
-first_name: Harman
-last_name: PANJETA
+first_name: Kyle
+last_name: LAI
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: High School Student, King George V School
+role: High School Student, Sha Tin college
 
 # Organizations/Affiliations
 organizations:
-  - name: King George V School
-    url: 'https://kgv.esf.edu.hk/en/'
+  - name: Sha Tin college
+    url: 'https://shatincollege.esf.edu.hk/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Hardware Design
+  - Electrophysics
   - Microelectronics
-  - Signal Processing
-
 
 education:
   courses:
@@ -37,10 +35,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hspanjeta11@gmail.com'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/harman-panjeta-718a82369/   
+    link: 'mailto:kylethlai0402@gmail.com'  
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,4 +55,4 @@ user_groups:
   - Summer Intern Students
 ---
 
-Harman Panjeta is a high school student at King George V School. He actively pursues his own projects with the goal of bringing ideas to life and enjoys spending time creating models and systems to learn about various aspects of engineering practically. As an intern at CityU, under the supervision of Professor Ray Cheung and Jerry Zhang, he has learned how to implement AI through APIs into various problems as well as how to develop and program circuits with FPGA boards.
+Kyle LAI is a High school student currently attending Sha Tin college, with a vested interest to learn more about electronics and their working principles at a fundamental level, with some understanding in programming and basic algorithm design. Over the course of his internship at CityU, under the supervision of Professor Ray C C Cheung and Jerry Zhang, he has tackled multiple programming challenges, setted up a knowledge base for an AI utilising RAG approach to use, as well as the basics in programming an FPGA board.
