@@ -1,0 +1,17 @@
+
+@Article{electronics14050850,
+AUTHOR = {Zhang, Zhewen and Liu, Yao and She, Yuhan and Sanka, Abdurrashid Ibrahim and Hung, Patrick S. Y. and Cheung, Ray C. C.},
+TITLE = {ConBOOM: A Configurable CPU Microarchitecture for Speculative Covert Channel Mitigation},
+JOURNAL = {Electronics},
+VOLUME = {14},
+YEAR = {2025},
+NUMBER = {5},
+ARTICLE-NUMBER = {850},
+URL = {https://www.mdpi.com/2079-9292/14/5/850},
+ISSN = {2079-9292},
+ABSTRACT = {Speculative execution attacks are serious security problems that cause information leakage in computer systems by building speculative covert channels. Hardware defenses mitigate speculative covert channels through microarchitectural changes. However, two main limitations become the major bottleneck in existing hardware defenses. High-security hardware defenses, such as eager delay, can effectively mitigate both known and unknown covert channels. However, these defenses incur high performance overhead due to the long-fixed delayed execution applied in all potential attack scenarios. In contrast, hardware defenses with low performance overhead are faster and can mitigate known covert channels, but lack sufficient security to mitigate unknown covert channels. The limitations indicate that it is difficult to achieve better security and performance of a processor against speculative execution attacks using a single defense method. In this paper, we propose ConBOOM, a configurable central processing unit (CPU) microarchitecture that provides optimized switchable hardware defensive modes, including the high-security eager delay mode and two proposed performance-optimized modes based on the anticipated attack scenarios. The defensive modes allow for flexibility in mitigating different speculative execution attacks with better performance, unlike the existing defenses having fixed performance overhead for all attack scenarios. The ConBOOM modes can be switched without modifying the hardware, and switching ConBOOM to the suitable mode for the anticipated attack scenario is achieved through the provided software configuration interface. We implemented ConBOOM on Berkeley’s RISC-V out-of-order processor core (SonicBOOM). Furthermore, we evaluated ConBOOM on the VCU118 FPGA platform. Compared to the existing representative work with the fixed performance overhead of 39.1%, ConBOOM has the lower performance overhead ranging between 15.1% and 39.1% to mitigate different attack scenarios. ConBOOM provides more defensive flexibility with negligible hardware resource overhead about 2.0% and good security.},
+DOI = {10.3390/electronics14050850}
+}
+
+
+

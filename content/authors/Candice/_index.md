@@ -39,6 +39,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:candice123.wen@gmail.com'
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4994-5895  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
