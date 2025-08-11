@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Muya KAPYA
+title: Bofu CHANG
 
 # Full Name (for SEO)
-first_name: Muya
-last_name: Kapya
+first_name: Bofu Charlie
+last_name: CHANG
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Undergraduate Student, Kenya
+role: Undergraduate Student, CityUHK
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,14 @@ organizations:
 bio: 
 
 interests:
-  - FPGA Development
-  - Embedded Systems
-  - Hardware-Software Interfaces
+  - RISC-V Out-of-Order Execution
+  - Security-performance Balance in Speculative Execution
 
 education:
-  courses:
+  course:
+    - course: BEng in Automation
+      institution: Harbin Institution of Technology, Shenzhen
+      year: 2025
     
 
 # Social/Academic Networking
@@ -36,13 +38,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zmkapya2-c@my.cityu.edu.hk'
-  - icon: linkedin
+    link: 'mailto:citcra@foxmail.com'
+  - icon: github
     icon_pack: fab
-    link: https://www.linkedin.com/in/zachariahkapya/    
-  - icon: orcid
-    icon_pack: ai
-    link: https://github.com/muya17
+    link: https://github.com/novemberinnorth    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +60,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Mr. Zachariah Muya Kapya (Muya) hails from Zambia and is pursuing a BEng in Computer and Data Engineering with a minor in Finance at City University of Hong Kong. With a strong interest in FPGA development, embedded systems, and hardware-software interfaces, Muya is developing his technical skills in programming and chip design to address global challenges through entrepreneurship. Passionate about advancing AI and technology through hardware-software integration, Muya enjoys reading, public speaking, and contributing to innovative solutions.
+Mr. Bofu Chang is an undergraduate student majoring in Automation in the Department of Robotics and Advanced Manufacture at Harbin Institution of Technology, Shenzhen. He is currently participating in a 3+1+2 program by City University of Hong Kong in Qingdao, and will become a MPhil student after graduation.
