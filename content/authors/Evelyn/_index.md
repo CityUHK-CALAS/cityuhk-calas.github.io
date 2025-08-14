@@ -68,6 +68,4 @@ user_groups:
   - International Exchange Visitors
 ---
 
-Evelyn Fung is a sophomore at the University of Pennsylvania, majoring in Artificial Intelligence. As a recipient of the Hong Kong Scholarship for Excellence Scheme, a merit-based award
-funded by the Hong Kong government, she is pursuing her studies abroad and exploring her passion for AI research and development. Her academic interests focus on machine learning
-and generative models, with hands-on experience in research projects exploring their applications.
+Evelyn Fung is a sophomore at the University of Pennsylvania, majoring in Artificial Intelligence. As a recipient of the Hong Kong Scholarship for Excellence Scheme, a merit-based award funded by the Hong Kong government, she is pursuing her studies abroad and exploring her passion for AI research and development. Her academic interests focus on machine learning and generative models, with hands-on experience in research projects exploring their applications.
