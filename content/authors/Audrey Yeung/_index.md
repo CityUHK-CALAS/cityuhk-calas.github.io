@@ -10,7 +10,7 @@ last_name: YEUNG
 superuser: False
 
 # Role/position
-role: High School Student, Shung Tak Catholic English College
+role: High School Student, Cardiff Sixth Form College and Stanford Online High School
 
 # Organizations/Affiliations
 organizations:
