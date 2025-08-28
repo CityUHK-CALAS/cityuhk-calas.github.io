@@ -15,7 +15,8 @@ We are delighted to have Zoe begin her journey as a Ph.D. candidate, who has rec
 
 | ![](image1.jpg) | ![](image2.jpg) |
 |-----------------|-----------------|
-We are delighted to have Zoe begin her journey as a Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung, with Prof. Patrick Hung serving as her co-supervisor.
+
+Welcome Zoe begin her journey as a Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung, with Prof. Patrick Hung serving as her co-supervisor.
 
 Zoe brings an impressive academic foundation to our team, having received her BEng degree from Tsinghua University, Beijing in 2019, followed by her MSc degree from Georgia Institute of Technology, Atlanta in 2021—achieved with full marks, demonstrating her exceptional dedication to academic excellence.
 
