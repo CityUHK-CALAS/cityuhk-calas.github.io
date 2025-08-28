@@ -7,7 +7,7 @@ share: false
 profile: false
 
 ---
-We're delighted to welcome Ren Qingyuan as our newest PhD student under the supervision of Prof. Ray C. C. Cheung!
+We're delighted to welcome Ren Qingyuan from Duke University and RIVAI as our newest PhD student under the supervision of Prof. Ray C. C. Cheung!
 <!--more-->
 
 <div style="text-align: justify">
