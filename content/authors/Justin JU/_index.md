@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Undergraduate Students
 ---
 
 I am Jiaxing Ju, an undergraduate student majoring in Microelectronic Science and Engineering at the South China University of Technology. With a solid academic foundation, I maintain an excellent academic record, achieving an average score of 80.24/100. I am particularly skilled in embedded systems development, C language programming, analog integrated circuit design (Cadence), and IoT technology applications

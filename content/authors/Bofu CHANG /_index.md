@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bofu CHANG
+title: Charlie CHANG
 
 # Full Name (for SEO)
 first_name: Bofu Charlie
