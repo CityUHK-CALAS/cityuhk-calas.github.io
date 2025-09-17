@@ -10,7 +10,7 @@ last_name: JU
 superuser: False
 
 # Role/position
-role: Master Student
+role: Undergraduate, CityUHK (Qingdao)
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: CHANG
 superuser: False
 
 # Role/position
-role: Undergraduate Student, CityUHK
+role: Undergraduate, CityUHK (Qingdao)
 
 # Organizations/Affiliations
 organizations:

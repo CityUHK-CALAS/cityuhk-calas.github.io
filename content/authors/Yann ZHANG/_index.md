@@ -10,7 +10,7 @@ last_name: ZHANG
 superuser: False
 
 # Role/position
-role: Undergraduate Student, SCUT
+role: Undergraduate, CityUHK (Qingdao)
 
 # Organizations/Affiliations
 organizations:
