@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lonz LEE
+title: Krish THYAGARAJAN
 
 # Full Name (for SEO)
-first_name: Lonz
-last_name: LEE
+first_name: Krish 
+last_name: Thyagarajan
 
 # Is this the primary user of the site?
 superuser: False
@@ -21,16 +21,17 @@ organizations:
 bio: 
 
 interests:
-  - Algorithm Design
-  - Computer Vision
-  - Machine Learning
-
+  - Robotics
+  - Bioelectronics
+  - Deep Learning
+  - Green Energy
 
 education:
   courses:
-    - course: BEng in Computing
+    - course: BEng in Electrical and Electronic Engineering
       institution: Imperial College London
-      year: 2027
+      year: 2028
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,14 +40,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lsl224@ic.ac.uk'
+    link: 'mailto:kt1024@ic.ac.uk'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lonzlee/
+    link: https://www.linkedin.com/in/krish-t-44b7b032a   
   - icon: github
     icon_pack: fab
-    link: https://github.com/Metrinox
-    
+    link: https://github.com/KrishTEEEE
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,8 +66,6 @@ user_groups:
   - International Exchange Visitors
 ---
 
-Lonz Lee is an undergraduate student at Imperial College London in BEng Computing (2024-2027). As a Hong Kong Scholarship for Excellence Scheme (HKSES) scholar, he is eager to bridge the gap between theoretical research and real world applications.<br>
-From the very start of term, Lonz has immersed himself in both coursework and hands on projects:<br>
-Algorithm Design: Developed a C brainfuck transpiler as part of the Year 1 group assignment, honing low level parsing and optimization skills.<br>
-Computer Vision: Working on the CityU CALAS Underwater Robot Team, using OpenCV to rewrite parts of the camera interface.<br>
-Machine Learning: Authored a Jupyter Notebook demonstrating an AI driven strategy for cryptocurrency trading.
+Krish is studying an Integrated Master’s in Electrical and Electronic Engineering at Imperial College London, where he is a Dean’s List awardee. He has worked on projects such as developing an envelope detector for demodulating AM ultrasonic signals and also designing a hardware multiplier for a Harvard Architecture CPU.
+
+As part of the CityU Underwater Robotics team, he has independently developed a VR control system for the lab’s mini submarine. Eager to create solutions that solve real-world problems, he is actively exploring fields like deep learning, robotics and green energy. Beyond his studies, he has actively engaged with the wider tech community through events such as London Tech Week, IET Talks, and the Semi-Impact Forum. He is also participating in Hackathons to gain experience and learn from excellent people.
