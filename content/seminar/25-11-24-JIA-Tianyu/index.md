@@ -13,7 +13,7 @@ address:
 
 summary: |
   **Speaker**: Dr. Tianyu Jia, Assistant Professor, Peking University<br>
-  **Time**: November 24 2025 (Sun) at 10:00 HKT
+  **Time**: November 24 2025 (Mon) at 10:00 HKT
 
 
 # Talk start and end times.
