@@ -11,19 +11,27 @@ sections:
       text: | 
        ## **Postdoc Awardee**
          <details>
-          <summary> <strong>Dr. Chiwai YU</strong> (2011 Postdoctoral) <span>&#10132;</span> Syner Wealth Technology</summary>
+          <summary> <strong>Dr. Chiwai YU</strong> (2011 Postdoctoral) <span>&#10132;</span> Synerwealth Technology Limited <span>&#10132;</span> BGC Group Information <span>&#10132;</span> FMX Futures Exchange</summary>
           <ul> 
-          <li>Research focus: TBC </li>
-          <li>Current position: TBC </li>
+          <li>Research focus: Computer Architecture </li>
+          <li>Current position: FPGA Developer </li>
           </ul>
           </details>
         
        ## **PhD Awardees (19 in total)**
         <details>
-        <summary> <strong>Dr. Gavin Guangyan LI (Gavin)</strong> (2025 graduate) <span>&#10132;</span> City University of Hong Kong </summary>
+        <summary> <strong>Dr. Zewen YE (Lucas)</strong> (2025 graduate) <span>&#10132;</span> Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay. Area (QSCGBA) </summary>
+        <ul> 
+          <li>Research focus: Cryptographic Hardware Design </li>
+          <li>Current position: Postdoctoral Fellow </li>
+        </ul>
+        </details>
+
+        <details>
+        <summary> <strong>Dr. Guangyan LI (Gavin)</strong> (2025 graduate) <span>&#10132;</span> Skyverse Technology Co., Ltd. </summary>
         <ul> 
           <li>Research focus: Cryptographic Hardware </li>
-          <li>Current position: Postdoctoral Fellow </li>
+          <li>Current position: Engineer </li>
         </ul>
         </details>
 
@@ -52,18 +60,18 @@ sections:
         </details>
 
         <details>
-        <summary> <strong>Dr. Weipei HUANG (Vic)</strong> (2021 graduate) <span>&#10132;</span> TBC </summary>
+        <summary> <strong>Dr. Weipei HUANG (Vic)</strong> (2021 graduate) <span>&#10132;</span> Huawei Hong Kong Research Center(HKRC) </summary>
         <ul> 
           <li>Research focus: Hardware Security and Cryptographic Implementation </li>
-          <li>Current position: TBC </li>
+          <li>Current position: Researcher </li>
         </ul>
         </details>
 
         <details>
-        <summary> <strong>Dr. Muhammad IRFAN</strong> (2021 graduate) <span>&#10132;</span> Postdoctoral Fellow at FLAIR Hong Kong <span>&#10132;</span> Assistant Professor at GIKI Pakistan <span>&#10132;</span> City University of Hong Kong </summary>
+        <summary> <strong>Dr. Muhammad IRFAN</strong> (2021 graduate) <span>&#10132;</span> Postdoctoral Fellow at FLAIR Hong Kong <span>&#10132;</span> Assistant Professor at GIKI Pakistan <span>&#10132;</span> City University of Hong Kong <span>&#10132;</span> GIKI Pakistan </summary>
         <ul> 
           <li>Research focus: Microcontrollers, FPGAs, and Embedded Systems </li>
-          <li>Current position: Postdoctoral Fellow </li>
+          <li>Current position: Assistant Professor </li>
         </ul>
         </details>
 
@@ -172,17 +180,18 @@ sections:
         </details>
 
         ## **Research Associate at CALAS**
-        - <strong>Mr. Junjie LIU</strong> <span>&#10132;</span> TBC
-        - **Mr. Yiqing ZHANG** <span>&#10132;</span> TBC
+        - <strong> Mr. Bohao ZHANG (Alex)</strong> <span>&#10132;</span> Ph.D Candidate, University of Trento, Italy
+        - <strong>Mr. Junjie LIU</strong> <span>&#10132;</span> Huawei
+        - **Mr. Yiqing ZHANG** <span>&#10132;</span> Further Education
         - **Mr. Frank ZHAO** <span>&#10132;</span> PG Study, Columbia University
-        - **Mr. Pok Yee KWAN** <span>&#10132;</span> Ph.D. candidate, Imperial College
+        - **Mr. Pok Yee KWAN** <span>&#10132;</span> Ph.D. Candidate, Imperial College
         - **Mr. Xian YANG** <span>&#10132;</span> R&D Director, Accoresys, Shanghai, China
         - **Ms. Kangni GUO** <span>&#10132;</span> Tencent Co. Ltd., Shenzhen, China
-        - **Mr. Zhenya ZANG** <span>&#10132;</span> Ph.D. candidate, University of Strathclyde
-        - **Mr. Tam Chu KWONG** <span>&#10132;</span> Ph.D. candidate, City University of Hong Kong
+        - **Mr. Zhenya ZANG** <span>&#10132;</span> Ph.D. Candidate, University of Strathclyde
+        - **Mr. Tam Chu KWONG** <span>&#10132;</span> Ph.D. Candidate, City University of Hong Kong
 
        ## **MPhil Project Students**
-       - **Mr. Shuai YUAN** (2023 graduate) <span>&#10132;</span> TBC
+       - **Mr. Shuai YUAN** (2023 graduate) <span>&#10132;</span> Ph.D. Candidate, Hong Kong University
 
        ## **MSc Project Students**
        <details> 
@@ -191,7 +200,7 @@ sections:
        <li><strong>Ms. Chengyi ZHANG</strong> (2024 graduate)</li>
        <li><strong>Mr. Hualong XU</strong> (2024 graduate)</li>
        <li><strong>Mr. Yihao LIU</strong> (2024 graduate)</li>
-       <li><strong>Mr.Jiaguo JI</strong> (2024 graduate)</li>
+       <li><strong>Mr. Jiaguo JI</strong> (2024 graduate)</li>
        <li><strong>Ms. Leixin ZHAO</strong> (2024 graduate)</li>
        </ul>
        </details>
@@ -209,9 +218,9 @@ sections:
        <details> 
        <summary>  2018-2019 Academic Year</summary>
        <ul> 
-       <li><strong>Ms. Kelly Ip</strong> (2019 graduate) <span>&#10132;</span> TBC</li>
-       <li><strong>Mr. Cooper Tan</strong> (2019 graduate) <span>&#10132;</span> TBC</li>
-       <li><strong>Mr. Harry Hou</strong> (2019 graduate) <span>&#10132;</span> TBC</li>
+       <li><strong>Ms. Kelly Ip</strong> (2019 graduate)</li>
+       <li><strong>Mr. Cooper Tan</strong> (2019 graduate)</li>
+       <li><strong>Mr. Harry Hou</strong> (2019 graduate)</li>
        </ul>
        </details>
 
@@ -370,7 +379,7 @@ sections:
         <details>
         <summary>Year 2021 Exchange Students</summary>
         <details>
-        <summary><strong>Dr. Runbin Shi</strong> (University of Hong Kong)</summary>
+        <summary><strong>Dr. Runbin Shi</strong> (University of Hong Kong) <span>&#10132;</span> Microsoft</summary>
          Dr. Runbin Shi received his BEng, MSc in Electronic Engineering in 2013 and 2016 at Soochow University. He obtained his PhD at the University of Hong Kong, December 2020. He joined Dr. Ray’s CALAS group in January 2021.
          His research interests cover: better abstraction of different application domains (e.g., machine learning, graph mining and tensor contraction); scalable domain-specific architecture and customized instruction set; compilation strategy for optimal workload scheduling.
         </details>
