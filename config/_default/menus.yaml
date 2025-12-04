@@ -11,7 +11,11 @@ main:
   - name: Asiacrypt 2025
     url: asiacrypt25
     parent: Events
-    weight: 11
+    weight: 10
+  - name: CALAS Seminars
+    url: seminar
+    parent: Events
+    weight: 10
   - name: News
     url: news
     weight: 20
@@ -21,9 +25,13 @@ main:
   - name: Alumni
     url: alumni
     weight: 40
-  - name: Seminars
-    url: seminar
+  - name: Programmes
+    url: programmes
     weight: 50
+  - name: GEF Programmes
+    url: gef
+    parent: Programmes
+    weight: 10
   - name: Publications
     url: publication
     weight: 60

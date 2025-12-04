@@ -22,7 +22,7 @@ sections:
         ## Teaching Activities
         In addition to research, CALAS is enthusiastic about teaching. Since 2021, CALAS has been hosting a Gifted Education Off-School Advanced Learning Programme funded by the Gifted Education Fund from Hong Kong Education Bureau each year. You can find out more about this programme on [CityUHK-EE-GEF website](https://www.ee.cityu.edu.hk/prospective_students/Gifted_Education_Fund). 
         
-      email: cccheung@ieee.org
+      email: r.cheung@cityu.edu.hk
       phone: +852 3442-9849
       address:
         street: 83 Tat Chee Avenue

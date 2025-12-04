@@ -80,7 +80,7 @@ user_groups:
   - Team Advisors
 ---
 
-Ir Dr Paul Tak Shing Liu is the chairman of Liu Po Shan Education Foundation, school supervisor of Liu Po Shan Memorial College, ex-school manager of Chiu Yang Por Yen Primary School and Chiu Yang Primary School. Dr Paul Liu is also the fellow of Hong Kong Institution of Engineers (HKIE), member of Hong Kong Computer Society, and member of Institute of Electrical and Electronic Engineers (IEEE).
+Dr Paul Tak Shing Liu is the chairman of Liu Po Shan Education Foundation, school supervisor of Liu Po Shan Memorial College, ex-school manager of Chiu Yang Por Yen Primary School and Chiu Yang Primary School. Dr Paul Liu is also the fellow of Hong Kong Institution of Engineers (HKIE), member of Hong Kong Computer Society, and member of Institute of Electrical and Electronic Engineers (IEEE).
 
 Dr Liu had been manager of Chong Hing Bank Limited, previously named Liu Chong Hing Bank Limited, from 1999 to 2014. He had also been director of Chong Hing Information Technology Limited and director of Net Alliance (HK) Limited. Dr Liu has been active in the areas of IT security, workflow, artificial intelligence, and banking applications. He has also been serving as members of various HK government cloud computing committees, ICT Awards chairman/accessor/judge, IEEE conference paper accessor, and member of CIO board of HKCS. Dr Liu was awarded Ph.D. degree in Electrical Engineering from McGill University, Montreal, Quebec, Canada in 1993. From Lakehead University, Thunder Bay, Ontario, Canada, Dr Liu was awarded M.Sc. in Physics (1989), H.B.Sc. in Physics (1987), B.Eng. in Electrical Engineering (1986), B.Sc. in Physics (1984), Diploma in Electrical Engineering Technology (1984) and Dean of Science Medal (1984).
 
