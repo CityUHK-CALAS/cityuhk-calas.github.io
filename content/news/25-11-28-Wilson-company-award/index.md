@@ -2,7 +2,7 @@
 title: "Congratulations to Wilson and GABES Team on Hong Kong ICT Awards 2025 Silver Award"
 date: 2025-11-28
 image:
-  src: featured.png
+  src: featured.jpg
   preview_only: true
 reading_time: false
 share: false
@@ -13,6 +13,7 @@ tags: []
 We're thrilled to celebrate Wilson and his team at GABES Limited (嘉碧芯有限公司) for winning the prestigious Silver Award at the Hong Kong ICT Awards 2025 in the Smart Living (Smart Home and Community) category!
 <!--more-->
 
+![](image2.jpg)
 ![](image1.png)
 
 ## About the Award
