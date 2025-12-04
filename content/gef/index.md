@@ -185,7 +185,7 @@ sections:
         For enquiries about the GEF programme at CALAS, eligibility requirements, application procedures, and upcoming sessions, please contact us:
         
         <strong>Programme Coordinator:</strong> Prof. Ray C.C. Cheung<br>
-        <strong>Email:</strong> r.cheung@cityu.edu.hk<br>
+        <strong>Email:</strong> eegefp@cityu.edu.hk <br>
         <strong>Phone:</strong> +852 3442-9849
         
         {{% cta cta_link="../contact/" cta_text="Contact CALAS" %}}
