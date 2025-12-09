@@ -23,6 +23,56 @@ sections:
 
   - block: markdown
     content:
+      title: Recent Activities
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin: 30px auto; max-width: 1400px; padding: 40px; background: white; border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
+          <div style="display: flex; flex-direction: column; justify-content: center;">
+            <h2 style="font-size: 2.5em; margin: 0 0 10px 0; line-height: 1.2;">
+              <span style="color: #4a7dde; font-style: italic; font-weight: 600;">Student Project</span><br>
+              <span style="color: #4a7dde; font-style: italic; font-weight: 700;">Exhibition &</span><br>
+              <span style="color: #4a7dde; font-style: italic; font-weight: 700;">Closing Ceremony</span>
+            </h2>
+            <p style="color: #333; font-size: 1.1em; line-height: 1.7; margin: 30px 0 40px 0; text-align: left;">Join us to celebrate the achievements of our EdgeAIoTM Programme students. Register now for the exhibition and closing ceremony on December 13, 2025.</p>
+            <div>
+              <a href="https://forms.gle/AeRTrCUtF19SSMjW7" target="_blank" style="display: inline-block; background: #4a90e2; color: white; padding: 15px 40px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 1.1em; box-shadow: 0 4px 12px rgba(74,144,226,0.3);">Register Now</a>
+            </div>
+          </div>
+          <div style="display: flex; align-items: center; justify-content: center;">
+            <a href="GEF2024_Ceremony_Poster.png" target="_blank">
+              <img src="GEF2024_Ceremony_Poster.png" alt="2024 Closing Ceremony Poster" style="width: 100%; height: auto; max-height: 600px; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            </a>
+          </div>
+        </div>
+
+    design:
+      columns: '1'  
+          
+  - block: markdown
+    content:
+      title: Programme Recordings
+      text: |
+        <div style="max-width: 1200px; margin: 30px auto; background: #f8f9fa; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <div id="videoContainer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); cursor: pointer;" onmouseover="loadVideo()">
+            <img id="videoCover" src="programme_video_cover.png" alt="Programme Video Cover" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; background: rgba(0,0,0,0.7); border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+              <div style="width: 0; height: 0; border-left: 25px solid white; border-top: 15px solid transparent; border-bottom: 15px solid transparent; margin-left: 8px;"></div>
+            </div>
+          </div>
+          <p style="color: #666; text-align: center; margin-top: 20px; font-size: 1.05em; line-height: 1.6;">Watch our programme video to see gifted students engaging in hands-on projects, learning from university researchers, and developing cutting-edge technology solutions in Generative AI, Cybersecurity, and Edge Computing.</p>
+        </div>
+        <script>
+        function loadVideo() {
+          var container = document.getElementById('videoContainer');
+          container.innerHTML = '<iframe src="https://drive.google.com/file/d/1Yqf3w0daHid7z0aUo1rkYp_w4Vd3QpGr/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="autoplay" allowfullscreen></iframe>';
+          container.onmouseover = null;
+        }
+        </script>
+
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: Programme Highlights
       text: |
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 30px 0;">
@@ -80,10 +130,10 @@ sections:
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 30px; margin-top: 30px;">
           <!-- Upcoming Programme 2025/26 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);">
-            <h3 style="color: #667eea; margin-top: 0;">2025/26 Cohort</h3>
+            <h3 style="color: #667eea; margin-top: 0;">2025/26 Cohort</h3>            
             <div style="text-align: center; padding: 30px 20px;">
-              <a href="#" onclick="return false;" style="cursor: default;">
-                <img src="240722-6_learning.jpg" alt="2025-06 GenAIC Programme" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+              <a href="240722-6_learning.jpg" target="_blank">
+                <img src="240722-6_learning.jpg" alt="2025-06 GenAIC Programme" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
               </a>
               <p style="font-size: 1.3em; color: #667eea; margin: 15px 0; font-weight: bold;">Generative AI and Cybersecurity (GenAIC) Engineering Skills</p>
               <p style="color: #666; margin-top: 20px; text-align: justify;">Approved for the 2025/26 school year by the Education Bureau's Gifted Education Fund. This programme will focus on cutting-edge Generative AI technologies and Cybersecurity engineering skills for gifted students.</p>
@@ -95,67 +145,62 @@ sections:
           <!-- Cohort 2025 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); transition: transform 0.3s, box-shadow 0.3s;">
             <h3 style="color: #667eea; margin-top: 0;">2025 Cohort</h3>
-            <a href="https://www.ee.cityu.edu.hk/prospective_students/Gifted_Education_Fund" target="_blank">
+            <a href="2024-09-EdgeAIoTM_Poster.jpg" target="_blank">
               <img src="2024-09-EdgeAIoTM_Poster.jpg" alt="2024 EdgeAIoTM Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
             <p><strong>Programme:</strong> Edge AIoT and Microelectronics (EdgeAIoTM) Engineering Skills</p>
             <p><strong>Period:</strong> May 2025 - December 2025</p>
             <p style="text-align: justify;">Comprehensive programme integrating edge computing, artificial intelligence, and microelectronics engineering. Students gained practical experience in FPGA design, machine learning deployment, embedded systems development, and semiconductor technology through six progressive training phases.</p>
-            <p><a href="https://www.ee.cityu.edu.hk/prospective_students/Gifted_Education_Fund" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
+            <p><a href="https://cityuhk-ee-gef.github.io/exhibition2024/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
           </div>
 
           <!-- Cohort 2024/25 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); transition: transform 0.3s, box-shadow 0.3s;">
             <h3 style="color: #667eea; margin-top: 0;">2024/25 Cohort</h3>
-            <a href="#" onclick="return false;" style="cursor: default;">
-              <img src="2023-06-GenAIoT_poster.jpeg" alt="2023 GenAIoT Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="2023-06-GenAIoT_poster.jpeg" target="_blank">
+              <img src="2023-06-GenAIoT_poster.jpeg" alt="2023 GenAIoT Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
             <p><strong>Programme:</strong> Generative AI and IoT (GenAIoT) Coding Skills Education</p>
             <p><strong>Period:</strong> May 2024 - Jan 2025</p>
             <p style="text-align: justify;">Students explored cutting-edge generative AI technologies including large language models and diffusion models, while mastering IoT application development. The programme combined AI model training, prompt engineering, and intelligent device programming to create next-generation smart systems.</p>
-            <!-- Placeholder for future URL -->
-            <!-- <p><a href="URL_HERE" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p> -->
+            <p><a href="https://cityuhk-ee-gef.github.io/exhibition2022/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
           </div>
 
           <!-- Cohort 2023/24 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); transition: transform 0.3s, box-shadow 0.3s;">
             <h3 style="color: #667eea; margin-top: 0;">2023/24 Cohort</h3>
-            <a href="#" onclick="return false;" style="cursor: default;">
-              <img src="2022-11-poster.jpg" alt="2022 Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="2022-11-poster.jpg" target="_blank">
+              <img src="2022-11-poster.jpg" alt="2022 Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
             <p><strong>Programme:</strong> Coding, Cryptography & Fintech (CCF)</p>
             <p><strong>Period:</strong> May 2023 - Jan 2024</p>
             <p style="text-align: justify;">This programme bridged computer science with financial technology, teaching students advanced cryptographic algorithms, blockchain fundamentals, secure coding practices, and digital payment systems. Students developed real fintech applications while learning about cybersecurity and data protection.</p>
-            <!-- Placeholder for future URL -->
-            <!-- <p><a href="URL_HERE" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p> -->
+            <p><a href="https://cityuhk-ee-gef.github.io/exhibition2022/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
           </div>
 
           <!-- Cohort 2022/23 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); transition: transform 0.3s, box-shadow 0.3s;">
             <h3 style="color: #667eea; margin-top: 0;">2022/23 Cohort</h3>
-            <a href="#" onclick="return false;" style="cursor: default;">
-              <img src="2021-07_poster_en.jpeg" alt="2021 Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="2021-07_poster_en.jpeg" target="_blank">
+              <img src="2021-07_poster_en.jpeg" alt="2021 Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
             <p><strong>Programme:</strong> AIoT CE<sup>2</sup> Skills Education</p>
             <p><strong>Period:</strong> Jun 2022 - Mar 2023</p>
             <p style="text-align: justify;">Focusing on AI-powered Internet of Things with emphasis on Coding and Engineering Education (CE²), students learned embedded programming, sensor networks, machine learning for IoT devices, and developed intelligent edge computing solutions for real-world applications.</p>
-            <!-- Placeholder for future URL -->
-            <!-- <p><a href="URL_HERE" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p> -->
+            <p><a href="https://cityuhk-ee-gef.github.io/exhibition2021/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
           </div>
 
           <!-- Cohort 2021/22 -->
           <div style="border: 2px solid #667eea; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(102,126,234,0.15); transition: transform 0.3s, box-shadow 0.3s;">
             <h3 style="color: #667eea; margin-top: 0;">2021/22 Cohort</h3>
-            <a href="#" onclick="return false;" style="cursor: default;">
-              <img src="2020-03_poster.jpeg" alt="2020 Inaugural Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="2020-03_poster.jpeg" target="_blank">
+              <img src="2020-03_poster.jpeg" alt="2020 Inaugural Programme Poster" style="width: 100%; height: auto; border-radius: 8px; margin: 15px 0; border: 1px solid #e0e0e0; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
             <p><strong>Programme:</strong> AIoT Coding & Engineering Skills Education</p>
             <p><strong>Period:</strong> May 2021 - Jan 2022</p>
             <p style="text-align: justify;">Our inaugural cohort introduced students to the fundamentals of AIoT systems, covering Python programming, microcontroller development, basic machine learning concepts, and IoT protocols. Students built hands-on projects including smart home devices and automated sensor systems.</p>
-            <!-- Placeholder for future URL -->
-            <!-- <p><a href="URL_HERE" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p> -->
+            <p><a href="https://cityuhk-ee-gef.github.io/exhibition2020/" target="_blank" style="color: #667eea; text-decoration: none; font-weight: bold;">Learn More →</a></p>
           </div>
-
 
         </div>
 
