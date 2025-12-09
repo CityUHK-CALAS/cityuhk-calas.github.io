@@ -38,8 +38,8 @@ sections:
             </div>
           </div>
           <div style="display: flex; align-items: center; justify-content: center;">
-            <a href="GEF2024_Ceremony_Poster.png" target="_blank">
-              <img src="GEF2024_Ceremony_Poster.png" alt="2024 Closing Ceremony Poster" style="width: 100%; height: auto; max-height: 600px; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="GEF2024_Ceremony_Poster.jpeg" target="_blank">
+              <img src="GEF2024_Ceremony_Poster.jpeg" alt="2024 Closing Ceremony Poster" style="width: 100%; height: auto; max-height: 600px; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
             </a>
           </div>
         </div>
