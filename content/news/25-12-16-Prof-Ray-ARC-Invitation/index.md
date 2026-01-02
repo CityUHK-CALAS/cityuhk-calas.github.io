@@ -3,7 +3,7 @@ title: "Prof. Ray Invited to Join ARC 2026 Program Committee!"
 date: 2025-12-16
 draft: false
 weight: 1
-pinned: true
+pinned: false
 image:
   src: featured.png
   preview_only: true

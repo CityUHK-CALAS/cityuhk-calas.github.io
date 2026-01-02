@@ -20,7 +20,7 @@ sections:
         
        ## **PhD Awardees (19 in total)**
         <details>
-        <summary> <strong>Dr. Zewen YE (Lucas)</strong> (2025 graduate) <span>&#10132;</span> Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay. Area (QSCGBA) </summary>
+        <summary> <strong>Dr. Zewen YE (Lucas)</strong> (2025 graduate) <span>&#10132;</span> QSCGBA </summary>
         <ul> 
           <li>Research focus: Cryptographic Hardware Design </li>
           <li>Current position: Postdoctoral Fellow </li>

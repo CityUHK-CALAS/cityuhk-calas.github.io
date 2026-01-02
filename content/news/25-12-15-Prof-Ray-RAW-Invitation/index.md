@@ -3,7 +3,7 @@ title: "Congratulations to Prof. Ray on RAW 2026 PC Appointment!"
 date: 2025-12-15
 draft: false
 weight: 1
-pinned: true
+pinned: false
 image:
   src: featured.png
   preview_only: true
