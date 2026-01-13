@@ -8,6 +8,7 @@ profile: false
 
 ---
 Simon, Henry, and Mark's paper accepted at IEEE Transactions on Mobile Computing (IF 9.2) with open-source code release.
+
 <!--more-->
 
 <div style="text-align: justify">

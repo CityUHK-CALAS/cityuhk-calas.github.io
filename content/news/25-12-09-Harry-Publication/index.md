@@ -8,6 +8,7 @@ profile: false
 
 ---
 Harry's research on hardware-based GenAI copyright protection has been accepted at a top-tier IEEE journal.
+
 <!--more-->
 
 <div style="text-align: justify">
