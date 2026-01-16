@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Judith SI
+title: Embers ZHOU
 
 # Full Name (for SEO)
-first_name: Judith
-last_name: SI
+first_name: Wenyue Embers
+last_name: ZHOU
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: PhD Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,12 @@ organizations:
 bio: 
 
 interests:
-  - Post-Quantum Cryptography.
-  - Hardware design.
+  - Edge AI field
 
 education:
   courses:
-    - course: BEng in Electrical Engineering
-      institution: Nanjing Normal University
-      year: 2024
-    - course: Msc in Electrical Engineering
-      institution: City University of Hong Kong
+    - course: BSc in Information Engineering
+      institution: Tongji University
       year: 2025
 
 # Social/Academic Networking
@@ -40,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yuzhousi2-c@my.cityu.edu.hk'
+    link: 'mailto:wenyzhou7-c@my.cityu.edu.hk'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Master Students
 ---
 
-Miss. Yuzhou Si(Judith) received her B.Sc. from Nanjing Normal University in 2024. She got master degree of Science student in the Department of Electrical Engineering at City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung. Now she is a PhD student of Prof. Alan.
+Ms. Wenyue ZHOU(Embers) received her B.Sc from Tongji University in 2025. She is currently a Master of Science student in the Department of Computer Science at City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung.
