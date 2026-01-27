@@ -17,7 +17,14 @@ sections:
           <li>Current position: FPGA Developer </li>
           </ul>
           </details>
-        
+          <details>
+          <summary> <strong>Dr. Joshua HUANG</strong> (2025 Postdoctoral) <span>&#10132;</span> Beijing Normal – Hong Kong Baptist University (BNBU) <span>&#10132;</span> Singapore Management University (SMU) </summary>
+          <ul> 
+          <li>Research focus: Latticed-based Cryptography </li>
+          <li>Current position: Postdoc </li>
+          </ul>
+          </details> 
+
        ## **PhD Awardees (19 in total)**
         <details>
         <summary> <strong>Dr. Zewen YE (Lucas)</strong> (2025 graduate) <span>&#10132;</span> QSCGBA </summary>
@@ -194,6 +201,16 @@ sections:
        - **Mr. Shuai YUAN** (2023 graduate) <span>&#10132;</span> Ph.D. Candidate, Hong Kong University
 
        ## **MSc Project Students**
+       <details> 
+       <summary>  2024-2025 Academic Year</summary>
+       <ul> 
+       <li><strong>Ms. Tzipora REN</strong> (2025 graduate)</li>
+       <li><strong>Mr. Giltter FAN</strong> (2025 graduate)</li>
+       <li><strong>Mr. James HON</strong> (2025 graduate)</li>
+       <li><strong>Mr. Alaan MA</strong> (2025 graduate)</li>
+       <li><strong>Ms. Judith SI</strong> (2025 graduate)</li>
+       </ul>
+       </details>
        <details> 
        <summary>  2023-2024 Academic Year</summary>
        <ul> 
