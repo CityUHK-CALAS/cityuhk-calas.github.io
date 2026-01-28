@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:wl@njust.edu.cn'
+  # - icon: envelope
+  # icon_pack: fas
+  # link: 'mailto:wl@njust.edu.cn'
   - icon: ieee
     icon_pack: ai
     link: https://ieeexplore.ieee.org/author/37086122881  

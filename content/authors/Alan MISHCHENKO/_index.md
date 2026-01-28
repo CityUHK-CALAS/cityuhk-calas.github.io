@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:alanmi@berkeley.edu'
+  # - icon: envelope
+  # icon_pack: fas
+  # link: 'mailto:alanmi@berkeley.edu'
   - icon: acm
     icon_pack: ai
     link: https://dl.acm.org/profile/81502777041 

@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:e1237242@u.nus.edu'
+  # - icon: envelope
+  # icon_pack: fas
+  # link: 'mailto:e1237242@u.nus.edu'
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=psIsRHQAAAAJ&hl=zh-CN

@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yanlhuang5-c@my.cityu.edu.hk'   
+  # - icon: envelope
+  # icon_pack: fas
+  # link: 'mailto:yanlhuang5-c@my.cityu.edu.hk'   
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0002-1176-9002
