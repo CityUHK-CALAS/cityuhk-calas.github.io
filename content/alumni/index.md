@@ -25,7 +25,23 @@ sections:
           </ul>
           </details> 
 
-       ## **PhD Awardees (19 in total)**
+       ## **PhD Awardees (22 in total)**
+       <details>
+        <summary> <strong>Dr. Yile XING (Yile)</strong> (2026 graduate) </summary>
+        <ul> 
+          <li>Research focus: Hardware design for FHE </li>
+          <li>Current position: </li>
+        </ul>
+        </details>
+
+        <details>
+        <summary> <strong>Dr. Abdelgawad Muhammad Ashraf Abdelhamid (Ashraf)</strong> (2026 graduate) </summary>
+        <ul> 
+          <li>Research focus: High-performance Hardware Acceleration of Computing </li>
+          <li>Current position: </li>
+        </ul>
+        </details>
+
         <details>
         <summary> <strong>Dr. Zewen YE (Lucas)</strong> (2025 graduate) <span>&#10132;</span> QSCGBA </summary>
         <ul> 
