@@ -25,7 +25,15 @@ sections:
           </ul>
           </details> 
 
-       ## **PhD Awardees (22 in total)**
+       ## **PhD Awardees (23 in total)**
+       <details>
+        <summary> <strong>Dr. ZHANG Zhewen (Candice)</strong> (2026 graduate) </summary>
+        <ul> 
+          <li>Research focus: RISC-V Processor Design, Computer Architecture, Hardware Security </li>
+          <li>Current position: </li>
+        </ul>
+        </details>
+
        <details>
         <summary> <strong>Dr. Yile XING (Yile)</strong> (2026 graduate) </summary>
         <ul> 
