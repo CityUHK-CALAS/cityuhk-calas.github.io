@@ -25,12 +25,20 @@ sections:
           </ul>
           </details> 
 
-       ## **PhD Awardees (23 in total)**
+       ## **PhD Awardees (24 in total)**
        <details>
         <summary> <strong>Dr. ZHANG Zhewen (Candice)</strong> (2026 graduate) </summary>
         <ul> 
           <li>Research focus: RISC-V Processor Design, Computer Architecture, Hardware Security </li>
           <li>Current position: </li>
+        </ul>
+        </details>
+
+       <details>
+        <summary> <strong>Dr. Henry SHE</strong> (2026 graduate) <span>&#10132;</span> EDA Lab, Huawei Hong Kong Research Center(HKRC) </summary>
+        <ul> 
+          <li>Research focus: Reconfigurable Processor Design, ASIC Design for Machine Learning </li>
+          <li>Current position: Engineer </li>
         </ul>
         </details>
 
