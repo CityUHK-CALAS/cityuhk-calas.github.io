@@ -62,7 +62,7 @@ January 7 2025 (Wed) at 4:00 – 6:00 pm HKT
 
 ## Venue
 P4302, City University of Hong Kong <br>
-Zoom: https://cityu.zoom.us/j/96742093029
+<!-- Zoom: https://cityu.zoom.us/j/96742093029 -->
 
 ## Abstract
 <div style="text-align: justify">

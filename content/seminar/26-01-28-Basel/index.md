@@ -62,7 +62,7 @@ January 28 2026 (Wed) at 4:00 pm – 6:00 pm HKT
 
 ## Venue
 LT-8, City University of Hong Kong <br>
-Zoom: https://cityu.zoom.us/j/96742093029
+<!-- Zoom: https://cityu.zoom.us/j/96742093029 -->
 
 ## Abstract
 <div style="text-align: justify">

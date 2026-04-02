@@ -61,7 +61,7 @@ Nanjing University of Aeronautics and Astronautics
 October 20 2025 (Mon) at 14:00 HKT
 
 ## Venue
-P1402 + Zoom: https://cityu.zoom.us/j/96742093029
+P1402 <!-- + Zoom: https://cityu.zoom.us/j/96742093029 -->
 
 ## Abstract
 <div style="text-align: justify">

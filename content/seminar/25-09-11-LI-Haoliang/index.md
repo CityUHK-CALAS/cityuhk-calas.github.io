@@ -61,7 +61,7 @@ Department of Electrical Engineering, City University of Hong Kong
 September 11 2025 (Thur) at 16:00 HKT
 
 ## Venue
-Yeung 4/F B4302 + Zoom: https://cityu.zoom.us/j/96742093029
+Yeung 4/F B4302 <!-- + Zoom: https://cityu.zoom.us/j/96742093029 -->
 
 ## Abstract
 <div style="text-align: justify">

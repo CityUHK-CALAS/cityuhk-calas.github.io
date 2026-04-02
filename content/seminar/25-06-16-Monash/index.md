@@ -14,7 +14,6 @@ address:
 summary: |
   **Speaker**: : Prof. Ron Steinfeld, Prof. John Yuen, Prof. Amin Sakzad, Dr. Muhammed Esgin, Dr. Shujie Cui, Xinyu Zhang (Monash University),<br> Dr. Shiyu Shen, Dr. Hao Yang (City University of Hong Kong) <br>
   **Time**: 12:00 - 15:00 HKT <br>
-  **Zoom**: https://cityu.zoom.us/j/96742093029
 
 
 # Talk start and end times.

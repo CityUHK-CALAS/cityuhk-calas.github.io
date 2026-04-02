@@ -62,7 +62,7 @@ January 16 2026 (Fri) at 10:00 am – 12:00 nn HKT
 
 ## Venue
 G6315, City University of Hong Kong <br>
-Zoom: https://cityu.zoom.us/j/96742093029
+<!-- Zoom: https://cityu.zoom.us/j/96742093029 -->
 
 ## Abstract
 <div style="text-align: justify">
