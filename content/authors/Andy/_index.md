@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andy WU
+title: Andy Yue WU
 
 # Full Name (for SEO)
 first_name: Andy
@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-  - Efficient edge AI
-  - Hardware-software co-design
-  - RISC-V-based systems
+  - Efficient AI
+  - RISC-V
+  - Optimization
 
 education:
   courses:
@@ -37,12 +37,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:Andyyuewu@outlook.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=ALARddEAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yue-wu-8713a2279
   - icon: github
     icon_pack: fab
-    link: https://github.com/AndYuWu
+    link: https://github.com/AndYueWu
   - icon: globe
     icon_pack: fas
-    link: https://andyuwu.com
+    link: https://andyyuewu.com
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,6 +71,6 @@ user_groups:
   - PhD Students
 ---
 
-Andy Wu is a PhD student in the Department of Electrical Engineering at City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung, with research interests in efficient edge AI, hardware-software co-design, and RISC-V-based systems.
+Yue Wu (Andy) is a PhD student in the Department of Electrical Engineering at City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung, with research interests in efficient edge AI, hardware–software co-design, and RISC-V–based systems.
 
-Prior to this, he received his BSc in Mathematics and Statistics from Queen Mary University of London and his MSc in Applied Mathematics from Imperial College London.
+Prior to this, he received his BSc in Mathematics and Statistics from Queen Mary University of London and his MSc in Applied Mathematics from Imperial College London, where he was supervised by Dr. Anna Maltsev and Dr. Estefania Loayza Romero, respectively.
