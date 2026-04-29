@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Jerry and the Team on IoTJ Paper Acceptance!"
+title: "Jerry and the Team Achieve IoTJ Paper Acceptance!"
 date: 2026-04-15
 draft: false
 weight: 1
@@ -14,12 +14,12 @@ share: false
 profile: false
 
 ---
-Please join us in congratulating Jerry ZHANG and the team for the new IoTJ paper accepted — "Less is More: Latent Diffusion for Efficient IoT Side-Channel Analysis"!
+We are pleased to share that Jerry ZHANG and the team have achieved a new IoTJ paper acceptance for "Less is More: Latent Diffusion for Efficient IoT Side-Channel Analysis."
 <!--more-->
 
 <div style="text-align: justify">
 
-We are delighted to announce that the paper **"Less is More: Latent Diffusion for Efficient IoT Side-Channel Analysis"** has been accepted by the IEEE Internet of Things Journal (IoTJ)!
+We are pleased to announce that the paper **"Less is More: Latent Diffusion for Efficient IoT Side-Channel Analysis"** has been accepted by the IEEE Internet of Things Journal (IoTJ).
 
 Well done to Jerry, Jeff, and Mark, supported by Donald and Winston, and supervised by Patrick and Cetin! This is a fantastic team achievement.
 

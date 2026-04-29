@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Andy Wu on Being Awarded the Hong Kong PhD Fellowship!"
+title: "Andy Wu Awarded the Hong Kong PhD Fellowship!"
 date: 2026-04-14
 draft: false
 weight: 1
@@ -14,12 +14,12 @@ share: false
 profile: false
 
 ---
-Please join us in congratulating Andy Yue Wu, who has officially been awarded the prestigious [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) from HKSAR! This is truly wonderful news!
+We are pleased to share that Andy Yue Wu has officially been awarded the prestigious [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) from HKSAR.
 <!--more-->
 
 <div style="text-align: justify">
 
-We are thrilled to announce that Andy Wu from Fujian, who received his Bachelor's degree from Queen Mary University of London and his Master's degree from Imperial College London, has officially been awarded the Hong Kong PhD Fellowship from HKSAR!
+We are pleased to announce that Andy Wu from Fujian, who received his Bachelor's degree from Queen Mary University of London and his Master's degree from Imperial College London, has officially been awarded the Hong Kong PhD Fellowship from HKSAR.
 
 One thing we would like to highlight is Andy's exceptional commitment to joining CALAS. As a new applicant who lives outside Hong Kong, he made several trips to come to HK and attended our meetings. This kind of passion and commitment is truly commendable!
 
