@@ -10,7 +10,7 @@ last_name: Hong
 superuser: False
 
 # Role/position
-role: Research Assistant
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD Students
 ---
 
 Jeffrey received the B.S. degree in Electronic Engineering from Fuzhou University, Fuzhou, China, in 2022, and the M.S. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong, in 2023. He is currently a Research Assistant and pursuing his Ph.D. degree as part of the CALAS research group. His research focuses on high-efffciency cryptographic hardware design, with an emphasis on algorithm-hardware co-design methodology to optimize performance, security, and resource utilization. In particular, his recent work explores hardware acceleration techniques for post-quantum cryptography (PQC) algorithms, addressing the challenges posed by quantum computing threats to classical cryptographic schemes.
