@@ -10,7 +10,7 @@ last_name: McCurdy
 superuser: False
 
 # Role/position
-role: Part-time Research Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Part-time research assistant exploring personalized AI applications in health, education, and finance.
+bio: Research assistant exploring personalized AI applications in health, education, and finance.
 
 interests:
   - Options Trading
