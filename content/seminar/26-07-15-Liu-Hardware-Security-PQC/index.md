@@ -13,17 +13,17 @@ address:
 
 summary: |
   **Speaker**: Prof. Weiqiang Liu, Professor, Nanjing University of Aeronautics and Astronautics<br>
-  **Time**: July 14 2026 (Wed) at 14:00 HKT
+  **Time**: July 15 2026 (Wed) at 14:00 HKT
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-07-14T14:00:00Z'
-date_end: '2026-07-14T16:00:00Z'
+date: '2026-07-15T14:00:00Z'
+date_end: '2026-07-15T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-07-14T00:00:00Z'
+publishDate: '2026-07-15T00:00:00Z'
 
 authors: []
 tags: []
@@ -61,7 +61,7 @@ Professor and Executive Dean of the College of Integrated Circuits, Nanjing Univ
 
 ## Time
 
-July 14 2026 (Wed) at 2:00 - 4:00 pm HKT
+July 15 2026 (Wed) at 2:00 - 4:00 pm HKT
 
 ## Venue
 
