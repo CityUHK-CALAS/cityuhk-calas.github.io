@@ -4,7 +4,7 @@ title: Elian CONG
 
 # Full Name (for SEO)
 first_name: Elian
-last_name: Cong
+last_name: CONG
 
 # Is this the primary user of the site?
 superuser: false

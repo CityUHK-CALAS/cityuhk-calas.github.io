@@ -4,7 +4,7 @@ title: Perry WANG
 
 # Full Name (for SEO)
 first_name: Perry
-last_name: Wang
+last_name: WANG
 
 # Is this the primary user of the site?
 superuser: false

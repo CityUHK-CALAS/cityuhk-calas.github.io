@@ -4,7 +4,7 @@ title: Ting YANG
 
 # Full Name (for SEO)
 first_name: Ting
-last_name: Yang
+last_name: YANG
 
 # Is this the primary user of the site?
 superuser: false

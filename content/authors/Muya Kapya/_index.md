@@ -4,7 +4,7 @@ title: Muya KAPYA
 
 # Full Name (for SEO)
 first_name: Muya
-last_name: Kapya
+last_name: KAPYA
 
 # Is this the primary user of the site?
 superuser: False

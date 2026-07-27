@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Master Students
 ---
 
 Mr. Bofu Chang is an undergraduate student majoring in Automation in the Department of Robotics and Advanced Manufacture at Harbin Institution of Technology, Shenzhen. He is currently participating in a 3+1+2 program by City University of Hong Kong in Qingdao, and will become a MPhil student after graduation.

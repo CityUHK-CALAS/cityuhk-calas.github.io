@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Joseph McCurdy
+title: Joseph MCCURDY
 
 # Full Name (for SEO)
 first_name: Joseph
-last_name: McCurdy
+last_name: MCCURDY
 
 # Is this the primary user of the site?
 superuser: False

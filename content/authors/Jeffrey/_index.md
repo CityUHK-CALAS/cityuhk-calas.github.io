@@ -4,7 +4,7 @@ title: Jeffrey HONG
 
 # Full Name (for SEO)
 first_name: Jeffrey Jinfa
-last_name: Hong
+last_name: HONG
 
 # Is this the primary user of the site?
 superuser: False

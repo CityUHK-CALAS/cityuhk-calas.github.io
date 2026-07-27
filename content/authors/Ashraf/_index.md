@@ -4,7 +4,7 @@ title: Abdelgawad ABDELHAMID
 
 # Full Name (for SEO)
 first_name: Abdelgawad
-last_name: Abdelhamid
+last_name: ABDELHAMID
 
 # Is this the primary user of the site?
 superuser: False

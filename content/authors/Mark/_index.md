@@ -4,7 +4,7 @@ title: Mark CHAN
 
 # Full Name (for SEO)
 first_name: Mark Yu Hin
-last_name: Chan
+last_name: CHAN
 
 # Is this the primary user of the site?
 superuser: False

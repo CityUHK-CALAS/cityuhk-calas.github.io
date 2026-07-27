@@ -4,7 +4,7 @@ title: Krish THYAGARAJAN
 
 # Full Name (for SEO)
 first_name: Krish 
-last_name: Thyagarajan
+last_name: THYAGARAJAN
 
 # Is this the primary user of the site?
 superuser: False
