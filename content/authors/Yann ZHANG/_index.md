@@ -10,7 +10,7 @@ last_name: ZHANG
 superuser: False
 
 # Role/position
-role: Undergraduate, CityUHK (Qingdao)
+role: MPhil Student, CityUHK
 
 # Organizations/Affiliations
 organizations:
