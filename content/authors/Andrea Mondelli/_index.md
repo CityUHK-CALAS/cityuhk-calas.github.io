@@ -10,7 +10,7 @@ last_name: MONDELLI
 superuser: False
 
 # Role/position
-role: Chief CPU Architect of Huawei HK Research Center, CALAS Team Advisor
+role: Chief CPU Architect, CALAS Team Advisor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.huawei.com/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chief CPU Architect at Huawei HK Research Center, working on computer architecture and cybersecurity.
+#bio: Chief CPU Architect at Huawei HK Research Center, working on computer architecture and cybersecurity.
 
 interests:
   - Computer Architecture

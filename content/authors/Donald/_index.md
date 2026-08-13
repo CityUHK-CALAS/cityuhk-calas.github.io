@@ -10,7 +10,7 @@ last_name: CHEN
 superuser: False
 
 # Role/position
-role: Associate Professor, Associate Head, Department of Statistics and Data Science, BNU-HKBU
+role: Professor, Associate Head, Department of Statistics and Data Science, BNU-HKBU
 
 # Organizations/Affiliations
 organizations:
