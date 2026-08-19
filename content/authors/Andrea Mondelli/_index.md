@@ -10,7 +10,7 @@ last_name: MONDELLI
 superuser: False
 
 # Role/position
-role: Chief CPU Architect, CALAS Team Advisor
+role: Principal CPU Architect, CALAS Team Advisor
 
 # Organizations/Affiliations
 organizations:
