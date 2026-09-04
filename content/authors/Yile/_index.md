@@ -10,7 +10,7 @@ last_name: XING
 superuser: False
 
 # Role/position
-role: Ph.D. Candidate
+role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Electrical Engineering
+      institution: City University of Hong Kong
+      year: 2026
     - course: BEng in Electrical Engineering
       institution: Sun Yat-sen University
       year: 2021
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Post-doctoral Fellows
+  Dr. Yile XING received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU) and her Ph.D. degree in 2026 from the Department of Electrical Engineering, City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung. She is now a Post-doctoral Fellow at CALAS
 ---
 
 Miss. Yile XING(Yile) received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU). She is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.

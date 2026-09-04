@@ -12,18 +12,14 @@ share: false
 profile: false
 ---
 
-CALAS is delighted to welcome HKPFS Fellow Andy Yue Wu, who will arrive in Hong Kong in the coming week to begin his PhD studies with the group.
+We are pleased to share that our CALAS HKPFS Fellow, Andy Yue Wu from Imperial College, will arrive in Hong Kong next week to begin his PhD studies with the group.
 
 <!--more-->
 
 <div style="text-align: justify">
 
-Andy joins CALAS from Imperial College as a Hong Kong PhD Fellowship Scheme (HKPFS) Fellow. He has secured four years of accommodation at the CityUHK Ma On Shan Complex for his PhD study in Hong Kong.
+Andy joins CALAS as a Hong Kong PhD Fellowship Scheme (HKPFS) Fellow. He has secured four years of accommodation at the CityUHK Ma On Shan Complex for his PhD study in Hong Kong.
 
-Although he is only now arriving in Hong Kong, Andy is already well known to the group: he has regularly joined CALAS meetings over the past year. We warmly welcome him and wish him a smooth start in Hong Kong.
-
-Andy shared: "I'm truly honored to join the CALAS Group. I can't wait to start this new journey in HK. I look forward to learning from all of you!"
-
-Please join us in extending a warm welcome to Andy as he begins this new chapter with CALAS.
+Although he is arriving only now, Andy is already well known to the group: he has regularly joined CALAS meetings over the past year. A warm welcome to Andy, and we wish him a smooth start in Hong Kong. He is truly honored to join CALAS, looks forward to this new journey in Hong Kong, and is eager to learn from everyone in the group.
 
 </div>

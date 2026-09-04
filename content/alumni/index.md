@@ -27,10 +27,10 @@ sections:
 
        ## **PhD Awardees (24 in total)**
        <details>
-        <summary> <strong>Dr. ZHANG Zhewen (Candice)</strong> (2026 graduate) </summary>
+        <summary> <strong>Dr. ZHANG Zhewen (Candice)</strong> (2026 graduate) <span>&#10132;</span> CPU Team, Huawei Hong Kong Research Center(HKRC) </summary>
         <ul> 
           <li>Research focus: RISC-V Processor Design, Computer Architecture, Hardware Security </li>
-          <li>Current position: </li>
+          <li>Current position: Researcher </li>
         </ul>
         </details>
 
@@ -43,10 +43,10 @@ sections:
         </details>
 
        <details>
-        <summary> <strong>Dr. Yile XING (Yile)</strong> (2026 graduate) </summary>
+        <summary> <strong>Dr. Yile XING (Yile)</strong> (2026 graduate) <span>&#10132;</span> CALAS, City University of Hong Kong </summary>
         <ul> 
           <li>Research focus: Hardware design for FHE </li>
-          <li>Current position: </li>
+          <li>Current position: Post-doctoral Fellow </li>
         </ul>
         </details>
 
@@ -233,6 +233,12 @@ sections:
        - **Mr. Shuai YUAN** (2023 graduate) <span>&#10132;</span> Ph.D. Candidate, Hong Kong University
 
        ## **MSc Project Students**
+       <details> 
+       <summary>  2025-2026 Academic Year</summary>
+       <ul> 
+       <li><strong>Ms. Wenyue ZHOU</strong> (Embers) (2026 graduate)</li>
+       </ul>
+       </details>
        <details> 
        <summary>  2024-2025 Academic Year</summary>
        <ul> 

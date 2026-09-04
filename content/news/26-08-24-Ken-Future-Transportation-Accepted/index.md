@@ -12,13 +12,13 @@ share: false
 profile: false
 ---
 
-Please join us in congratulating Ken and his LocoBike team on the acceptance of their new paper in *Future Transportation*.
+Please join us in congratulating Ken and his LocoBike team on their new paper acceptance in *Future Transportation*!
 
 <!--more-->
 
 <div style="text-align: justify">
 
-We are pleased to share that **Ken** and his LocoBike team have had their paper, **"User-Behaviour Based Dynamic Clustering Optimisation Algorithm for True Demand Prediction of Shared Bikes,"** accepted in **Future Transportation**.
+**Ken** and his LocoBike team have had their paper, **"User-Behaviour Based Dynamic Clustering Optimisation Algorithm for True Demand Prediction of Shared Bikes,"** accepted in **Future Transportation**.
 
 Congratulations to Ken and the LocoBike team on this achievement!
 
