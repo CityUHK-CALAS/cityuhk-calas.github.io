@@ -10,7 +10,7 @@ last_name: GUO
 superuser: False
 
 # Role/position
-role:
+role: MPhil Student, CityUHK
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,15 @@ organizations:
 bio:
 
 interests:
+  - GPU Acceleration
+  - Cryptographic Engineering
+  - Post-Quantum Cryptography
+  - Fully Homomorphic Encryption
 
 education:
   courses:
+    - course: Bachelors degree in Integrated Circuit Science and Engineering
+      institution: Xi'an Jiaotong University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -32,10 +38,13 @@ education:
 social:
   # - icon: envelope
   # icon_pack: fas
-  # link: 'mailto:your-email@example.com'
+  # link: 'mailto:guoyantong48@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yuenkongt-guo-84888b413
+    link: https://www.linkedin.com/in/yantong-guo-84503b413
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Ethan-GUO28
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +59,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups:
+  - Master Students
 ---
 
-TODO: Add a short third-person biography for Ethan GUO.
+Ethan GUO received his bachelor's degree in Integrated Circuit Science and Engineering from Xi'an Jiaotong University. He has experience in FPGA development, digital logic design, embedded systems, and hardware-software co-design. His research interests include GPU acceleration, cryptographic engineering, post-quantum cryptography, and fully homomorphic encryption.

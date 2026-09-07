@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andy Yue WU
+title: Andy WU
 
 # Full Name (for SEO)
 first_name: Andy
