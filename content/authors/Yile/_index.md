@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yile XING
+title: Dr. Yile XING
 
 # Full Name (for SEO)
 first_name: Yile
@@ -14,23 +14,24 @@ role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: City Unverisity of Hong Kong
+  - name: City University of Hong Kong
     url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Hardware design for FHE (fully homomorphic encryption)
-  - Hardware acceleration of computing
+  - Transform-domain computing for digital signal processing and cryptography
+  - Efficient hardware architectures
+  - LLM inference acceleration
 
 education:
   courses:
-    - course: PhD in Electrical Engineering
+    - course: Ph.D. in Electrical Engineering
       institution: City University of Hong Kong
       year: 2026
-    - course: BEng in Electrical Engineering
-      institution: Sun Yat-sen University
+    - course: B.Eng.
+      institution: School of Electronics and Communication Engineering, Sun Yat-sen University
       year: 2021
 
 # Social/Academic Networking
@@ -65,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  Dr. Yile XING received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU) and her Ph.D. degree in 2026 from the Department of Electrical Engineering, City University of Hong Kong, under the supervision of Prof. Ray C. C. Cheung. She is now a Post-doctoral Fellow at CALAS
+ - Post-doctoral Fellows
 ---
 
-Miss. Yile XING(Yile) received her B.Eng degree in 2021 from Sun Yat-sen University (SYSU). She is now a Ph.D. student in the Department of Electrical Engineering, the City University of Hong Kong under the supervision of Prof. Ray C. C. Cheung.
+Dr. Yile Xing (Yile) received the B.Eng. degree from the School of Electronics and Communication Engineering, Sun Yat-sen University, China, in 2021, and the Ph.D. degree in Electrical Engineering from City University of Hong Kong (CityUHK) in 2026, under the supervision of Prof. Ray C. C. Cheung.
