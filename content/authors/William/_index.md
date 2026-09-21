@@ -10,7 +10,7 @@ last_name: HUANG
 superuser: false
 
 # Role/position
-role: Undergraduate Student, CityUHK
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Research Assistants
 ---
 
 William is a final year undergraduate student at CityUHK, pursuing a BEng in Microelectronics Engineering. He is also an electronic engineer of the CityUHK Underwater Robotics Team, with which he has participated in multiple robotics competitions. Through this experience, he has learned valuable skills such as firmware design and hardware design (PCB), further honing his technical and teamwork abilities.

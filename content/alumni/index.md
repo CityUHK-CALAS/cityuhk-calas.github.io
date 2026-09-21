@@ -51,10 +51,10 @@ sections:
         </details>
 
         <details>
-        <summary> <strong>Dr. Abdelgawad Muhammad Ashraf Abdelhamid (Ashraf)</strong> (2026 graduate) </summary>
+        <summary> <strong>Dr. Abdelgawad Muhammad Ashraf Abdelhamid (Ashraf)</strong> (2026 graduate) <span>&#10132;</span> CALAS, City University of Hong Kong </summary>
         <ul> 
           <li>Research focus: High-performance Hardware Acceleration of Computing </li>
-          <li>Current position: </li>
+          <li>Current position: Post-doctoral Fellow</li>
         </ul>
         </details>
 
@@ -280,6 +280,14 @@ sections:
        </details>
 
        ## **Final Year Project Students** 
+        <details> 
+        <summary>  2025-2026 Academic Year</summary>
+        <ul> 
+        <li><strong>Mr. Aobo GUO</strong> (2026 graduate)</li>
+        <li><strong>Mr. William HUANG</strong> (2026 graduate) <span>&#10132;</span> Master in HKUST</li>
+        </ul>
+        </details>
+
        <details> 
        <summary>  2023-2024 Academic Year</summary>
        <ul> 
