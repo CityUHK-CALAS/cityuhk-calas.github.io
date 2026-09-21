@@ -53,7 +53,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Master Students
+  - MSc Students
 ---
 
 Skye Chen is an incoming M.Sc. student in Electrical Engineering at City University of Hong Kong and holds a B.Eng. background in Biomedical Engineering from Shenzhen University. Her interests span biomedical sensing, embedded systems, hardware design, AIoT, and edge AI. She has hands-on experience across schematic and PCB design, circuit simulation, soldering and debugging, 3D mechanical design, hardware testing, and validation. As team leader and hardware developer, she led a COPD non-invasive detection project integrating pulmonary function, FeNO, and eCO sensing, which received a National First Prize in the 10th National Undergraduate Biomedical Engineering Innovation Design Competition. She has also worked in hardware testing and the Seeed Studio developer community, supporting technical workshops, open-source hardware content, and university collaborations.

@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - MPhil Students
 ---
 
 Mr. Yann ZHANG is an undergraduate student from South China University of Technology(SCUT), and he is about to obtain a bachelor's degree in integrated circuit design. After graduating from the undergraduate program, he will become a MPhil student with Prof. Ray C. C. Cheung as his supervisor.

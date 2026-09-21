@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - MPhil Students
 ---
 
 Ethan GUO received his bachelor's degree in Integrated Circuit Science and Engineering from Xi'an Jiaotong University. He has experience in FPGA development, digital logic design, embedded systems, and hardware-software co-design. His research interests include GPU acceleration, cryptographic engineering, post-quantum cryptography, and fully homomorphic encryption.

@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - MPhil Students
 ---
 
 Mr. Frisk is a student majoring in Integrated Circuit Design and Integrated Systems. His research primarily focuses on front-end and back-end IC design, low-power techniques, and the architecture optimization of System-on-Chip (SoC). He is dedicated to exploring design methodologies and implementation solutions for high-performance, energy-efficient chips under advanced process nodes. Through his research, he aims to contribute to the advancement of integrated circuit technology and address challenges in practical applications.
