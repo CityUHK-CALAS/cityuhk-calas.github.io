@@ -19,10 +19,11 @@ sections:
           - Post-doctoral Fellows
           - PhD Students
           - Research Assistants
-          - MSc Students
           - MPhil Students
-          - Undergraduate Students
+          - MSc Students
           - Final Year Project Students
+          - Undergraduate Students
+
           - Researchers
           - Administration
           - International Exchange Visitors

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Mehdi CHOWDHURY
+title: Mehdi CHOWDHURY
 
 # Full Name (for SEO)
 first_name: Mehdi
@@ -10,12 +10,14 @@ last_name: CHOWDHURY
 superuser: False
 
 # Role/position
-role: Professor, Department of Electrical and Electronic Engineering, CUET
+role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
   - name: Chittagong University of Engineering & Technology (CUET)
     url: 'https://www.cuet.ac.bd/'
+  - name: City Unverisity of Hong Kong
+    url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -73,10 +75,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliate Faculty Members
+  - Post-doctoral Fellows
 ---
 
 Dr. Mehdi Hasan Chowdhury received the Hong Kong Ph.D. Fellowship (HKPFS) in 2018 and completed his Ph.D. degree from the Department of Electrical Engineering, City University of Hong Kong in 2021. He received several prestigious awards like outstanding academic performance award, research tuition scholarship, outstanding TA award, and HKPFS academic excellence award during his doctoral study in CityU. At present, Dr. Chowdhury is working at the Department of Electrical and Electronic Engineering, Chittagong University of Engineering and Technology (CUET), Bangladesh as a faculty member.
 
-
-Just after completing his graduation, he joined Samsung Research and Development (R&D) Institute Bangladesh Ltd. as a Software Engineer. Later, he was appointed as a faculty member in the Department of EEE at CUET. Now, he is currently working as a professor.
+Just after completing his graduation, he joined Samsung Research and Development (R&D) Institute Bangladesh Ltd. as a Software Engineer. Later, he was appointed as a faculty member in the Department of EEE at CUET and worked as a professor. Now, he is coming back to CALAS!

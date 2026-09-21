@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hairong YAO
+title: Breeze YAO
 
 # Full Name (for SEO)
 first_name: Hairong
@@ -52,7 +52,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate Students
+  - Final Year Project Students
 ---
 
 YAO Hairong is an undergraduate student in Electrical Engineering at City University of Hong Kong (Dean's List, expected 2027). She is supervised by Prof. Ray Cheung, working on AI-powered UAV inspection systems with a focus on embedded deployment and model optimization. She has industry experience in computer vision and will join Simon Fraser University as a research assistant in summer 2026.

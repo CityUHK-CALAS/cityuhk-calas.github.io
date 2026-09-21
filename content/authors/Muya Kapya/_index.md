@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Final Year Project Students
 ---
 
 Mr. Zachariah Muya Kapya (Muya) hails from Zambia and is pursuing a BEng in Computer and Data Engineering with a minor in Finance at City University of Hong Kong. With a strong interest in FPGA development, embedded systems, and hardware-software interfaces, Muya is developing his technical skills in programming and chip design to address global challenges through entrepreneurship. Passionate about advancing AI and technology through hardware-software integration, Muya enjoys reading, public speaking, and contributing to innovative solutions.

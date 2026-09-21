@@ -47,7 +47,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate Students
+  - Final Year Project Students
 ---
 
 Mr. Carl Yuanhang XU is an undergraduate student from Harbin Engineering University, majoring in Electronic Information Engineering. He is about to obtain a bachelor's degree in Electronic Information Engineering.

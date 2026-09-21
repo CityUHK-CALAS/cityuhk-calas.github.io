@@ -44,7 +44,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate Students
+  - Final Year Project Students
 ---
 
 Perry Wang is an undergraduate student in Integrated Circuit Design and Integrated Systems at the South China University of Technology. His research interests include FPGA/ASIC design, RISC-V and processor architecture, and digital circuit design.

@@ -1,5 +1,5 @@
 ---
-title: "Welcome Our New MPhil Students to CALAS!"
+title: "Welcome Our New MPhil Students from CityUHK Qingdao Research Institute 3 + 1 + X MPhil Programme to CALAS!"
 date: 2026-09-07
 draft: false
 weight: 1
@@ -19,7 +19,7 @@ CALAS warmly welcomes Frisk Huang, Yann Zhang, Charlie Chang, and Justin Ju as t
 
 <div style="text-align: justify">
 
-We are delighted to welcome four new MPhil students to CALAS under the supervision of **Prof. Ray C. C. Cheung**. Frisk, Yann, Charlie, and Justin join the group to begin their two-year MPhil studies in Hong Kong.
+We are delighted to welcome four new MPhil students from CityUHK Qingdao Research Institute 3 + 1 + X MPhil Programme to CALAS under the supervision of **Prof. Ray C. C. Cheung**. Frisk, Yann, Charlie, and Justin join the group to begin their two-year MPhil studies in Hong Kong.
 
 **Frisk HUANG** studied Integrated Circuit Design and Integrated Systems, with a focus on front-end and back-end IC design, low-power techniques, and SoC architecture. His work aims at high-performance, energy-efficient chips under advanced process nodes.
 

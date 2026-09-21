@@ -48,7 +48,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Final Year Project Students
 ---
 
 Mr. Siu-Ting Siu(Justin) an undergraduate student majoring in Computer and Data Engineering in the Electrical Engineering Department at City University of Hong Kong. Last semester, he was honored to be included on the Dean’s List. Currently, he is participating in an exchange program at the Czech Technical University in Prague, where he will be further expanding my knowledge and skills.

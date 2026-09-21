@@ -1,5 +1,5 @@
 ---
-title: "Prof. Ray Continues as IEEE Region 10 Student Activities Chair in 2027"
+title: "Prof. Ray Continues as IEEE Region 10 Student Activities Chair in 2027!"
 date: 2026-09-20
 draft: false
 weight: 1
