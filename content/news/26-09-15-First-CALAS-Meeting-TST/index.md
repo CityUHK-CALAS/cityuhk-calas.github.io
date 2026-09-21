@@ -1,5 +1,5 @@
 ---
-title: "CALAS Holds Its First Regular Meeting at TST East"
+title: "CALAS Holds Its First Regular Meeting at TST East!"
 date: 2026-09-15
 draft: false
 weight: 1
@@ -20,7 +20,11 @@ CALAS held its first regular group meeting at Intercontinental Plaza (ICP) in Ts
 
 CALAS members gathered at ICP in Tsim Sha Tsui East (TST East) for the group's first regular meeting at the new location. The meeting marked the beginning of an exciting transition as CALAS prepares to move into its new lab and office space.
 
-The TST East location will provide a larger, more connected environment for research, discussion, and collaboration. We look forward to making the new CALAS space a lively home for the group and to the opportunities ahead.
+The meeting brought members together at the new site to reconnect at the start of the semester and to look ahead to the group's next stage of development. It also gave the team an early opportunity to experience the setting that will support regular discussions, research exchanges, and collaborative work in the months ahead.
+
+The TST East location complements CALAS's core academic base in Kowloon Tong. Its larger lab and office environment will provide more room for the group to work together, host technical discussions, and strengthen links with collaborators and industry in Kowloon.
+
+As CALAS prepares for the move, the group is excited to build a lively new home for research and learning at ICP. We look forward to more regular meetings, shared ideas, and new achievements in the new space.
 
 </div>
 
