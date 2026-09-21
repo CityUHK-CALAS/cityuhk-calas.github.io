@@ -10,11 +10,11 @@ last_name: JU
 superuser: False
 
 # Role/position
-role: MPhil Student, CityUHK
+role: MPhil Student, CityUHK Qingdao Research Institute
 
 # Organizations/Affiliations
 organizations:
-  - name: City Unverisity of Hong Kong
+  - name: CityUHK Qingdao Research Institute
     url: 'https://www.cityu.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
