@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kian Lam
+title: Kian LAM
 
 # Full Name (for SEO)
 first_name: Tsz Hang Kian
-last_name: Lam
+last_name: LAM
 
 # Is this the primary user of the site?
 superuser: False

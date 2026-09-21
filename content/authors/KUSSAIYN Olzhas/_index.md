@@ -1,6 +1,6 @@
 ---
 # Display name
-title: KUSSAIYN Olzhas
+title: Olzhas KUSSAIYN
 
 # Full Name (for SEO)
 first_name: Olzhas
