@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Breeze YAO
+title: Nancy YAO
 
 # Full Name (for SEO)
 first_name: Hairong
