@@ -1,48 +1,224 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# CALAS Website
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+Source for the CALAS lab website at City University of Hong Kong. It is built with [Hugo](https://gohugo.io/) and the Wowchemy / Hugo Blox *Research Group* theme, and deployed by Netlify (`netlify.toml`).
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+All day-to-day edits happen in `content/`:
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+| Section | Folder | One item = |
+|---|---|---|
+| News | `content/news/` | `YY-MM-DD-Slug/index.md` + images |
+| Seminars | `content/seminar/` | `YY-MM-DD-Speaker/index.md` |
+| People | `content/authors/` | `<Name>/_index.md` + `avatar.jpg` |
+| Alumni | `content/alumni/index.md` | one `<details>` entry |
+| Publications | `content/publication/` | generated from DBLP |
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+> **Claude Code:** these instructions are also packaged as a project skill at `.claude/skills/calas-website/`, so "add a news for Prof. Ray…" follows the same rules automatically.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## Local preview
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+```bash
+hugo server            # http://localhost:1313, live reload
+hugo --quiet -d /tmp/calas-build   # one-off build check; no output = OK
+```
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## General rules
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- Copy the closest existing item and edit it. That is the most reliable template.
+- Folder dates use `YY-MM-DD` (e.g. `26-11-09-Ray-ARC-2027-PC`).
+- Writing style is formal and warm, in British English ("programme", "defence"). Use "Prof. Ray C. C. Cheung" on first mention, then "Prof. Ray".
+- Wrap body text in `<div style="text-align: justify">` … `</div>`, with blank lines inside.
+- Only state facts you were given. Don't guess URLs or numbers.
 
-## We ask you, humbly, to support this open source movement
+---
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+## News
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+`content/news/YY-MM-DD-Slug/index.md`. The thumbnail is `featured.jpg|png`, and extra photos are `image1.jpg`, `image2.jpg`, …
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+```markdown
+---
+title: "Prof. Ray Invited to Join the ARC 2027 Program Committee"
+date: 2026-11-09
+draft: false
+weight: 1
+pinned: false
+image:                 # remove this block if there is no featured image
+  src: featured.png
+  preview_only: true
+reading_time: false
+share: false
+profile: false
+---
 
-## Demo credits
+One-sentence teaser shown in the news list.
 
-Please replace the demo images with your own.
+<!--more-->
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+<div style="text-align: justify">
+
+What happened (who, full event name, date, place).
+
+Context about the venue / award.
+
+Significance and congratulations.
+
+For more information, visit the [Event website](https://...).
+
+</div>
+```
+
+For three or more photos, use the 2-column grid used in `content/news/26-10-23-Claire-PhD-Oral-Defense/index.md`.
+
+### News groups
+
+| Group | Typical title | Recent examples |
+|---|---|---|
+| **1. Paper acceptance** | "Congratulations to *X* on *Venue Year* Paper Acceptance!" | `26-11-03-Simon-HPCA-2027`, `26-09-02-Leo-IEEE-TCAD-Accepted` |
+| **2. Professional service** (PC, chair, editor, board) | "Prof. Ray Appointed to the Program Committee of *Conf Year*" | `26-11-09-Ray-ARC-2027-PC`, `26-10-23-Ray-HOST-2027-PC`, `26-07-24-ray-aspdac-tpc` |
+| **3. Awards, honours, grants, patents** | "Congratulations to *X* on *Award*!" | `26-05-16-Wayne-FCCM-Best-Paper`, `26-04-15-Andy-HKPFS`, `26-10-27-Wilson-GABES-US-Patent` |
+| **4. Member milestones** (welcome, PhD defence, offers, internships, exchanges, graduation, farewell) | "Welcome *X* to the CALAS Team!" / "Congratulations to Dr. *X* on Her PhD Oral Defence" | `26-10-06-Welcome-Syrus`, `26-10-23-Claire-PhD-Oral-Defense`, `26-10-04-Farewell-Elian-and-Ting` |
+| **5. Events, visits, lab life** | "*Visitor* Visits CALAS" / "*Event* at CityUHK" | `26-10-28-Rob-Dimond-Visit`, `26-10-21-RISCV-Hong-Kong-Day-2026` |
+| **6. Media features** | "Prof. Ray Featured by *Outlet* on *Topic*" | `26-04-30-Prof-Ray-BBC-Feature` |
+
+Welcome posts usually go with a new profile in `content/authors/`. After a defence or farewell, check whether the person moves to alumni.
+
+---
+
+## Seminars
+
+`content/seminar/YY-MM-DD-Speaker/index.md`. Seminars are separate from news.
+
+```markdown
+---
+title: "Talk Title"
+
+event: CALAS Seminar
+
+summary: |
+  **Speaker**: Prof. First Last, Associate Professor, University<br>
+  **Time**: November 4 2026 (Wed) at 15:30 HKT
+
+date: '2026-11-04T15:30:00Z'       # HKT clock time, written with Z
+date_end: '2026-11-04T17:30:00Z'
+all_day: false
+publishDate: '2026-11-03T00:00:00Z'
+
+authors: []
+tags: []
+featured: false
+reading_time: false
+share: false
+profile: false
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+slides:
+projects:
+---
+
+## Speaker
+
+Prof. First Last <br>
+Associate Professor, University
+
+## Time
+
+November 4 2026 (Wed) at 3:30 - 5:30 pm HKT
+
+## Abstract
+
+<div style="text-align: justify">
+...
+</div>
+
+## Biography
+
+<div style="text-align: justify">
+...
+</div>
+```
+
+---
+
+## People
+
+`content/authors/<Name>/_index.md` + `avatar.jpg|png`. The People page groups members by `user_groups` and sorts them by `last_name`.
+
+Valid `user_groups` (defined in `content/people/index.md`):
+Team Leaders · Team Advisors · Visiting Professors · Team Faculty Members · Affiliate Faculty Members · Post-doctoral Fellows · PhD Students · Research Assistants · MPhil Students · MSc Students · Final Year Project Students · Undergraduate Students · Researchers · Administration · International Exchange Visitors · Summer Intern Students
+
+```yaml
+---
+title: Kian LAM                 # English name + FAMILY NAME
+first_name: Tsz Hang Kian
+last_name: LAM
+superuser: false
+role: FYP Student, CityUHK
+organizations:
+  - name: City University of Hong Kong
+    url: 'https://www.cityu.edu.hk/'
+bio:
+interests:
+  - Edge Computing and IoT Monitoring
+education:
+  courses:
+    - course: BEng in Computer and Data Engineering
+      institution: City University of Hong Kong
+      year: 2027
+social:
+  - icon: linkedin          # github/fab, orcid/ai, google-scholar/ai, globe/fas
+    icon_pack: fab
+    link: https://www.linkedin.com/in/...
+email: ''
+highlight_name: false
+user_groups:
+  - Final Year Project Students
+---
+
+Third-person bio: degree, when they joined CALAS, supervisor, research focus.
+```
+
+**Role change:** edit `role:` and `user_groups:` in place.
+
+**Moving to alumni:**
+1. Set `user_groups: []` in the profile. Keep the folder so publication author links still work.
+2. Add a `<details>` entry to `content/alumni/index.md` under the right heading, newest first, and update the "(N in total)" count:
+
+```html
+       <details>
+        <summary> <strong>Dr. FAMILY Given (English)</strong> (2026 graduate) <span>&#10132;</span> Next Employer </summary>
+        <ul>
+          <li>Research focus: ... </li>
+          <li>Current position: ... </li>
+        </ul>
+        </details>
+```
+
+The alumni page is a single YAML `text: |` block, so keep the indentation the same as the neighbouring entries.
+
+---
+
+## Publications
+
+Generated from Prof. Ray C. C. Cheung's DBLP record with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) (`pip install academic`).
+
+```bash
+wget https://dblp.org/pid/96/2421.bib -O content/publication/2421.bib
+academic import content/publication/2421.bib content/publication/ --verbose
+```
+
+Or run both with `bash .claude/skills/calas-website/scripts/update_publications.sh`. This is the safer option: it only replaces `2421.bib` when DBLP really returned BibTeX.
+
+- **If DBLP shows a "Making sure you're not a bot!" page** (it does this to wget/curl at times), the raw `wget` above overwrites `2421.bib` with HTML. Instead, open https://dblp.org/pid/96/2421.bib in a browser, save it as `content/publication/2421.bib`, and run `bash .claude/skills/calas-website/scripts/update_publications.sh --skip-download`.
+
+- Each entry becomes `content/publication/dblp-<key>/index.md` + `cite.bib`.
+- Existing entries are skipped, so hand edits (abstract, `url_pdf`, `featured.png`) are kept. Add `--overwrite` only to regenerate everything.
+- Check `git status content/publication` to see what was added. Commit as "Update publication".
+
+---
+
+## Theme
+
+Based on the [Hugo Blox Research Group theme](https://github.com/HugoBlox/theme-research-group). See the [Hugo Blox documentation](https://docs.hugoblox.com/) for widgets, configuration (`config/_default/`) and theme updates.
