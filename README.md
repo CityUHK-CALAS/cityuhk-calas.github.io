@@ -1,6 +1,6 @@
 # CALAS Website
 
-Source for the CALAS lab website at City University of Hong Kong. It is built with [Hugo](https://gohugo.io/) and the Wowchemy / Hugo Blox *Research Group* theme, and deployed by Netlify (`netlify.toml`).
+Source for the CALAS lab website at City University of Hong Kong. It is built with [Hugo](https://gohugo.io/) and the Wowchemy / Hugo Blox *Research Group* theme, and deployed to GitHub Pages (<https://cityuhk-calas.github.io>) by the workflow in `.github/workflows/publish.yaml` on every push to `main`. `netlify.toml` is kept for Netlify builds.
 
 All day-to-day edits happen in `content/`:
 
@@ -16,10 +16,17 @@ All day-to-day edits happen in `content/`:
 
 ## Local preview
 
+Requirements: Hugo 0.170.1 (same version as CI), Go (for Hugo Modules) and Dart Sass. The theme's SCSS needs Dart Sass because current Hugo builds no longer include LibSass.
+
 ```bash
-hugo server            # http://localhost:1313, live reload
+brew install hugo go dart-sass
+hugo server -D         # http://localhost:1313, live reload
 hugo --quiet -d /tmp/calas-build   # one-off build check; no output = OK
 ```
+
+- `hugo server` keeps running in the foreground after "Web Server is available"; that is normal. Stop it with Ctrl+C.
+- After upgrading Hugo (e.g. `brew upgrade hugo`), restart any running `hugo server`. An old server keeps using the removed binary and shows "logged 1 error".
+- When upgrading Hugo, also bump `WC_HUGO_VERSION` in `.github/workflows/publish.yaml` (and `HUGO_VERSION` in `netlify.toml`).
 
 ## General rules
 
@@ -202,7 +209,11 @@ The alumni page is a single YAML `text: |` block, so keep the indentation the sa
 
 ## Publications
 
-Generated from Prof. Ray C. C. Cheung's DBLP record with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) (`pip install academic`).
+Generated from Prof. Ray C. C. Cheung's DBLP record with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter). Install it once in its own virtual environment (the update script looks for it on `PATH` and then in `~/.venvs/academic`):
+
+```bash
+python3 -m venv ~/.venvs/academic && ~/.venvs/academic/bin/pip install academic
+```
 
 ```bash
 wget https://dblp.org/pid/96/2421.bib -O content/publication/2421.bib
@@ -215,10 +226,16 @@ Or run both with `bash .claude/skills/calas-website/scripts/update_publications.
 
 - Each entry becomes `content/publication/dblp-<key>/index.md` + `cite.bib`.
 - Existing entries are skipped, so hand edits (abstract, `url_pdf`, `featured.png`) are kept. Add `--overwrite` only to regenerate everything.
+- **Duplicates:** DBLP often lists a paper twice (CoRR / IACR ePrint preprint and the published version). Delete the preprint folder with `git rm -r` and add its folder name to `.claude/skills/calas-website/scripts/publication_excludes.txt`; the script removes every listed folder after each import, so it is not recreated. Keep both when they are different papers (conference paper and extended journal version).
 - Check `git status content/publication` to see what was added. Commit as "Update publication".
 
 ---
 
 ## Theme
 
-Based on the [Hugo Blox Research Group theme](https://github.com/HugoBlox/theme-research-group). See the [Hugo Blox documentation](https://docs.hugoblox.com/) for widgets, configuration (`config/_default/`) and theme updates.
+Based on the [Hugo Blox Research Group theme](https://github.com/HugoBlox/theme-research-group). See the [Hugo Blox documentation](https://docs.hugoblox.com/) for widgets and configuration (`config/_default/`).
+
+- The theme module `blox-bootstrap/v5` (pinned in `go.mod`) is the last Bootstrap build; Hugo Blox has removed it upstream, so it cannot be upgraded further. Moving on would mean migrating to the newer Tailwind-based Hugo Blox theme.
+- `layouts/` overrides a few theme templates to replace calls deprecated in Hugo 0.158+/0.163+ (`site.LanguageCode` → `site.Language.Locale`, `.IsNode` → `not .IsPage`). Files there take precedence over the module's copies:
+  - from `blox-bootstrap`: `_default/baseof.html`, `_default/rss.xml`, `authors/list.html`, `partials/page_header.html`
+  - from `blox-seo`: `index.webmanifest`, `partials/seo_tags.html`

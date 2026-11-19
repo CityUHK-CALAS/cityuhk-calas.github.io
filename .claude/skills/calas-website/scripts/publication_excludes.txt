@@ -1,0 +1,16 @@
+# Publication folders to remove after each DBLP import (one per line).
+# Preprints (CoRR / IACR ePrint) whose published version is already on the site.
+dblp-journalscorrabs-2406-11536
+dblp-journalscorrabs-1909-11366
+dblp-journalscorrabs-2605-01935
+dblp-journalscorrabs-2307-07754
+dblp-journalscorrabs-2005-06870
+dblp-journalscorrabs-2306-11351
+dblp-journalscorrabs-1805-06737
+dblp-journalscorrabs-2309-00440
+dblp-journalscorrabs-2605-01931
+dblp-journalsiacr-chen-mvrcpv-14-a
+dblp-journalsiacr-huang-zz-0-ckc-22
+dblp-journalsiacr-ye-hhblzlcch-24
+dblp-journalscorrabs-2602-11062
+dblp-journalsiacr-ye-hwlwch-24

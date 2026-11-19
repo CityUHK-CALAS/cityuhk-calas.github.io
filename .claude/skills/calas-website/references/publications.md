@@ -1,6 +1,6 @@
 # Publications (from DBLP)
 
-Publications are generated from Prof. Ray C. C. Cheung's DBLP record (pid `96/2421`) with the Hugo Academic CLI (`academic`, from the miniconda install).
+Publications are generated from Prof. Ray C. C. Cheung's DBLP record (pid `96/2421`) with the Hugo Academic CLI (`academic`). The script finds it on `PATH` or in `~/.venvs/academic`; if missing, install with `python3 -m venv ~/.venvs/academic && ~/.venvs/academic/bin/pip install academic`. Downloads use `wget`, or `curl` when `wget` is not installed.
 
 ## Update
 
@@ -26,6 +26,6 @@ academic import content/publication/2421.bib content/publication/ --verbose
 
 - `abstract:` and `url_pdf:` can be filled in by hand.
 - Add `featured.png` and set `featured: true` to highlight a paper.
-- DBLP sometimes lists the same paper twice (CoRR preprint and final venue). Mention any obvious duplicates to the user, but don't delete without asking.
+- DBLP sometimes lists the same paper twice (CoRR / IACR ePrint preprint and final venue). Mention any obvious duplicates to the user, but don't delete without asking. Once a deletion is approved, `git rm -r` the preprint folder and add its folder name to `scripts/publication_excludes.txt`, otherwise the next import recreates it (the script removes every listed folder after importing). Keep both entries when they are genuinely different papers, e.g. a conference paper and its extended journal version, or two papers at different venues that share a title.
 
 Commit message style: "Update publication".

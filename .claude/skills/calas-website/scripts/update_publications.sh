@@ -14,7 +14,11 @@ if [[ "${1:-}" == "--skip-download" ]]; then
   shift
 else
   TMP=$(mktemp)
-  wget -q "$URL" -O "$TMP" || true
+  if command -v wget >/dev/null; then
+    wget -q "$URL" -O "$TMP" || true
+  else
+    curl -fsSL "$URL" -o "$TMP" || true
+  fi
   # DBLP sometimes serves an HTML "not a bot" challenge instead of BibTeX.
   if grep -q '^@' "$TMP" && ! grep -qi '<html' "$TMP"; then
     mv "$TMP" "$BIB"
@@ -27,8 +31,26 @@ else
   fi
 fi
 
-academic import "$BIB" content/publication/ --verbose "$@"
+ACADEMIC=$(command -v academic || echo "$HOME/.venvs/academic/bin/academic")
+if [[ ! -x "$ACADEMIC" ]]; then
+  echo "ERROR: Hugo Academic CLI not found. Install it with:" >&2
+  echo "  python3 -m venv ~/.venvs/academic && ~/.venvs/academic/bin/pip install academic" >&2
+  exit 1
+fi
+
+"$ACADEMIC" import "$BIB" content/publication/ --verbose "$@"
+
+# Remove known duplicates (preprints whose published version is already on the site).
+EXCLUDES="$(dirname "$0")/publication_excludes.txt"
+if [[ -f "$EXCLUDES" ]]; then
+  grep -v '^\s*\(#\|$\)' "$EXCLUDES" | while read -r d; do
+    if [[ -d "content/publication/$d" ]]; then
+      rm -rf "content/publication/$d"
+      echo "Removed excluded duplicate: $d"
+    fi
+  done
+fi
 
 echo
 echo "New publication folders:"
-git status --short --untracked-files=all content/publication | grep '/index.md' | sed 's/^?? //' || echo "(none)"
+git status --short --untracked-files=all content/publication | grep '^?? .*/index.md' | sed 's/^?? //' || echo "(none)"
