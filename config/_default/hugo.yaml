@@ -41,8 +41,11 @@ imaging:
   # a simple and fast averaging filter appropriate for downscaling.
   # See https://github.com/disintegration/imaging
   resampleFilter: lanczos
-  # Default JPEG quality setting. Default is 75.
-  quality: 100
+  # JPEG/WebP quality settings (per format since Hugo v0.163). Default is 75.
+  jpeg:
+    quality: 100
+  webp:
+    quality: 100
   # Anchor used when cropping pictures.
   # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
   # Smart Cropping is content aware and tries to find the best crop for each image.
